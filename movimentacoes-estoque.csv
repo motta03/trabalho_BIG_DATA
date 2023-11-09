@@ -1,0 +1,1474 @@
+﻿Tipo;Produto;Un. Med.;Operação;Est. Anterior;Qtd.;E/S;Est. Final;Usuário;Data e Hora;Observações
+Produto;COCA-COLA ZERO 2L;UN;Saída;-4;-1;Saída;-5;Eduarda;15/10/2023 21:46;Venda de COCA-COLA ZERO 2L do pedido 73
+Insumo;MUSSARELA;kg;Saída;3,221;-0,18;Saída;3,041;Eduarda;15/10/2023 21:19;Venda de PIZZA BACON C/ OVOS GRANDE do pedido 77
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;3,561;-0,02;Saída;3,541;Eduarda;15/10/2023 21:19;Venda de PIZZA BACON C/ OVOS GRANDE do pedido 77
+Insumo;BACON;kg;Saída;3,48;-0,04;Saída;3,44;Eduarda;15/10/2023 21:19;Venda de PIZZA BACON C/ OVOS GRANDE do pedido 77
+Insumo;ORÉGANO;kg;Saída;0,008;-0,001;Saída;0,007;Eduarda;15/10/2023 21:19;Venda de PIZZA BACON C/ OVOS GRANDE do pedido 77
+Insumo;MOLHO TOMATE;kg;Saída;-4,62;-0,04;Saída;-4,66;Eduarda;15/10/2023 21:19;Venda de PIZZA BACON C/ OVOS GRANDE do pedido 77
+Insumo;MASSA PIZZA;kg;Saída;-26,455;-0,26;Saída;-26,715;Eduarda;15/10/2023 21:19;Venda de PIZZA BACON C/ OVOS GRANDE do pedido 77
+Insumo;SACO BOBINA;UN;Saída;-70;-1;Saída;-71;Eduarda;15/10/2023 21:19;Venda de PIZZA BACON C/ OVOS GRANDE do pedido 77
+Insumo;CAIXA GRANDE;UN;Saída;16,5;-1;Saída;15,5;Eduarda;15/10/2023 21:19;Venda de PIZZA BACON C/ OVOS GRANDE do pedido 77
+Insumo;OVO;UN;Saída;-33;-2;Saída;-35;Eduarda;15/10/2023 21:19;Venda de PIZZA BACON C/ OVOS GRANDE do pedido 77
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;3,611;-0,05;Saída;3,561;Eduarda;15/10/2023 21:11;Venda de complemento Adicional Catupiry do pedido 76
+Insumo;MUSSARELA;kg;Saída;3,401;-0,18;Saída;3,221;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;PEPPERONI;kg;Saída;0,993;-0,05;Saída;0,943;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;ORÉGANO;kg;Saída;0,009;-0,001;Saída;0,008;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;MOLHO TOMATE;kg;Saída;-4,58;-0,04;Saída;-4,62;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;MASSA PIZZA;kg;Saída;-26,195;-0,26;Saída;-26,455;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;SACO BOBINA;UN;Saída;-69;-1;Saída;-70;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;CAIXA GRANDE;UN;Saída;17,5;-1;Saída;16,5;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;MUSSARELA;kg;Devolução;3,221;0,18;Entrada;3,401;Eduarda;15/10/2023 21:11;Alteração do item: 258
+Insumo;PEPPERONI;kg;Devolução;0,943;0,05;Entrada;0,993;Eduarda;15/10/2023 21:11;Alteração do item: 258
+Insumo;ORÉGANO;kg;Devolução;0,008;0,001;Entrada;0,009;Eduarda;15/10/2023 21:11;Alteração do item: 258
+Insumo;MOLHO TOMATE;kg;Devolução;-4,62;0,04;Entrada;-4,58;Eduarda;15/10/2023 21:11;Alteração do item: 258
+Insumo;MASSA PIZZA;kg;Devolução;-26,455;0,26;Entrada;-26,195;Eduarda;15/10/2023 21:11;Alteração do item: 258
+Insumo;SACO BOBINA;UN;Devolução;-70;1;Entrada;-69;Eduarda;15/10/2023 21:11;Alteração do item: 258
+Insumo;CAIXA GRANDE;UN;Devolução;16,5;1;Entrada;17,5;Eduarda;15/10/2023 21:11;Alteração do item: 258
+Insumo;MUSSARELA;kg;Saída;3,401;-0,18;Saída;3,221;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;PEPPERONI;kg;Saída;0,993;-0,05;Saída;0,943;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;ORÉGANO;kg;Saída;0,009;-0,001;Saída;0,008;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;MOLHO TOMATE;kg;Saída;-4,58;-0,04;Saída;-4,62;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;MASSA PIZZA;kg;Saída;-26,195;-0,26;Saída;-26,455;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;SACO BOBINA;UN;Saída;-69;-1;Saída;-70;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;CAIXA GRANDE;UN;Saída;17,5;-1;Saída;16,5;Eduarda;15/10/2023 21:11;Venda de PIZZA PEPPERONI GRANDE do pedido 76
+Insumo;MUSSARELA;kg;Saída;3,581;-0,18;Saída;3,401;Eduarda;15/10/2023 21:11;Venda de PIZZA ALHO PORÓ GRANDE do pedido 76
+Insumo;CREAME CHEESE;kg;Saída;1,06;-0,08;Saída;0,98;Eduarda;15/10/2023 21:11;Venda de PIZZA ALHO PORÓ GRANDE do pedido 76
+Insumo;ORÉGANO;kg;Saída;0,01;-0,001;Saída;0,009;Eduarda;15/10/2023 21:11;Venda de PIZZA ALHO PORÓ GRANDE do pedido 76
+Insumo;MOLHO TOMATE;kg;Saída;-4,54;-0,04;Saída;-4,58;Eduarda;15/10/2023 21:11;Venda de PIZZA ALHO PORÓ GRANDE do pedido 76
+Insumo;MASSA PIZZA;kg;Saída;-25,935;-0,26;Saída;-26,195;Eduarda;15/10/2023 21:11;Venda de PIZZA ALHO PORÓ GRANDE do pedido 76
+Insumo;SACO BOBINA;UN;Saída;-68;-1;Saída;-69;Eduarda;15/10/2023 21:11;Venda de PIZZA ALHO PORÓ GRANDE do pedido 76
+Insumo;CAIXA GRANDE;UN;Saída;18,5;-1;Saída;17,5;Eduarda;15/10/2023 21:11;Venda de PIZZA ALHO PORÓ GRANDE do pedido 76
+Insumo;ALHO PORÓ;kg;Saída;-0,095;-0,03;Saída;-0,125;Eduarda;15/10/2023 21:11;Venda de PIZZA ALHO PORÓ GRANDE do pedido 76
+Insumo;PIMENTA BIQUINHO;kg;Saída;-0,039;-0,006;Saída;-0,045;Eduarda;15/10/2023 21:11;Venda de PIZZA ALHO PORÓ GRANDE do pedido 76
+Produto;GUARANÁ ANT. 1,5L;UN;Saída;1;-1;Saída;0;Eduarda;15/10/2023 21:10;Venda de GUARANÁ ANT. 1,5L do pedido 76
+Produto;GUARANÁ MANT. 2L;UN;Saída;0;-1;Saída;-1;Eduarda;15/10/2023 19:18;Venda de GUARANÁ MANT. 2L do pedido 75
+Insumo;MUSSARELA;kg;Saída;3,736;-0,155;Saída;3,581;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;AZEITONA PRETA;kg;Saída;0,145;-0,0075;Saída;0,1375;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;PRESUNTO;kg;Saída;-0,065;-0,025;Saída;-0,09;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,143;-0,03;Saída;1,113;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;CEBOLA ROXA;kg;Saída;0,174;-0,005;Saída;0,169;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;ORÉGANO;kg;Saída;0,0105;-0,0005;Saída;0,01;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;CEBOLA;kg;Saída;0,897;-0,0075;Saída;0,8895;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;PIMENTÃO;kg;Saída;0,207;-0,0075;Saída;0,1995;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;MOLHO TOMATE;kg;Saída;-4,495;-0,045;Saída;-4,54;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;MASSA PIZZA;kg;Saída;-25,715;-0,22;Saída;-25,935;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;SACO BOBINA;UN;Saída;-67,5;-0,5;Saída;-68;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;CAIXA GIGANTE;UN;Saída;12;-0,5;Saída;11,5;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;OVO;UN;Saída;-32;-1;Saída;-33;Eduarda;15/10/2023 19:15;Venda de 1/2 PORTUGUESA do pedido 75
+Insumo;MUSSARELA;kg;Saída;3,891;-0,155;Saída;3,736;Eduarda;15/10/2023 19:15;Venda de 1/2 CALABRESA do pedido 75
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,258;-0,115;Saída;1,143;Eduarda;15/10/2023 19:15;Venda de 1/2 CALABRESA do pedido 75
+Insumo;CEBOLA ROXA;kg;Saída;0,1755;-0,0015;Saída;0,174;Eduarda;15/10/2023 19:15;Venda de 1/2 CALABRESA do pedido 75
+Insumo;ORÉGANO;kg;Saída;0,011;-0,0005;Saída;0,0105;Eduarda;15/10/2023 19:15;Venda de 1/2 CALABRESA do pedido 75
+Insumo;CEBOLA;kg;Saída;0,902;-0,005;Saída;0,897;Eduarda;15/10/2023 19:15;Venda de 1/2 CALABRESA do pedido 75
+Insumo;MOLHO TOMATE;kg;Saída;-4,45;-0,045;Saída;-4,495;Eduarda;15/10/2023 19:15;Venda de 1/2 CALABRESA do pedido 75
+Insumo;MASSA PIZZA;kg;Saída;-25,495;-0,22;Saída;-25,715;Eduarda;15/10/2023 19:15;Venda de 1/2 CALABRESA do pedido 75
+Insumo;SACO BOBINA;UN;Saída;-67;-0,5;Saída;-67,5;Eduarda;15/10/2023 19:15;Venda de 1/2 CALABRESA do pedido 75
+Insumo;CAIXA GIGANTE;UN;Saída;12,5;-0,5;Saída;12;Eduarda;15/10/2023 19:15;Venda de 1/2 CALABRESA do pedido 75
+Insumo;MASSA PIZZA;kg;Saída;-25,475;-0,02;Saída;-25,495;Eduarda;15/10/2023 19:04;Venda de DOCE DE LEITE do pedido 73
+Insumo;DOCE DE LEITE;kg;Saída;-0,16;-0,02;Saída;-0,18;Eduarda;15/10/2023 19:04;Venda de DOCE DE LEITE do pedido 73
+Insumo;CHOCOLATE BRANCO;kg;Saída;0,39;-0,06;Saída;0,33;Eduarda;15/10/2023 19:04;Venda de CHOCOLATE BRANCO do pedido 73
+Insumo;MASSA PIZZA;kg;Saída;-25,375;-0,1;Saída;-25,475;Eduarda;15/10/2023 19:04;Venda de CHOCOLATE BRANCO do pedido 73
+Insumo;CHOCOLATE AO LEITE;kg;Saída;1,074;-0,06;Saída;1,014;Eduarda;15/10/2023 19:04;Venda de CHOCOLATE AO LEITE do pedido 73
+Insumo;MASSA PIZZA;kg;Saída;-25,275;-0,1;Saída;-25,375;Eduarda;15/10/2023 19:04;Venda de CHOCOLATE AO LEITE do pedido 73
+Insumo;MUSSARELA;kg;Saída;4,046;-0,155;Saída;3,891;Eduarda;15/10/2023 19:00;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 73
+Insumo;CREAME CHEESE;kg;Saída;1,09;-0,03;Saída;1,06;Eduarda;15/10/2023 19:00;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 73
+Insumo;PEITO DE PERU;kg;Saída;-0,156;-0,06;Saída;-0,216;Eduarda;15/10/2023 19:00;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 73
+Insumo;ORÉGANO;kg;Saída;0,0115;-0,0005;Saída;0,011;Eduarda;15/10/2023 19:00;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 73
+Insumo;MOLHO TOMATE;kg;Saída;-4,405;-0,045;Saída;-4,45;Eduarda;15/10/2023 19:00;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 73
+Insumo;MASSA PIZZA;kg;Saída;-25,055;-0,22;Saída;-25,275;Eduarda;15/10/2023 19:00;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 73
+Insumo;SACO BOBINA;UN;Saída;-66,5;-0,5;Saída;-67;Eduarda;15/10/2023 19:00;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 73
+Insumo;CAIXA GIGANTE;UN;Saída;13;-0,5;Saída;12,5;Eduarda;15/10/2023 19:00;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 73
+Insumo;MUSSARELA;kg;Saída;4,201;-0,155;Saída;4,046;Eduarda;15/10/2023 19:00;Venda de 1/2 4 QUEIJOS do pedido 73
+Insumo;GORGONZOLA;kg;Saída;-0,024;-0,01;Saída;-0,034;Eduarda;15/10/2023 19:00;Venda de 1/2 4 QUEIJOS do pedido 73
+Insumo;ORÉGANO;kg;Saída;0,012;-0,0005;Saída;0,0115;Eduarda;15/10/2023 19:00;Venda de 1/2 4 QUEIJOS do pedido 73
+Insumo;MOLHO TOMATE;kg;Saída;-4,36;-0,045;Saída;-4,405;Eduarda;15/10/2023 19:00;Venda de 1/2 4 QUEIJOS do pedido 73
+Insumo;MASSA PIZZA;kg;Saída;-24,835;-0,22;Saída;-25,055;Eduarda;15/10/2023 19:00;Venda de 1/2 4 QUEIJOS do pedido 73
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,805;-0,05;Saída;-0,855;Eduarda;15/10/2023 19:00;Venda de 1/2 4 QUEIJOS do pedido 73
+Insumo;SACO BOBINA;UN;Saída;-66;-0,5;Saída;-66,5;Eduarda;15/10/2023 19:00;Venda de 1/2 4 QUEIJOS do pedido 73
+Insumo;CAIXA GIGANTE;UN;Saída;13,5;-0,5;Saída;13;Eduarda;15/10/2023 19:00;Venda de 1/2 4 QUEIJOS do pedido 73
+Insumo;MUSSARELA;kg;Saída;4,511;-0,31;Saída;4,201;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;AZEITONA PRETA;kg;Saída;0,16;-0,015;Saída;0,145;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;PRESUNTO;kg;Saída;-0,015;-0,05;Saída;-0,065;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,318;-0,06;Saída;1,258;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;CEBOLA ROXA;kg;Saída;0,1855;-0,01;Saída;0,1755;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;ORÉGANO;kg;Saída;0,013;-0,001;Saída;0,012;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;CEBOLA;kg;Saída;0,917;-0,015;Saída;0,902;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;PIMENTÃO;kg;Saída;0,222;-0,015;Saída;0,207;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;MOLHO TOMATE;kg;Saída;-4,27;-0,09;Saída;-4,36;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;MASSA PIZZA;kg;Saída;-24,395;-0,44;Saída;-24,835;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;SACO BOBINA;UN;Saída;-65;-1;Saída;-66;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;CAIXA GIGANTE;UN;Saída;14,5;-1;Saída;13,5;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;OVO;UN;Saída;-30;-2;Saída;-32;Eduarda;15/10/2023 19:00;Venda de PIZZA PORTUGUESA GIGANTE do pedido 73
+Insumo;MUSSARELA;kg;Saída;4,821;-0,31;Saída;4,511;Eduarda;15/10/2023 19:00;Venda de PIZZA MARGUERITA GIGANTE do pedido 73
+Insumo;TOMATE SALADA;kg;Saída;1,7085;-0,03;Saída;1,6785;Eduarda;15/10/2023 19:00;Venda de PIZZA MARGUERITA GIGANTE do pedido 73
+Insumo;ORÉGANO;kg;Saída;0,014;-0,001;Saída;0,013;Eduarda;15/10/2023 19:00;Venda de PIZZA MARGUERITA GIGANTE do pedido 73
+Insumo;MOLHO TOMATE;kg;Saída;-4,18;-0,09;Saída;-4,27;Eduarda;15/10/2023 19:00;Venda de PIZZA MARGUERITA GIGANTE do pedido 73
+Insumo;MASSA PIZZA;kg;Saída;-23,955;-0,44;Saída;-24,395;Eduarda;15/10/2023 19:00;Venda de PIZZA MARGUERITA GIGANTE do pedido 73
+Insumo;SACO BOBINA;UN;Saída;-64;-1;Saída;-65;Eduarda;15/10/2023 19:00;Venda de PIZZA MARGUERITA GIGANTE do pedido 73
+Insumo;CAIXA GIGANTE;UN;Saída;15,5;-1;Saída;14,5;Eduarda;15/10/2023 19:00;Venda de PIZZA MARGUERITA GIGANTE do pedido 73
+Insumo;MANJERICÃO FRESCO;kg;Saída;-0,005;-0,001;Saída;-0,006;Eduarda;15/10/2023 19:00;Venda de PIZZA MARGUERITA GIGANTE do pedido 73
+Insumo;SAL;kg;Saída;1,608;-0,05;Saída;1,558;Eduarda;15/10/2023 18:48;Venda de PROD. FRANGO DESFIADO do pedido 69
+Insumo;ALHO;kg;Saída;0,225;-0,024;Saída;0,201;Eduarda;15/10/2023 18:48;Venda de PROD. FRANGO DESFIADO do pedido 69
+Insumo;CEBOLA;kg;Saída;1,193;-0,276;Saída;0,917;Eduarda;15/10/2023 18:48;Venda de PROD. FRANGO DESFIADO do pedido 69
+Insumo;FRANGO DESFIADO;kg;Saída;1,477;-1,477;Saída;0;Eduarda;15/10/2023 18:48;Venda de PROD. FRANGO DESFIADO do pedido 69
+Insumo;PÁPRICA DEFUMADA;kg;Saída;0;-0,014;Saída;-0,014;Eduarda;15/10/2023 18:48;Venda de PROD. FRANGO DESFIADO do pedido 69
+Insumo;PIMENTA DO REINO;kg;Saída;0,012;-0,005;Saída;0,007;Eduarda;15/10/2023 18:48;Venda de PROD. FRANGO DESFIADO do pedido 69
+Insumo;CURRY;kg;Saída;0;-0,006;Saída;-0,006;Eduarda;15/10/2023 18:48;Venda de PROD. FRANGO DESFIADO do pedido 69
+Insumo;MOSTARDA PÓ;kg;Saída;0;-0,014;Saída;-0,014;Eduarda;15/10/2023 18:48;Venda de PROD. FRANGO DESFIADO do pedido 69
+Insumo;ÓLEO;l;Saída;1,32;-1,12;Saída;0,2;Eduarda;15/10/2023 18:40;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;FARINHA;kg;Saída;27,6;-17,36;Saída;10,24;Eduarda;15/10/2023 18:40;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;SAL;kg;Saída;1,804;-0,196;Saída;1,608;Eduarda;15/10/2023 18:40;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;AÇÚCAR;kg;Saída;1,566;-0,7;Saída;0,866;Eduarda;15/10/2023 18:40;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;FERMENTO ;kg;Saída;-0,02;-0,028;Saída;-0,048;Eduarda;15/10/2023 18:40;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;ÓLEO;l;Devolução;0,16;1,16;Entrada;1,32;Eduarda;15/10/2023 18:40;Alteração da quantidade do item: 29 -> 28
+Insumo;FARINHA;kg;Devolução;9,62;17,98;Entrada;27,6;Eduarda;15/10/2023 18:40;Alteração da quantidade do item: 29 -> 28
+Insumo;SAL;kg;Devolução;1,601;0,203;Entrada;1,804;Eduarda;15/10/2023 18:40;Alteração da quantidade do item: 29 -> 28
+Insumo;AÇÚCAR;kg;Devolução;0,841;0,725;Entrada;1,566;Eduarda;15/10/2023 18:40;Alteração da quantidade do item: 29 -> 28
+Insumo;FERMENTO ;kg;Devolução;-0,049;0,029;Entrada;-0,02;Eduarda;15/10/2023 18:40;Alteração da quantidade do item: 29 -> 28
+Insumo;ÓLEO;l;Saída;1,32;-1,16;Saída;0,16;Eduarda;15/10/2023 18:39;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;FARINHA;kg;Saída;27,6;-17,98;Saída;9,62;Eduarda;15/10/2023 18:39;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;SAL;kg;Saída;1,804;-0,203;Saída;1,601;Eduarda;15/10/2023 18:39;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;AÇÚCAR;kg;Saída;1,566;-0,725;Saída;0,841;Eduarda;15/10/2023 18:39;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;FERMENTO ;kg;Saída;-0,02;-0,029;Saída;-0,049;Eduarda;15/10/2023 18:39;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;ÓLEO;l;Devolução;0,12;1,2;Entrada;1,32;Eduarda;15/10/2023 18:39;Alteração da quantidade do item: 30 -> 29
+Insumo;FARINHA;kg;Devolução;9;18,6;Entrada;27,6;Eduarda;15/10/2023 18:39;Alteração da quantidade do item: 30 -> 29
+Insumo;SAL;kg;Devolução;1,594;0,21;Entrada;1,804;Eduarda;15/10/2023 18:39;Alteração da quantidade do item: 30 -> 29
+Insumo;AÇÚCAR;kg;Devolução;0,816;0,75;Entrada;1,566;Eduarda;15/10/2023 18:39;Alteração da quantidade do item: 30 -> 29
+Insumo;FERMENTO ;kg;Devolução;-0,05;0,03;Entrada;-0,02;Eduarda;15/10/2023 18:39;Alteração da quantidade do item: 30 -> 29
+Insumo;ÓLEO;l;Saída;1,32;-1,2;Saída;0,12;Eduarda;15/10/2023 18:36;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;FARINHA;kg;Saída;27,6;-18,6;Saída;9;Eduarda;15/10/2023 18:36;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;SAL;kg;Saída;1,804;-0,21;Saída;1,594;Eduarda;15/10/2023 18:36;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;AÇÚCAR;kg;Saída;1,566;-0,75;Saída;0,816;Eduarda;15/10/2023 18:36;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;FERMENTO ;kg;Saída;-0,02;-0,03;Saída;-0,05;Eduarda;15/10/2023 18:36;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;ÓLEO;l;Saída;2,12;-0,8;Saída;1,32;Eduarda;15/10/2023 18:28;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;FARINHA;kg;Saída;40;-12,4;Saída;27,6;Eduarda;15/10/2023 18:28;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;SAL;kg;Saída;1,944;-0,14;Saída;1,804;Eduarda;15/10/2023 18:28;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;AÇÚCAR;kg;Saída;2,066;-0,5;Saída;1,566;Eduarda;15/10/2023 18:28;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;FERMENTO ;kg;Saída;0;-0,02;Saída;-0,02;Eduarda;15/10/2023 18:28;Venda de PROD. MASSA PIZZA do pedido 69
+Insumo;MUSSARELA;kg;Saída;5,001;-0,18;Saída;4,821;Eduarda;15/10/2023 18:24;Venda de PIZZA MUSSARELA  GRANDE do pedido 68
+Insumo;ORÉGANO;kg;Saída;0,015;-0,001;Saída;0,014;Eduarda;15/10/2023 18:24;Venda de PIZZA MUSSARELA  GRANDE do pedido 68
+Insumo;MOLHO TOMATE;kg;Saída;-4,14;-0,04;Saída;-4,18;Eduarda;15/10/2023 18:24;Venda de PIZZA MUSSARELA  GRANDE do pedido 68
+Insumo;MASSA PIZZA;kg;Saída;-23,695;-0,26;Saída;-23,955;Eduarda;15/10/2023 18:24;Venda de PIZZA MUSSARELA  GRANDE do pedido 68
+Insumo;SACO BOBINA;UN;Saída;-63;-1;Saída;-64;Eduarda;15/10/2023 18:24;Venda de PIZZA MUSSARELA  GRANDE do pedido 68
+Insumo;CAIXA GRANDE;UN;Saída;19,5;-1;Saída;18,5;Eduarda;15/10/2023 18:24;Venda de PIZZA MUSSARELA  GRANDE do pedido 68
+Insumo;MUSSARELA;kg;Saída;5,111;-0,11;Saída;5,001;Eduarda;14/10/2023 21:05;Venda de PIZZA CALABRESA BROTINHO do pedido 67
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,478;-0,16;Saída;1,318;Eduarda;14/10/2023 21:05;Venda de PIZZA CALABRESA BROTINHO do pedido 67
+Insumo;ORÉGANO;kg;Saída;0,016;-0,001;Saída;0,015;Eduarda;14/10/2023 21:05;Venda de PIZZA CALABRESA BROTINHO do pedido 67
+Insumo;MOLHO TOMATE;kg;Saída;-4,12;-0,02;Saída;-4,14;Eduarda;14/10/2023 21:05;Venda de PIZZA CALABRESA BROTINHO do pedido 67
+Insumo;MASSA PIZZA;kg;Saída;-23,525;-0,17;Saída;-23,695;Eduarda;14/10/2023 21:05;Venda de PIZZA CALABRESA BROTINHO do pedido 67
+Insumo;MUSSARELA;kg;Saída;5,291;-0,18;Saída;5,111;Eduarda;14/10/2023 21:05;Venda de PIZZA MARGUERITA GRANDE do pedido 67
+Insumo;TOMATE SALADA;kg;Saída;1,7235;-0,015;Saída;1,7085;Eduarda;14/10/2023 21:05;Venda de PIZZA MARGUERITA GRANDE do pedido 67
+Insumo;ORÉGANO;kg;Saída;0,017;-0,001;Saída;0,016;Eduarda;14/10/2023 21:05;Venda de PIZZA MARGUERITA GRANDE do pedido 67
+Insumo;MOLHO TOMATE;kg;Saída;-4,08;-0,04;Saída;-4,12;Eduarda;14/10/2023 21:05;Venda de PIZZA MARGUERITA GRANDE do pedido 67
+Insumo;MASSA PIZZA;kg;Saída;-23,265;-0,26;Saída;-23,525;Eduarda;14/10/2023 21:05;Venda de PIZZA MARGUERITA GRANDE do pedido 67
+Insumo;SACO BOBINA;UN;Saída;-62;-1;Saída;-63;Eduarda;14/10/2023 21:05;Venda de PIZZA MARGUERITA GRANDE do pedido 67
+Insumo;CAIXA GRANDE;UN;Saída;20,5;-1;Saída;19,5;Eduarda;14/10/2023 21:05;Venda de PIZZA MARGUERITA GRANDE do pedido 67
+Insumo;MANJERICÃO FRESCO;kg;Saída;-0,004;-0,001;Saída;-0,005;Eduarda;14/10/2023 21:05;Venda de PIZZA MARGUERITA GRANDE do pedido 67
+Insumo;MUSSARELA;kg;Saída;5,471;-0,18;Saída;5,291;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;AZEITONA PRETA;kg;Saída;0,17;-0,01;Saída;0,16;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;PRESUNTO;kg;Saída;0,015;-0,03;Saída;-0,015;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,518;-0,04;Saída;1,478;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;CEBOLA ROXA;kg;Saída;0,1905;-0,005;Saída;0,1855;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;ORÉGANO;kg;Saída;0,018;-0,001;Saída;0,017;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;CEBOLA;kg;Saída;1,203;-0,01;Saída;1,193;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;PIMENTÃO;kg;Saída;0,232;-0,01;Saída;0,222;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;MOLHO TOMATE;kg;Saída;-4,04;-0,04;Saída;-4,08;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;MASSA PIZZA;kg;Saída;-23,005;-0,26;Saída;-23,265;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;SACO BOBINA;UN;Saída;-61;-1;Saída;-62;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;CAIXA GRANDE;UN;Saída;21,5;-1;Saída;20,5;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;OVO;UN;Saída;-28;-2;Saída;-30;Eduarda;14/10/2023 19:40;Venda de PIZZA PORTUGUESA GRANDE do pedido 65
+Insumo;CREAME CHEESE;kg;Saída;1,095;-0,005;Saída;1,09;Eduarda;14/10/2023 18:43;Venda de ROMEU E JULIETA do pedido 64
+Insumo;MASSA PIZZA;kg;Saída;-22,985;-0,02;Saída;-23,005;Eduarda;14/10/2023 18:43;Venda de ROMEU E JULIETA do pedido 64
+Insumo;GOIABADA;kg;Saída;-0,055;-0,005;Saída;-0,06;Eduarda;14/10/2023 18:43;Venda de ROMEU E JULIETA do pedido 64
+Insumo;MASSA PIZZA;kg;Saída;-22,965;-0,02;Saída;-22,985;Eduarda;14/10/2023 18:43;Venda de DOCE DE LEITE do pedido 64
+Insumo;DOCE DE LEITE;kg;Saída;-0,14;-0,02;Saída;-0,16;Eduarda;14/10/2023 18:43;Venda de DOCE DE LEITE do pedido 64
+Insumo;CHOCOLATE AO LEITE;kg;Saída;1,122;-0,048;Saída;1,074;Eduarda;14/10/2023 18:43;Venda de CHOCOLATE AO LEITE do pedido 64
+Insumo;MASSA PIZZA;kg;Saída;-22,885;-0,08;Saída;-22,965;Eduarda;14/10/2023 18:43;Venda de CHOCOLATE AO LEITE do pedido 64
+Insumo;CHOCOLATE BRANCO;kg;Saída;0,402;-0,012;Saída;0,39;Eduarda;14/10/2023 18:43;Venda de CHOCOLATE BRANCO do pedido 64
+Insumo;MASSA PIZZA;kg;Saída;-22,865;-0,02;Saída;-22,885;Eduarda;14/10/2023 18:43;Venda de CHOCOLATE BRANCO do pedido 64
+Produto;COCA-COLA ZERO 2L;UN;Saída;-3;-1;Saída;-4;Eduarda;14/10/2023 18:43;Venda de COCA-COLA ZERO 2L do pedido 64
+Insumo;MUSSARELA;kg;Saída;5,561;-0,09;Saída;5,471;Eduarda;14/10/2023 18:43;Venda de 1/2 CALABRESA  do pedido 64
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,618;-0,1;Saída;1,518;Eduarda;14/10/2023 18:43;Venda de 1/2 CALABRESA  do pedido 64
+Insumo;CEBOLA ROXA;kg;Saída;0,1915;-0,001;Saída;0,1905;Eduarda;14/10/2023 18:43;Venda de 1/2 CALABRESA  do pedido 64
+Insumo;ORÉGANO;kg;Saída;0,0185;-0,0005;Saída;0,018;Eduarda;14/10/2023 18:43;Venda de 1/2 CALABRESA  do pedido 64
+Insumo;CEBOLA;kg;Saída;1,206;-0,003;Saída;1,203;Eduarda;14/10/2023 18:43;Venda de 1/2 CALABRESA  do pedido 64
+Insumo;MOLHO TOMATE;kg;Saída;-4,02;-0,02;Saída;-4,04;Eduarda;14/10/2023 18:43;Venda de 1/2 CALABRESA  do pedido 64
+Insumo;MASSA PIZZA;kg;Saída;-22,735;-0,13;Saída;-22,865;Eduarda;14/10/2023 18:43;Venda de 1/2 CALABRESA  do pedido 64
+Insumo;SACO BOBINA;UN;Saída;-60,5;-0,5;Saída;-61;Eduarda;14/10/2023 18:43;Venda de 1/2 CALABRESA  do pedido 64
+Insumo;CAIXA GRANDE;UN;Saída;22;-0,5;Saída;21,5;Eduarda;14/10/2023 18:43;Venda de 1/2 CALABRESA  do pedido 64
+Insumo;MUSSARELA;kg;Saída;5,651;-0,09;Saída;5,561;Eduarda;14/10/2023 18:43;Venda de 1/2 MUSSARELA do pedido 64
+Insumo;ORÉGANO;kg;Saída;0,019;-0,0005;Saída;0,0185;Eduarda;14/10/2023 18:43;Venda de 1/2 MUSSARELA do pedido 64
+Insumo;MOLHO TOMATE;kg;Saída;-4;-0,02;Saída;-4,02;Eduarda;14/10/2023 18:43;Venda de 1/2 MUSSARELA do pedido 64
+Insumo;MASSA PIZZA;kg;Saída;-22,605;-0,13;Saída;-22,735;Eduarda;14/10/2023 18:43;Venda de 1/2 MUSSARELA do pedido 64
+Insumo;SACO BOBINA;UN;Saída;-60;-0,5;Saída;-60,5;Eduarda;14/10/2023 18:43;Venda de 1/2 MUSSARELA do pedido 64
+Insumo;CAIXA GRANDE;UN;Saída;22,5;-0,5;Saída;22;Eduarda;14/10/2023 18:43;Venda de 1/2 MUSSARELA do pedido 64
+Insumo;MUSSARELA;kg;Saída;5,831;-0,18;Saída;5,651;Eduarda;14/10/2023 18:32;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,818;-0,2;Saída;1,618;Eduarda;14/10/2023 18:32;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;CEBOLA ROXA;kg;Saída;0,1935;-0,002;Saída;0,1915;Eduarda;14/10/2023 18:32;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;ORÉGANO;kg;Saída;0,02;-0,001;Saída;0,019;Eduarda;14/10/2023 18:32;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;CEBOLA;kg;Saída;1,212;-0,006;Saída;1,206;Eduarda;14/10/2023 18:32;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;MOLHO TOMATE;kg;Saída;-3,96;-0,04;Saída;-4;Eduarda;14/10/2023 18:32;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;MASSA PIZZA;kg;Saída;-22,345;-0,26;Saída;-22,605;Eduarda;14/10/2023 18:32;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;SACO BOBINA;UN;Saída;-59;-1;Saída;-60;Eduarda;14/10/2023 18:32;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;CAIXA GRANDE;UN;Saída;23,5;-1;Saída;22,5;Eduarda;14/10/2023 18:32;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;MUSSARELA;kg;Devolução;5,651;0,18;Entrada;5,831;Eduarda;14/10/2023 18:32;Alteração do item: 222
+Insumo;LINGUIÇA CALABRESA;kg;Devolução;1,618;0,2;Entrada;1,818;Eduarda;14/10/2023 18:32;Alteração do item: 222
+Insumo;CEBOLA ROXA;kg;Devolução;0,1915;0,002;Entrada;0,1935;Eduarda;14/10/2023 18:32;Alteração do item: 222
+Insumo;ORÉGANO;kg;Devolução;0,019;0,001;Entrada;0,02;Eduarda;14/10/2023 18:32;Alteração do item: 222
+Insumo;CEBOLA;kg;Devolução;1,206;0,006;Entrada;1,212;Eduarda;14/10/2023 18:32;Alteração do item: 222
+Insumo;MOLHO TOMATE;kg;Devolução;-4;0,04;Entrada;-3,96;Eduarda;14/10/2023 18:32;Alteração do item: 222
+Insumo;MASSA PIZZA;kg;Devolução;-22,605;0,26;Entrada;-22,345;Eduarda;14/10/2023 18:32;Alteração do item: 222
+Insumo;SACO BOBINA;UN;Devolução;-60;1;Entrada;-59;Eduarda;14/10/2023 18:32;Alteração do item: 222
+Insumo;CAIXA GRANDE;UN;Devolução;22,5;1;Entrada;23,5;Eduarda;14/10/2023 18:32;Alteração do item: 222
+Insumo;MUSSARELA;kg;Saída;5,831;-0,18;Saída;5,651;Eduarda;14/10/2023 18:31;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,818;-0,2;Saída;1,618;Eduarda;14/10/2023 18:31;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;CEBOLA ROXA;kg;Saída;0,1935;-0,002;Saída;0,1915;Eduarda;14/10/2023 18:31;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;ORÉGANO;kg;Saída;0,02;-0,001;Saída;0,019;Eduarda;14/10/2023 18:31;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;CEBOLA;kg;Saída;1,212;-0,006;Saída;1,206;Eduarda;14/10/2023 18:31;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;MOLHO TOMATE;kg;Saída;-3,96;-0,04;Saída;-4;Eduarda;14/10/2023 18:31;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;MASSA PIZZA;kg;Saída;-22,345;-0,26;Saída;-22,605;Eduarda;14/10/2023 18:31;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;SACO BOBINA;UN;Saída;-59;-1;Saída;-60;Eduarda;14/10/2023 18:31;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;CAIXA GRANDE;UN;Saída;23,5;-1;Saída;22,5;Eduarda;14/10/2023 18:31;Venda de PIZZA CALABRESA GRANDE do pedido 64
+Insumo;MUSSARELA;kg;Saída;5,921;-0,09;Saída;5,831;Eduarda;14/10/2023 18:30;Venda de 1/2 BACON C/ OVOS do pedido 63
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;3,621;-0,01;Saída;3,611;Eduarda;14/10/2023 18:30;Venda de 1/2 BACON C/ OVOS do pedido 63
+Insumo;BACON;kg;Saída;3,5;-0,02;Saída;3,48;Eduarda;14/10/2023 18:30;Venda de 1/2 BACON C/ OVOS do pedido 63
+Insumo;ORÉGANO;kg;Saída;0,0205;-0,0005;Saída;0,02;Eduarda;14/10/2023 18:30;Venda de 1/2 BACON C/ OVOS do pedido 63
+Insumo;MOLHO TOMATE;kg;Saída;-3,94;-0,02;Saída;-3,96;Eduarda;14/10/2023 18:30;Venda de 1/2 BACON C/ OVOS do pedido 63
+Insumo;MASSA PIZZA;kg;Saída;-22,215;-0,13;Saída;-22,345;Eduarda;14/10/2023 18:30;Venda de 1/2 BACON C/ OVOS do pedido 63
+Insumo;SACO BOBINA;UN;Saída;-58,5;-0,5;Saída;-59;Eduarda;14/10/2023 18:30;Venda de 1/2 BACON C/ OVOS do pedido 63
+Insumo;CAIXA GRANDE;UN;Saída;24;-0,5;Saída;23,5;Eduarda;14/10/2023 18:30;Venda de 1/2 BACON C/ OVOS do pedido 63
+Insumo;OVO;UN;Saída;-27;-1;Saída;-28;Eduarda;14/10/2023 18:30;Venda de 1/2 BACON C/ OVOS do pedido 63
+Insumo;MUSSARELA;kg;Saída;6,011;-0,09;Saída;5,921;Eduarda;14/10/2023 18:30;Venda de 1/2 4 QUEIJOS do pedido 63
+Insumo;GORGONZOLA;kg;Saída;-0,019;-0,005;Saída;-0,024;Eduarda;14/10/2023 18:30;Venda de 1/2 4 QUEIJOS do pedido 63
+Insumo;ORÉGANO;kg;Saída;0,021;-0,0005;Saída;0,0205;Eduarda;14/10/2023 18:30;Venda de 1/2 4 QUEIJOS do pedido 63
+Insumo;MOLHO TOMATE;kg;Saída;-3,91;-0,03;Saída;-3,94;Eduarda;14/10/2023 18:30;Venda de 1/2 4 QUEIJOS do pedido 63
+Insumo;MASSA PIZZA;kg;Saída;-22,085;-0,13;Saída;-22,215;Eduarda;14/10/2023 18:30;Venda de 1/2 4 QUEIJOS do pedido 63
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,775;-0,03;Saída;-0,805;Eduarda;14/10/2023 18:30;Venda de 1/2 4 QUEIJOS do pedido 63
+Insumo;SACO BOBINA;UN;Saída;-58;-0,5;Saída;-58,5;Eduarda;14/10/2023 18:30;Venda de 1/2 4 QUEIJOS do pedido 63
+Insumo;CAIXA GRANDE;UN;Saída;24,5;-0,5;Saída;24;Eduarda;14/10/2023 18:30;Venda de 1/2 4 QUEIJOS do pedido 63
+Insumo;MUSSARELA;kg;Saída;6,066;-0,055;Saída;6,011;Eduarda;13/10/2023 22:17;Venda de 1/2 CALABRESA  do pedido 62
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,848;-0,03;Saída;1,818;Eduarda;13/10/2023 22:17;Venda de 1/2 CALABRESA  do pedido 62
+Insumo;ORÉGANO;kg;Saída;0,0215;-0,0005;Saída;0,021;Eduarda;13/10/2023 22:17;Venda de 1/2 CALABRESA  do pedido 62
+Insumo;MOLHO TOMATE;kg;Saída;-3,9;-0,01;Saída;-3,91;Eduarda;13/10/2023 22:17;Venda de 1/2 CALABRESA  do pedido 62
+Insumo;MASSA PIZZA;kg;Saída;-22;-0,085;Saída;-22,085;Eduarda;13/10/2023 22:17;Venda de 1/2 CALABRESA  do pedido 62
+Insumo;MUSSARELA;kg;Saída;6,246;-0,18;Saída;6,066;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;GORGONZOLA;kg;Saída;-0,009;-0,01;Saída;-0,019;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;ORÉGANO;kg;Saída;0,0225;-0,001;Saída;0,0215;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;MOLHO TOMATE;kg;Saída;-3,86;-0,04;Saída;-3,9;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;MASSA PIZZA;kg;Saída;-21,74;-0,26;Saída;-22;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,715;-0,06;Saída;-0,775;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;SACO BOBINA;UN;Saída;-57;-1;Saída;-58;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;CAIXA GRANDE;UN;Saída;25,5;-1;Saída;24,5;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;MUSSARELA;kg;Saída;6,426;-0,18;Saída;6,246;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;GORGONZOLA;kg;Saída;0,001;-0,01;Saída;-0,009;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;ORÉGANO;kg;Saída;0,0235;-0,001;Saída;0,0225;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;MOLHO TOMATE;kg;Saída;-3,82;-0,04;Saída;-3,86;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;MASSA PIZZA;kg;Saída;-21,48;-0,26;Saída;-21,74;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,655;-0,06;Saída;-0,715;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;SACO BOBINA;UN;Saída;-56;-1;Saída;-57;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;CAIXA GRANDE;UN;Saída;26,5;-1;Saída;25,5;Eduarda;12/10/2023 18:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 61
+Insumo;MUSSARELA;kg;Saída;6,606;-0,18;Saída;6,426;Eduarda;12/10/2023 18:45;Venda de PIZZA PEPPERONI  GRANDE do pedido 60
+Insumo;PEPPERONI;kg;Saída;1,043;-0,05;Saída;0,993;Eduarda;12/10/2023 18:45;Venda de PIZZA PEPPERONI  GRANDE do pedido 60
+Insumo;ORÉGANO;kg;Saída;0,0245;-0,001;Saída;0,0235;Eduarda;12/10/2023 18:45;Venda de PIZZA PEPPERONI  GRANDE do pedido 60
+Insumo;MOLHO TOMATE;kg;Saída;-3,78;-0,04;Saída;-3,82;Eduarda;12/10/2023 18:45;Venda de PIZZA PEPPERONI  GRANDE do pedido 60
+Insumo;MASSA PIZZA;kg;Saída;-21,22;-0,26;Saída;-21,48;Eduarda;12/10/2023 18:45;Venda de PIZZA PEPPERONI  GRANDE do pedido 60
+Insumo;SACO BOBINA;UN;Saída;-55;-1;Saída;-56;Eduarda;12/10/2023 18:45;Venda de PIZZA PEPPERONI  GRANDE do pedido 60
+Insumo;CAIXA GRANDE;UN;Saída;27,5;-1;Saída;26,5;Eduarda;12/10/2023 18:45;Venda de PIZZA PEPPERONI  GRANDE do pedido 60
+Insumo;MUSSARELA;kg;Saída;6,916;-0,31;Saída;6,606;Eduarda;12/10/2023 18:24;Venda de PIZZA BACON C/ OVOS GIGANTE do pedido 59
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;3,651;-0,03;Saída;3,621;Eduarda;12/10/2023 18:24;Venda de PIZZA BACON C/ OVOS GIGANTE do pedido 59
+Insumo;BACON;kg;Saída;3,56;-0,06;Saída;3,5;Eduarda;12/10/2023 18:24;Venda de PIZZA BACON C/ OVOS GIGANTE do pedido 59
+Insumo;ORÉGANO;kg;Saída;0,0255;-0,001;Saída;0,0245;Eduarda;12/10/2023 18:24;Venda de PIZZA BACON C/ OVOS GIGANTE do pedido 59
+Insumo;MOLHO TOMATE;kg;Saída;-3,69;-0,09;Saída;-3,78;Eduarda;12/10/2023 18:24;Venda de PIZZA BACON C/ OVOS GIGANTE do pedido 59
+Insumo;MASSA PIZZA;kg;Saída;-20,78;-0,44;Saída;-21,22;Eduarda;12/10/2023 18:24;Venda de PIZZA BACON C/ OVOS GIGANTE do pedido 59
+Insumo;SACO BOBINA;UN;Saída;-54;-1;Saída;-55;Eduarda;12/10/2023 18:24;Venda de PIZZA BACON C/ OVOS GIGANTE do pedido 59
+Insumo;CAIXA GIGANTE;UN;Saída;16,5;-1;Saída;15,5;Eduarda;12/10/2023 18:24;Venda de PIZZA BACON C/ OVOS GIGANTE do pedido 59
+Insumo;OVO;UN;Saída;-24;-3;Saída;-27;Eduarda;12/10/2023 18:24;Venda de PIZZA BACON C/ OVOS GIGANTE do pedido 59
+Insumo;MUSSARELA;kg;Saída;7,226;-0,31;Saída;6,916;Eduarda;12/10/2023 18:24;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 59
+Insumo;CREAME CHEESE;kg;Saída;1,215;-0,12;Saída;1,095;Eduarda;12/10/2023 18:24;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 59
+Insumo;ORÉGANO;kg;Saída;0,0265;-0,001;Saída;0,0255;Eduarda;12/10/2023 18:24;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 59
+Insumo;MOLHO TOMATE;kg;Saída;-3,6;-0,09;Saída;-3,69;Eduarda;12/10/2023 18:24;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 59
+Insumo;MASSA PIZZA;kg;Saída;-20,34;-0,44;Saída;-20,78;Eduarda;12/10/2023 18:24;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 59
+Insumo;SACO BOBINA;UN;Saída;-53;-1;Saída;-54;Eduarda;12/10/2023 18:24;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 59
+Insumo;CAIXA GIGANTE;UN;Saída;17,5;-1;Saída;16,5;Eduarda;12/10/2023 18:24;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 59
+Insumo;ALHO PORÓ;kg;Saída;-0,045;-0,05;Saída;-0,095;Eduarda;12/10/2023 18:24;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 59
+Insumo;PIMENTA BIQUINHO;kg;Saída;-0,029;-0,01;Saída;-0,039;Eduarda;12/10/2023 18:24;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 59
+Produto;GUARANÁ MANT. 2L;UN;Saída;1;-1;Saída;0;Eduarda;12/10/2023 18:24;Venda de GUARANÁ MANT. 2L do pedido 59
+Insumo;MUSSARELA;kg;Saída;7,336;-0,11;Saída;7,226;Eduarda;08/10/2023 21:22;Venda de PIZZA CALABRESA  BROTINHO do pedido 58
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,908;-0,06;Saída;1,848;Eduarda;08/10/2023 21:22;Venda de PIZZA CALABRESA  BROTINHO do pedido 58
+Insumo;ORÉGANO;kg;Saída;0,0275;-0,001;Saída;0,0265;Eduarda;08/10/2023 21:22;Venda de PIZZA CALABRESA  BROTINHO do pedido 58
+Insumo;MOLHO TOMATE;kg;Saída;-3,58;-0,02;Saída;-3,6;Eduarda;08/10/2023 21:22;Venda de PIZZA CALABRESA  BROTINHO do pedido 58
+Insumo;MASSA PIZZA;kg;Saída;-20,17;-0,17;Saída;-20,34;Eduarda;08/10/2023 21:22;Venda de PIZZA CALABRESA  BROTINHO do pedido 58
+Insumo;MUSSARELA;kg;Saída;7,446;-0,11;Saída;7,336;Eduarda;08/10/2023 21:22;Venda de PIZZA 4 QUEIJOS  BROTINHO do pedido 58
+Insumo;GORGONZOLA;kg;Saída;0,003;-0,002;Saída;0,001;Eduarda;08/10/2023 21:22;Venda de PIZZA 4 QUEIJOS  BROTINHO do pedido 58
+Insumo;ORÉGANO;kg;Saída;0,0285;-0,001;Saída;0,0275;Eduarda;08/10/2023 21:22;Venda de PIZZA 4 QUEIJOS  BROTINHO do pedido 58
+Insumo;MOLHO TOMATE;kg;Saída;-3,56;-0,02;Saída;-3,58;Eduarda;08/10/2023 21:22;Venda de PIZZA 4 QUEIJOS  BROTINHO do pedido 58
+Insumo;MASSA PIZZA;kg;Saída;-20;-0,17;Saída;-20,17;Eduarda;08/10/2023 21:22;Venda de PIZZA 4 QUEIJOS  BROTINHO do pedido 58
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,63;-0,025;Saída;-0,655;Eduarda;08/10/2023 21:22;Venda de PIZZA 4 QUEIJOS  BROTINHO do pedido 58
+Insumo;SACO BOBINA;UN;Saída;-52;-1;Saída;-53;Eduarda;08/10/2023 21:22;Venda de PIZZA 4 QUEIJOS  BROTINHO do pedido 58
+Insumo;MUSSARELA;kg;Saída;7,626;-0,18;Saída;7,446;Eduarda;08/10/2023 20:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 57
+Insumo;GORGONZOLA;kg;Saída;0,013;-0,01;Saída;0,003;Eduarda;08/10/2023 20:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 57
+Insumo;ORÉGANO;kg;Saída;0,0295;-0,001;Saída;0,0285;Eduarda;08/10/2023 20:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 57
+Insumo;MOLHO TOMATE;kg;Saída;-3,52;-0,04;Saída;-3,56;Eduarda;08/10/2023 20:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 57
+Insumo;MASSA PIZZA;kg;Saída;-19,74;-0,26;Saída;-20;Eduarda;08/10/2023 20:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 57
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,57;-0,06;Saída;-0,63;Eduarda;08/10/2023 20:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 57
+Insumo;SACO BOBINA;UN;Saída;-51;-1;Saída;-52;Eduarda;08/10/2023 20:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 57
+Insumo;CAIXA GRANDE;UN;Saída;28,5;-1;Saída;27,5;Eduarda;08/10/2023 20:53;Venda de PIZZA 4 QUEIJOS  GRANDE do pedido 57
+Produto;GUARANÁ MANT. 2L;UN;Saída;3;-2;Saída;1;Eduarda;08/10/2023 20:34;Venda de GUARANÁ MANT. 2L do pedido 52
+Produto;AGUA DE COCO;UN;Saída;-2;-1;Saída;-3;Eduarda;08/10/2023 20:13;Venda de AGUA DE COCO do pedido 56
+Produto;COCA-COLA ZERO 2L;UN;Saída;-2;-1;Saída;-3;Eduarda;08/10/2023 20:13;Venda de COCA-COLA ZERO 2L do pedido 56
+Insumo;MUSSARELA;kg;Saída;7,716;-0,09;Saída;7,626;Eduarda;08/10/2023 20:13;Venda de 1/2 BACON C/ OVOS do pedido 56
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;3,661;-0,01;Saída;3,651;Eduarda;08/10/2023 20:13;Venda de 1/2 BACON C/ OVOS do pedido 56
+Insumo;BACON;kg;Saída;3,58;-0,02;Saída;3,56;Eduarda;08/10/2023 20:13;Venda de 1/2 BACON C/ OVOS do pedido 56
+Insumo;ORÉGANO;kg;Saída;0,03;-0,0005;Saída;0,0295;Eduarda;08/10/2023 20:13;Venda de 1/2 BACON C/ OVOS do pedido 56
+Insumo;MOLHO TOMATE;kg;Saída;-3,5;-0,02;Saída;-3,52;Eduarda;08/10/2023 20:13;Venda de 1/2 BACON C/ OVOS do pedido 56
+Insumo;MASSA PIZZA;kg;Saída;-19,61;-0,13;Saída;-19,74;Eduarda;08/10/2023 20:13;Venda de 1/2 BACON C/ OVOS do pedido 56
+Insumo;SACO BOBINA;UN;Saída;-50,5;-0,5;Saída;-51;Eduarda;08/10/2023 20:13;Venda de 1/2 BACON C/ OVOS do pedido 56
+Insumo;CAIXA GRANDE;UN;Saída;29;-0,5;Saída;28,5;Eduarda;08/10/2023 20:13;Venda de 1/2 BACON C/ OVOS do pedido 56
+Insumo;OVO;UN;Saída;-23;-1;Saída;-24;Eduarda;08/10/2023 20:13;Venda de 1/2 BACON C/ OVOS do pedido 56
+Insumo;MUSSARELA;kg;Saída;7,806;-0,09;Saída;7,716;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Insumo;AZEITONA PRETA;kg;Saída;0,175;-0,005;Saída;0,17;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Insumo;PRESUNTO;kg;Saída;0,03;-0,015;Saída;0,015;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,928;-0,02;Saída;1,908;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Insumo;CEBOLA ROXA;kg;Saída;0,196;-0,0025;Saída;0,1935;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Insumo;ORÉGANO;kg;Saída;0,0305;-0,0005;Saída;0,03;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Insumo;CEBOLA;kg;Saída;1,217;-0,005;Saída;1,212;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Insumo;PIMENTÃO;kg;Saída;0,237;-0,005;Saída;0,232;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Insumo;MOLHO TOMATE;kg;Saída;-3,48;-0,02;Saída;-3,5;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Insumo;MASSA PIZZA;kg;Saída;-19,48;-0,13;Saída;-19,61;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Insumo;SACO BOBINA;UN;Saída;-50;-0,5;Saída;-50,5;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Insumo;CAIXA GRANDE;UN;Saída;29,5;-0,5;Saída;29;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Insumo;OVO;UN;Saída;-22;-1;Saída;-23;Eduarda;08/10/2023 20:13;Venda de 1/2 PORTUGUESA do pedido 56
+Produto;GUARANÁ ANT. 1,5L;UN;Saída;2;-1;Saída;1;Eduarda;08/10/2023 20:03;Venda de GUARANÁ ANT. 1,5L do pedido 51
+Insumo;MUSSARELA;kg;Saída;7,961;-0,155;Saída;7,806;Eduarda;08/10/2023 20:03;Venda de 1/2 PARIS do pedido 51
+Insumo;AZEITONA PRETA;kg;Saída;0,18;-0,005;Saída;0,175;Eduarda;08/10/2023 20:03;Venda de 1/2 PARIS do pedido 51
+Insumo;CHAMPIGNON;kg;Saída;0,074;-0,01;Saída;0,064;Eduarda;08/10/2023 20:03;Venda de 1/2 PARIS do pedido 51
+Insumo;PRESUNTO;kg;Saída;0,07;-0,04;Saída;0,03;Eduarda;08/10/2023 20:03;Venda de 1/2 PARIS do pedido 51
+Insumo;ORÉGANO;kg;Saída;0,031;-0,0005;Saída;0,0305;Eduarda;08/10/2023 20:03;Venda de 1/2 PARIS do pedido 51
+Insumo;MOLHO TOMATE;kg;Saída;-3,435;-0,045;Saída;-3,48;Eduarda;08/10/2023 20:03;Venda de 1/2 PARIS do pedido 51
+Insumo;MASSA PIZZA;kg;Saída;-19,26;-0,22;Saída;-19,48;Eduarda;08/10/2023 20:03;Venda de 1/2 PARIS do pedido 51
+Insumo;SACO BOBINA;UN;Saída;-49,5;-0,5;Saída;-50;Eduarda;08/10/2023 20:03;Venda de 1/2 PARIS do pedido 51
+Insumo;CAIXA GIGANTE;UN;Saída;18;-0,5;Saída;17,5;Eduarda;08/10/2023 20:03;Venda de 1/2 PARIS do pedido 51
+Insumo;MUSSARELA;kg;Saída;8,116;-0,155;Saída;7,961;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;AZEITONA PRETA;kg;Saída;0,1875;-0,0075;Saída;0,18;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;PRESUNTO;kg;Saída;0,095;-0,025;Saída;0,07;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,958;-0,03;Saída;1,928;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;CEBOLA ROXA;kg;Saída;0,201;-0,005;Saída;0,196;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;ORÉGANO;kg;Saída;0,0315;-0,0005;Saída;0,031;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;CEBOLA;kg;Saída;1,2245;-0,0075;Saída;1,217;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;PIMENTÃO;kg;Saída;0,2445;-0,0075;Saída;0,237;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;MOLHO TOMATE;kg;Saída;-3,39;-0,045;Saída;-3,435;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;MASSA PIZZA;kg;Saída;-19,04;-0,22;Saída;-19,26;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;SACO BOBINA;UN;Saída;-49;-0,5;Saída;-49,5;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;CAIXA GIGANTE;UN;Saída;18,5;-0,5;Saída;18;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;OVO;UN;Saída;-21;-1;Saída;-22;Eduarda;08/10/2023 20:03;Venda de 1/2 PORTUGUESA do pedido 51
+Insumo;CHOCOLATE BRANCO;kg;Saída;0,426;-0,024;Saída;0,402;Eduarda;08/10/2023 19:20;Venda de CHOCOLATE BRANCO do pedido 55
+Insumo;MASSA PIZZA;kg;Saída;-19;-0,04;Saída;-19,04;Eduarda;08/10/2023 19:20;Venda de CHOCOLATE BRANCO do pedido 55
+Insumo;MASSA PIZZA;kg;Saída;-18,96;-0,04;Saída;-19;Eduarda;08/10/2023 19:20;Venda de DOCE DE LEITE do pedido 55
+Insumo;DOCE DE LEITE;kg;Saída;-0,1;-0,04;Saída;-0,14;Eduarda;08/10/2023 19:20;Venda de DOCE DE LEITE do pedido 55
+Produto;AGUA DE COCO;UN;Saída;-1;-1;Saída;-2;Eduarda;08/10/2023 19:19;Venda de AGUA DE COCO do pedido 55
+Insumo;MUSSARELA;kg;Saída;8,296;-0,18;Saída;8,116;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;AZEITONA PRETA;kg;Saída;0,1975;-0,01;Saída;0,1875;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;PRESUNTO;kg;Saída;0,125;-0,03;Saída;0,095;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,998;-0,04;Saída;1,958;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;CEBOLA ROXA;kg;Saída;0,206;-0,005;Saída;0,201;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;ORÉGANO;kg;Saída;0,0325;-0,001;Saída;0,0315;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;CEBOLA;kg;Saída;1,2345;-0,01;Saída;1,2245;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;PIMENTÃO;kg;Saída;0,2545;-0,01;Saída;0,2445;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;MOLHO TOMATE;kg;Saída;-3,35;-0,04;Saída;-3,39;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;MASSA PIZZA;kg;Saída;-18,7;-0,26;Saída;-18,96;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;SACO BOBINA;UN;Saída;-48;-1;Saída;-49;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;CAIXA GRANDE;UN;Saída;30,5;-1;Saída;29,5;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;OVO;UN;Saída;-19;-2;Saída;-21;Eduarda;08/10/2023 19:19;Venda de PIZZA PORTUGUESA GRANDE do pedido 55
+Insumo;MUSSARELA;kg;Saída;8,476;-0,18;Saída;8,296;Eduarda;08/10/2023 19:18;Venda de PIZZA PARIS GRANDE do pedido 55
+Insumo;AZEITONA PRETA;kg;Saída;0,2055;-0,008;Saída;0,1975;Eduarda;08/10/2023 19:18;Venda de PIZZA PARIS GRANDE do pedido 55
+Insumo;CHAMPIGNON;kg;Saída;0,084;-0,01;Saída;0,074;Eduarda;08/10/2023 19:18;Venda de PIZZA PARIS GRANDE do pedido 55
+Insumo;PRESUNTO;kg;Saída;0,225;-0,1;Saída;0,125;Eduarda;08/10/2023 19:18;Venda de PIZZA PARIS GRANDE do pedido 55
+Insumo;ORÉGANO;kg;Saída;0,0335;-0,001;Saída;0,0325;Eduarda;08/10/2023 19:18;Venda de PIZZA PARIS GRANDE do pedido 55
+Insumo;MOLHO TOMATE;kg;Saída;-3,31;-0,04;Saída;-3,35;Eduarda;08/10/2023 19:18;Venda de PIZZA PARIS GRANDE do pedido 55
+Insumo;MASSA PIZZA;kg;Saída;-18,44;-0,26;Saída;-18,7;Eduarda;08/10/2023 19:18;Venda de PIZZA PARIS GRANDE do pedido 55
+Insumo;SACO BOBINA;UN;Saída;-47;-1;Saída;-48;Eduarda;08/10/2023 19:18;Venda de PIZZA PARIS GRANDE do pedido 55
+Insumo;CAIXA GRANDE;UN;Saída;31,5;-1;Saída;30,5;Eduarda;08/10/2023 19:18;Venda de PIZZA PARIS GRANDE do pedido 55
+Produto;AGUA DE COCO;UN;Saída;0;-1;Saída;-1;Eduarda;08/10/2023 18:24;Venda de AGUA DE COCO do pedido 53
+Insumo;CREAME CHEESE;kg;Saída;1,22;-0,005;Saída;1,215;Eduarda;08/10/2023 18:23;Venda de ROMEU E JULIETA do pedido 53
+Insumo;MASSA PIZZA;kg;Saída;-18,42;-0,02;Saída;-18,44;Eduarda;08/10/2023 18:23;Venda de ROMEU E JULIETA do pedido 53
+Insumo;GOIABADA;kg;Saída;-0,05;-0,005;Saída;-0,055;Eduarda;08/10/2023 18:23;Venda de ROMEU E JULIETA do pedido 53
+Insumo;MASSA PIZZA;kg;Saída;-18,4;-0,02;Saída;-18,42;Eduarda;08/10/2023 18:23;Venda de DOCE DE LEITE do pedido 53
+Insumo;DOCE DE LEITE;kg;Saída;-0,08;-0,02;Saída;-0,1;Eduarda;08/10/2023 18:23;Venda de DOCE DE LEITE do pedido 53
+Insumo;CHOCOLATE AO LEITE;kg;Saída;1,194;-0,072;Saída;1,122;Eduarda;08/10/2023 18:23;Venda de CHOCOLATE AO LEITE do pedido 53
+Insumo;MASSA PIZZA;kg;Saída;-18,28;-0,12;Saída;-18,4;Eduarda;08/10/2023 18:23;Venda de CHOCOLATE AO LEITE do pedido 53
+Insumo;CHOCOLATE AO LEITE;kg;Devolução;1,182;0,012;Entrada;1,194;Eduarda;08/10/2023 18:23;Item cancelado
+Insumo;MASSA PIZZA;kg;Devolução;-18,3;0,02;Entrada;-18,28;Eduarda;08/10/2023 18:23;Item cancelado
+Insumo;CHOCOLATE AO LEITE;kg;Devolução;1,17;0,012;Entrada;1,182;Eduarda;08/10/2023 18:23;Item cancelado
+Insumo;MASSA PIZZA;kg;Devolução;-18,32;0,02;Entrada;-18,3;Eduarda;08/10/2023 18:23;Item cancelado
+Insumo;CHOCOLATE AO LEITE;kg;Saída;1,182;-0,012;Saída;1,17;Eduarda;08/10/2023 18:23;Venda de CHOCOLATE AO LEITE do pedido 53
+Insumo;MASSA PIZZA;kg;Saída;-18,3;-0,02;Saída;-18,32;Eduarda;08/10/2023 18:23;Venda de CHOCOLATE AO LEITE do pedido 53
+Insumo;CHOCOLATE AO LEITE;kg;Saída;1,194;-0,012;Saída;1,182;Eduarda;08/10/2023 18:22;Venda de CHOCOLATE AO LEITE do pedido 53
+Insumo;MASSA PIZZA;kg;Saída;-18,28;-0,02;Saída;-18,3;Eduarda;08/10/2023 18:22;Venda de CHOCOLATE AO LEITE do pedido 53
+Produto;AGUA DE COCO;UN;Entrada;0;0;;0;Eduarda;08/10/2023 18:21;Lançamento Inicial de Estoque
+Insumo;MUSSARELA;kg;Saída;8,566;-0,09;Saída;8,476;Eduarda;08/10/2023 18:20;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 53
+Insumo;CREAME CHEESE;kg;Saída;1,24;-0,02;Saída;1,22;Eduarda;08/10/2023 18:20;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 53
+Insumo;PEITO DE PERU;kg;Saída;-0,116;-0,04;Saída;-0,156;Eduarda;08/10/2023 18:20;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 53
+Insumo;ORÉGANO;kg;Saída;0,034;-0,0005;Saída;0,0335;Eduarda;08/10/2023 18:20;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 53
+Insumo;MOLHO TOMATE;kg;Saída;-3,29;-0,02;Saída;-3,31;Eduarda;08/10/2023 18:20;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 53
+Insumo;MASSA PIZZA;kg;Saída;-18,15;-0,13;Saída;-18,28;Eduarda;08/10/2023 18:20;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 53
+Insumo;SACO BOBINA;UN;Saída;-46,5;-0,5;Saída;-47;Eduarda;08/10/2023 18:20;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 53
+Insumo;CAIXA GRANDE;UN;Saída;32;-0,5;Saída;31,5;Eduarda;08/10/2023 18:20;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 53
+Insumo;MUSSARELA;kg;Saída;8,656;-0,09;Saída;8,566;Eduarda;08/10/2023 18:20;Venda de 1/2 CALABRESA do pedido 53
+Insumo;LINGUIÇA CALABRESA;kg;Saída;2,098;-0,1;Saída;1,998;Eduarda;08/10/2023 18:20;Venda de 1/2 CALABRESA do pedido 53
+Insumo;CEBOLA ROXA;kg;Saída;0,207;-0,001;Saída;0,206;Eduarda;08/10/2023 18:20;Venda de 1/2 CALABRESA do pedido 53
+Insumo;ORÉGANO;kg;Saída;0,0345;-0,0005;Saída;0,034;Eduarda;08/10/2023 18:20;Venda de 1/2 CALABRESA do pedido 53
+Insumo;CEBOLA;kg;Saída;1,2375;-0,003;Saída;1,2345;Eduarda;08/10/2023 18:20;Venda de 1/2 CALABRESA do pedido 53
+Insumo;MOLHO TOMATE;kg;Saída;-3,27;-0,02;Saída;-3,29;Eduarda;08/10/2023 18:20;Venda de 1/2 CALABRESA do pedido 53
+Insumo;MASSA PIZZA;kg;Saída;-18,02;-0,13;Saída;-18,15;Eduarda;08/10/2023 18:20;Venda de 1/2 CALABRESA do pedido 53
+Insumo;SACO BOBINA;UN;Saída;-46;-0,5;Saída;-46,5;Eduarda;08/10/2023 18:20;Venda de 1/2 CALABRESA do pedido 53
+Insumo;CAIXA GRANDE;UN;Saída;32,5;-0,5;Saída;32;Eduarda;08/10/2023 18:20;Venda de 1/2 CALABRESA do pedido 53
+Insumo;MUSSARELA;kg;Saída;8,836;-0,18;Saída;8,656;Eduarda;08/10/2023 18:08;Venda de PIZZA ALHO PORÓ GRANDE do pedido 51
+Insumo;CREAME CHEESE;kg;Saída;1,32;-0,08;Saída;1,24;Eduarda;08/10/2023 18:08;Venda de PIZZA ALHO PORÓ GRANDE do pedido 51
+Insumo;ORÉGANO;kg;Saída;0,0355;-0,001;Saída;0,0345;Eduarda;08/10/2023 18:08;Venda de PIZZA ALHO PORÓ GRANDE do pedido 51
+Insumo;MOLHO TOMATE;kg;Saída;-3,23;-0,04;Saída;-3,27;Eduarda;08/10/2023 18:08;Venda de PIZZA ALHO PORÓ GRANDE do pedido 51
+Insumo;MASSA PIZZA;kg;Saída;-17,76;-0,26;Saída;-18,02;Eduarda;08/10/2023 18:08;Venda de PIZZA ALHO PORÓ GRANDE do pedido 51
+Insumo;SACO BOBINA;UN;Saída;-45;-1;Saída;-46;Eduarda;08/10/2023 18:08;Venda de PIZZA ALHO PORÓ GRANDE do pedido 51
+Insumo;CAIXA GRANDE;UN;Saída;33,5;-1;Saída;32,5;Eduarda;08/10/2023 18:08;Venda de PIZZA ALHO PORÓ GRANDE do pedido 51
+Insumo;ALHO PORÓ;kg;Saída;-0,015;-0,03;Saída;-0,045;Eduarda;08/10/2023 18:08;Venda de PIZZA ALHO PORÓ GRANDE do pedido 51
+Insumo;PIMENTA BIQUINHO;kg;Saída;-0,023;-0,006;Saída;-0,029;Eduarda;08/10/2023 18:08;Venda de PIZZA ALHO PORÓ GRANDE do pedido 51
+Produto;COCA-COLA NORMAL 2L;UN;Saída;-3;-1;Saída;-4;Eduarda;07/10/2023 20:45;Venda de COCA-COLA NORMAL 2L do pedido 52
+Insumo;MUSSARELA;kg;Saída;8,926;-0,09;Saída;8,836;Eduarda;07/10/2023 20:45;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 52
+Insumo;CREAME CHEESE;kg;Saída;1,34;-0,02;Saída;1,32;Eduarda;07/10/2023 20:45;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 52
+Insumo;PEITO DE PERU;kg;Saída;-0,076;-0,04;Saída;-0,116;Eduarda;07/10/2023 20:45;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 52
+Insumo;ORÉGANO;kg;Saída;0,036;-0,0005;Saída;0,0355;Eduarda;07/10/2023 20:45;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 52
+Insumo;MOLHO TOMATE;kg;Saída;-3,21;-0,02;Saída;-3,23;Eduarda;07/10/2023 20:45;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 52
+Insumo;MASSA PIZZA;kg;Saída;-17,63;-0,13;Saída;-17,76;Eduarda;07/10/2023 20:45;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 52
+Insumo;SACO BOBINA;UN;Saída;-44,5;-0,5;Saída;-45;Eduarda;07/10/2023 20:45;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 52
+Insumo;CAIXA GRANDE;UN;Saída;34;-0,5;Saída;33,5;Eduarda;07/10/2023 20:45;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 52
+Insumo;MUSSARELA;kg;Saída;9,016;-0,09;Saída;8,926;Eduarda;07/10/2023 20:45;Venda de 1/2 MARGUERITA do pedido 52
+Insumo;TOMATE SALADA;kg;Saída;1,731;-0,0075;Saída;1,7235;Eduarda;07/10/2023 20:45;Venda de 1/2 MARGUERITA do pedido 52
+Insumo;ORÉGANO;kg;Saída;0,0365;-0,0005;Saída;0,036;Eduarda;07/10/2023 20:45;Venda de 1/2 MARGUERITA do pedido 52
+Insumo;MOLHO TOMATE;kg;Saída;-3,19;-0,02;Saída;-3,21;Eduarda;07/10/2023 20:45;Venda de 1/2 MARGUERITA do pedido 52
+Insumo;MASSA PIZZA;kg;Saída;-17,5;-0,13;Saída;-17,63;Eduarda;07/10/2023 20:45;Venda de 1/2 MARGUERITA do pedido 52
+Insumo;SACO BOBINA;UN;Saída;-44;-0,5;Saída;-44,5;Eduarda;07/10/2023 20:45;Venda de 1/2 MARGUERITA do pedido 52
+Insumo;CAIXA GRANDE;UN;Saída;34,5;-0,5;Saída;34;Eduarda;07/10/2023 20:45;Venda de 1/2 MARGUERITA do pedido 52
+Insumo;MANJERICÃO FRESCO;kg;Saída;-0,0035;-0,0005;Saída;-0,004;Eduarda;07/10/2023 20:45;Venda de 1/2 MARGUERITA do pedido 52
+Insumo;MUSSARELA;kg;Saída;9,171;-0,155;Saída;9,016;Eduarda;07/10/2023 20:43;Venda de 1/2 PARIS do pedido 52
+Insumo;AZEITONA PRETA;kg;Saída;0,2105;-0,005;Saída;0,2055;Eduarda;07/10/2023 20:43;Venda de 1/2 PARIS do pedido 52
+Insumo;CHAMPIGNON;kg;Saída;0,094;-0,01;Saída;0,084;Eduarda;07/10/2023 20:43;Venda de 1/2 PARIS do pedido 52
+Insumo;PRESUNTO;kg;Saída;0,265;-0,04;Saída;0,225;Eduarda;07/10/2023 20:43;Venda de 1/2 PARIS do pedido 52
+Insumo;ORÉGANO;kg;Saída;0,037;-0,0005;Saída;0,0365;Eduarda;07/10/2023 20:43;Venda de 1/2 PARIS do pedido 52
+Insumo;MOLHO TOMATE;kg;Saída;-3,145;-0,045;Saída;-3,19;Eduarda;07/10/2023 20:43;Venda de 1/2 PARIS do pedido 52
+Insumo;MASSA PIZZA;kg;Saída;-17,28;-0,22;Saída;-17,5;Eduarda;07/10/2023 20:43;Venda de 1/2 PARIS do pedido 52
+Insumo;SACO BOBINA;UN;Saída;-43,5;-0,5;Saída;-44;Eduarda;07/10/2023 20:43;Venda de 1/2 PARIS do pedido 52
+Insumo;CAIXA GIGANTE;UN;Saída;19;-0,5;Saída;18,5;Eduarda;07/10/2023 20:43;Venda de 1/2 PARIS do pedido 52
+Insumo;MUSSARELA;kg;Saída;9,326;-0,155;Saída;9,171;Eduarda;07/10/2023 20:43;Venda de 1/2 ALHO PORÓ do pedido 52
+Insumo;CREAME CHEESE;kg;Saída;1,4;-0,06;Saída;1,34;Eduarda;07/10/2023 20:43;Venda de 1/2 ALHO PORÓ do pedido 52
+Insumo;ORÉGANO;kg;Saída;0,0375;-0,0005;Saída;0,037;Eduarda;07/10/2023 20:43;Venda de 1/2 ALHO PORÓ do pedido 52
+Insumo;MOLHO TOMATE;kg;Saída;-3,1;-0,045;Saída;-3,145;Eduarda;07/10/2023 20:43;Venda de 1/2 ALHO PORÓ do pedido 52
+Insumo;MASSA PIZZA;kg;Saída;-17,06;-0,22;Saída;-17,28;Eduarda;07/10/2023 20:43;Venda de 1/2 ALHO PORÓ do pedido 52
+Insumo;SACO BOBINA;UN;Saída;-43;-0,5;Saída;-43,5;Eduarda;07/10/2023 20:43;Venda de 1/2 ALHO PORÓ do pedido 52
+Insumo;CAIXA GIGANTE;UN;Saída;19,5;-0,5;Saída;19;Eduarda;07/10/2023 20:43;Venda de 1/2 ALHO PORÓ do pedido 52
+Insumo;ALHO PORÓ;kg;Saída;0,01;-0,025;Saída;-0,015;Eduarda;07/10/2023 20:43;Venda de 1/2 ALHO PORÓ do pedido 52
+Insumo;PIMENTA BIQUINHO;kg;Saída;-0,018;-0,005;Saída;-0,023;Eduarda;07/10/2023 20:43;Venda de 1/2 ALHO PORÓ do pedido 52
+Insumo;MUSSARELA;kg;Saída;9,481;-0,155;Saída;9,326;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;AZEITONA PRETA;kg;Saída;0,218;-0,0075;Saída;0,2105;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;PRESUNTO;kg;Saída;0,29;-0,025;Saída;0,265;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;LINGUIÇA CALABRESA;kg;Saída;2,128;-0,03;Saída;2,098;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;CEBOLA ROXA;kg;Saída;0,212;-0,005;Saída;0,207;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;ORÉGANO;kg;Saída;0,038;-0,0005;Saída;0,0375;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;CEBOLA;kg;Saída;1,245;-0,0075;Saída;1,2375;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;PIMENTÃO;kg;Saída;0,262;-0,0075;Saída;0,2545;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;MOLHO TOMATE;kg;Saída;-3,055;-0,045;Saída;-3,1;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;MASSA PIZZA;kg;Saída;-16,84;-0,22;Saída;-17,06;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;SACO BOBINA;UN;Saída;-42,5;-0,5;Saída;-43;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;CAIXA GIGANTE;UN;Saída;20;-0,5;Saída;19,5;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;OVO;UN;Saída;-18;-1;Saída;-19;Eduarda;07/10/2023 20:43;Venda de 1/2 PORTUGUESA do pedido 52
+Insumo;MUSSARELA;kg;Saída;9,636;-0,155;Saída;9,481;Eduarda;07/10/2023 20:43;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 52
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;3,721;-0,06;Saída;3,661;Eduarda;07/10/2023 20:43;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 52
+Insumo;ORÉGANO;kg;Saída;0,0385;-0,0005;Saída;0,038;Eduarda;07/10/2023 20:43;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 52
+Insumo;MOLHO TOMATE;kg;Saída;-3,01;-0,045;Saída;-3,055;Eduarda;07/10/2023 20:43;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 52
+Insumo;MASSA PIZZA;kg;Saída;-16,62;-0,22;Saída;-16,84;Eduarda;07/10/2023 20:43;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 52
+Insumo;FRANGO DESFIADO;kg;Saída;1,567;-0,09;Saída;1,477;Eduarda;07/10/2023 20:43;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 52
+Insumo;SACO BOBINA;UN;Saída;-42;-0,5;Saída;-42,5;Eduarda;07/10/2023 20:43;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 52
+Insumo;CAIXA GIGANTE;UN;Saída;20,5;-0,5;Saída;20;Eduarda;07/10/2023 20:43;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 52
+Insumo;TOMATE SALADA;kg;Entrada;1,141;0,59;Entrada;1,731;Eduarda;06/10/2023 23:18;
+Insumo;RÚCULA;kg;Entrada;0,15;0,1;Entrada;0,25;Eduarda;06/10/2023 23:18;
+Insumo;PIMENTÃO;kg;Entrada;0,172;0,09;Entrada;0,262;Eduarda;06/10/2023 23:18;
+Insumo;MILHO;kg;Entrada;0,16;0,17;Entrada;0,33;Eduarda;06/10/2023 23:18;
+Produto;GUARANÁ MANT. 2L;UN;Entrada;2;1;Entrada;3;Eduarda;06/10/2023 23:18;
+Produto;GUARANÁ ANT. 1,5L;UN;Entrada;1;1;Entrada;2;Eduarda;06/10/2023 23:18;
+Insumo;CEBOLA;kg;Entrada;1,01;0,235;Entrada;1,245;Eduarda;06/10/2023 23:18;
+Insumo;ALHO PORÓ;kg;Entrada;-0,09;0,1;Entrada;0,01;Eduarda;06/10/2023 23:18;
+Insumo;ALHO;kg;Entrada;0,1;0,125;Entrada;0,225;Eduarda;06/10/2023 23:18;
+Insumo;AÇÚCAR;kg;Entrada;1,066;1;Entrada;2,066;Eduarda;06/10/2023 23:18;
+Insumo;MUSSARELA;kg;Saída;9,816;-0,18;Saída;9,636;Eduarda;06/10/2023 21:57;Venda de PIZZA CALABRESA GRANDE do pedido 50
+Insumo;LINGUIÇA CALABRESA;kg;Saída;2,328;-0,2;Saída;2,128;Eduarda;06/10/2023 21:57;Venda de PIZZA CALABRESA GRANDE do pedido 50
+Insumo;CEBOLA ROXA;kg;Saída;0,214;-0,002;Saída;0,212;Eduarda;06/10/2023 21:57;Venda de PIZZA CALABRESA GRANDE do pedido 50
+Insumo;ORÉGANO;kg;Saída;0,0395;-0,001;Saída;0,0385;Eduarda;06/10/2023 21:57;Venda de PIZZA CALABRESA GRANDE do pedido 50
+Insumo;CEBOLA;kg;Saída;1,016;-0,006;Saída;1,01;Eduarda;06/10/2023 21:57;Venda de PIZZA CALABRESA GRANDE do pedido 50
+Insumo;MOLHO TOMATE;kg;Saída;-2,97;-0,04;Saída;-3,01;Eduarda;06/10/2023 21:57;Venda de PIZZA CALABRESA GRANDE do pedido 50
+Insumo;MASSA PIZZA;kg;Saída;-16,36;-0,26;Saída;-16,62;Eduarda;06/10/2023 21:57;Venda de PIZZA CALABRESA GRANDE do pedido 50
+Insumo;SACO BOBINA;UN;Saída;-41;-1;Saída;-42;Eduarda;06/10/2023 21:57;Venda de PIZZA CALABRESA GRANDE do pedido 50
+Insumo;CAIXA GRANDE;UN;Saída;35,5;-1;Saída;34,5;Eduarda;06/10/2023 21:57;Venda de PIZZA CALABRESA GRANDE do pedido 50
+Insumo;MUSSARELA;kg;Saída;9,871;-0,055;Saída;9,816;Eduarda;06/10/2023 21:55;Venda de 1/2 FRANGO C/ CATUPIRY  do pedido 48
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;3,736;-0,015;Saída;3,721;Eduarda;06/10/2023 21:55;Venda de 1/2 FRANGO C/ CATUPIRY  do pedido 48
+Insumo;ORÉGANO;kg;Saída;0,04;-0,0005;Saída;0,0395;Eduarda;06/10/2023 21:55;Venda de 1/2 FRANGO C/ CATUPIRY  do pedido 48
+Insumo;MOLHO TOMATE;kg;Saída;-2,96;-0,01;Saída;-2,97;Eduarda;06/10/2023 21:55;Venda de 1/2 FRANGO C/ CATUPIRY  do pedido 48
+Insumo;MASSA PIZZA;kg;Saída;-16,275;-0,085;Saída;-16,36;Eduarda;06/10/2023 21:55;Venda de 1/2 FRANGO C/ CATUPIRY  do pedido 48
+Insumo;FRANGO DESFIADO;kg;Saída;1,592;-0,025;Saída;1,567;Eduarda;06/10/2023 21:55;Venda de 1/2 FRANGO C/ CATUPIRY  do pedido 48
+Insumo;MUSSARELA;kg;Saída;9,926;-0,055;Saída;9,871;Eduarda;06/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 48
+Insumo;LINGUIÇA CALABRESA;kg;Saída;2,408;-0,08;Saída;2,328;Eduarda;06/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 48
+Insumo;ORÉGANO;kg;Saída;0,0405;-0,0005;Saída;0,04;Eduarda;06/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 48
+Insumo;MOLHO TOMATE;kg;Saída;-2,95;-0,01;Saída;-2,96;Eduarda;06/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 48
+Insumo;MASSA PIZZA;kg;Saída;-16,19;-0,085;Saída;-16,275;Eduarda;06/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 48
+Insumo;MUSSARELA;kg;Saída;10,036;-0,11;Saída;9,926;Eduarda;06/10/2023 21:52;Venda de PIZZA CALABRESA BROTINHO do pedido 46
+Insumo;LINGUIÇA CALABRESA;kg;Saída;2,568;-0,16;Saída;2,408;Eduarda;06/10/2023 21:52;Venda de PIZZA CALABRESA BROTINHO do pedido 46
+Insumo;ORÉGANO;kg;Saída;0,0415;-0,001;Saída;0,0405;Eduarda;06/10/2023 21:52;Venda de PIZZA CALABRESA BROTINHO do pedido 46
+Insumo;MOLHO TOMATE;kg;Saída;-2,93;-0,02;Saída;-2,95;Eduarda;06/10/2023 21:52;Venda de PIZZA CALABRESA BROTINHO do pedido 46
+Insumo;MASSA PIZZA;kg;Saída;-16,02;-0,17;Saída;-16,19;Eduarda;06/10/2023 21:52;Venda de PIZZA CALABRESA BROTINHO do pedido 46
+Insumo;MUSSARELA;kg;Saída;10,191;-0,155;Saída;10,036;Eduarda;06/10/2023 20:42;Venda de 1/2 BACON C/ OVOS do pedido 45
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;3,751;-0,015;Saída;3,736;Eduarda;06/10/2023 20:42;Venda de 1/2 BACON C/ OVOS do pedido 45
+Insumo;BACON;kg;Saída;3,61;-0,03;Saída;3,58;Eduarda;06/10/2023 20:42;Venda de 1/2 BACON C/ OVOS do pedido 45
+Insumo;ORÉGANO;kg;Saída;0,042;-0,0005;Saída;0,0415;Eduarda;06/10/2023 20:42;Venda de 1/2 BACON C/ OVOS do pedido 45
+Insumo;MOLHO TOMATE;kg;Saída;-2,885;-0,045;Saída;-2,93;Eduarda;06/10/2023 20:42;Venda de 1/2 BACON C/ OVOS do pedido 45
+Insumo;MASSA PIZZA;kg;Saída;-15,8;-0,22;Saída;-16,02;Eduarda;06/10/2023 20:42;Venda de 1/2 BACON C/ OVOS do pedido 45
+Insumo;SACO BOBINA;UN;Saída;-40,5;-0,5;Saída;-41;Eduarda;06/10/2023 20:42;Venda de 1/2 BACON C/ OVOS do pedido 45
+Insumo;CAIXA GIGANTE;UN;Saída;21;-0,5;Saída;20,5;Eduarda;06/10/2023 20:42;Venda de 1/2 BACON C/ OVOS do pedido 45
+Insumo;OVO;UN;Saída;-16,5;-1,5;Saída;-18;Eduarda;06/10/2023 20:42;Venda de 1/2 BACON C/ OVOS do pedido 45
+Insumo;MUSSARELA;kg;Saída;10,346;-0,155;Saída;10,191;Eduarda;06/10/2023 20:42;Venda de 1/2 CALABRESA do pedido 45
+Insumo;LINGUIÇA CALABRESA;kg;Saída;2,683;-0,115;Saída;2,568;Eduarda;06/10/2023 20:42;Venda de 1/2 CALABRESA do pedido 45
+Insumo;CEBOLA ROXA;kg;Saída;0,2155;-0,0015;Saída;0,214;Eduarda;06/10/2023 20:42;Venda de 1/2 CALABRESA do pedido 45
+Insumo;ORÉGANO;kg;Saída;0,0425;-0,0005;Saída;0,042;Eduarda;06/10/2023 20:42;Venda de 1/2 CALABRESA do pedido 45
+Insumo;CEBOLA;kg;Saída;1,021;-0,005;Saída;1,016;Eduarda;06/10/2023 20:42;Venda de 1/2 CALABRESA do pedido 45
+Insumo;MOLHO TOMATE;kg;Saída;-2,84;-0,045;Saída;-2,885;Eduarda;06/10/2023 20:42;Venda de 1/2 CALABRESA do pedido 45
+Insumo;MASSA PIZZA;kg;Saída;-15,58;-0,22;Saída;-15,8;Eduarda;06/10/2023 20:42;Venda de 1/2 CALABRESA do pedido 45
+Insumo;SACO BOBINA;UN;Saída;-40;-0,5;Saída;-40,5;Eduarda;06/10/2023 20:42;Venda de 1/2 CALABRESA do pedido 45
+Insumo;CAIXA GIGANTE;UN;Saída;21,5;-0,5;Saída;21;Eduarda;06/10/2023 20:42;Venda de 1/2 CALABRESA do pedido 45
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;3,801;-0,05;Saída;3,751;Eduarda;06/10/2023 20:42;Venda de complemento Adicional Catupiry do pedido 45
+Produto;COCA-COLA NORMAL 600ML;UN;Saída;0;-1;Saída;-1;Eduarda;06/10/2023 20:20;Venda de COCA-COLA NORMAL 600ML do pedido 45
+Produto;COCA-COLA NORMAL 600ML;UN;Entrada;0;0;;0;Eduarda;06/10/2023 20:13;Lançamento Inicial de Estoque
+Produto;COCA-COLA NORMAL 2L;UN;Saída;-2;-1;Saída;-3;Eduarda;04/10/2023 22:25;Venda de COCA-COLA NORMAL 2L do pedido 42
+Insumo;MUSSARELA;kg;Saída;10,501;-0,155;Saída;10,346;Eduarda;04/10/2023 22:25;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 42
+Insumo;PEITO DE PERU;kg;Saída;-0,016;-0,06;Saída;-0,076;Eduarda;04/10/2023 22:25;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 42
+Insumo;ORÉGANO;kg;Saída;0,043;-0,0005;Saída;0,0425;Eduarda;04/10/2023 22:25;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 42
+Insumo;MOLHO TOMATE;kg;Saída;-2,795;-0,045;Saída;-2,84;Eduarda;04/10/2023 22:25;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 42
+Insumo;MASSA PIZZA;kg;Saída;-15,36;-0,22;Saída;-15,58;Eduarda;04/10/2023 22:25;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 42
+Insumo;SACO BOBINA;UN;Saída;-39,5;-0,5;Saída;-40;Eduarda;04/10/2023 22:25;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 42
+Insumo;CAIXA GIGANTE;UN;Saída;22;-0,5;Saída;21,5;Eduarda;04/10/2023 22:25;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 42
+Insumo;TOMATE SECO;kg;Saída;-0,005;-0,005;Saída;-0,01;Eduarda;04/10/2023 22:25;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 42
+Insumo;MUSSARELA;kg;Saída;10,656;-0,155;Saída;10,501;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;AZEITONA PRETA;kg;Saída;0,2255;-0,0075;Saída;0,218;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;PRESUNTO;kg;Saída;0,315;-0,025;Saída;0,29;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;LINGUIÇA CALABRESA;kg;Saída;2,713;-0,03;Saída;2,683;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;CEBOLA ROXA;kg;Saída;0,2205;-0,005;Saída;0,2155;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;ORÉGANO;kg;Saída;0,0435;-0,0005;Saída;0,043;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;CEBOLA;kg;Saída;1,0285;-0,0075;Saída;1,021;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;PIMENTÃO;kg;Saída;0,1795;-0,0075;Saída;0,172;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;MOLHO TOMATE;kg;Saída;-2,75;-0,045;Saída;-2,795;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;MASSA PIZZA;kg;Saída;-15,14;-0,22;Saída;-15,36;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;SACO BOBINA;UN;Saída;-39;-0,5;Saída;-39,5;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;CAIXA GIGANTE;UN;Saída;22,5;-0,5;Saída;22;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;OVO;UN;Saída;-15,5;-1;Saída;-16,5;Eduarda;04/10/2023 22:25;Venda de 1/2 PORTUGUESA do pedido 42
+Insumo;MUSSARELA;kg;Saída;10,746;-0,09;Saída;10,656;Eduarda;04/10/2023 22:21;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 41
+Insumo;CREAME CHEESE;kg;Saída;1,42;-0,02;Saída;1,4;Eduarda;04/10/2023 22:21;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 41
+Insumo;PEITO DE PERU;kg;Saída;0,024;-0,04;Saída;-0,016;Eduarda;04/10/2023 22:21;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 41
+Insumo;ORÉGANO;kg;Saída;0,044;-0,0005;Saída;0,0435;Eduarda;04/10/2023 22:21;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 41
+Insumo;MOLHO TOMATE;kg;Saída;-2,73;-0,02;Saída;-2,75;Eduarda;04/10/2023 22:21;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 41
+Insumo;MASSA PIZZA;kg;Saída;-15,01;-0,13;Saída;-15,14;Eduarda;04/10/2023 22:21;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 41
+Insumo;SACO BOBINA;UN;Saída;-38,5;-0,5;Saída;-39;Eduarda;04/10/2023 22:21;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 41
+Insumo;CAIXA GRANDE;UN;Saída;36;-0,5;Saída;35,5;Eduarda;04/10/2023 22:21;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 41
+Insumo;MUSSARELA;kg;Saída;10,836;-0,09;Saída;10,746;Eduarda;04/10/2023 22:21;Venda de 1/2 4 QUEIJOS do pedido 41
+Insumo;GORGONZOLA;kg;Saída;0,018;-0,005;Saída;0,013;Eduarda;04/10/2023 22:21;Venda de 1/2 4 QUEIJOS do pedido 41
+Insumo;ORÉGANO;kg;Saída;0,0445;-0,0005;Saída;0,044;Eduarda;04/10/2023 22:21;Venda de 1/2 4 QUEIJOS do pedido 41
+Insumo;MOLHO TOMATE;kg;Saída;-2,7;-0,03;Saída;-2,73;Eduarda;04/10/2023 22:21;Venda de 1/2 4 QUEIJOS do pedido 41
+Insumo;MASSA PIZZA;kg;Saída;-14,88;-0,13;Saída;-15,01;Eduarda;04/10/2023 22:21;Venda de 1/2 4 QUEIJOS do pedido 41
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,54;-0,03;Saída;-0,57;Eduarda;04/10/2023 22:21;Venda de 1/2 4 QUEIJOS do pedido 41
+Insumo;SACO BOBINA;UN;Saída;-38;-0,5;Saída;-38,5;Eduarda;04/10/2023 22:21;Venda de 1/2 4 QUEIJOS do pedido 41
+Insumo;CAIXA GRANDE;UN;Saída;36,5;-0,5;Saída;36;Eduarda;04/10/2023 22:21;Venda de 1/2 4 QUEIJOS do pedido 41
+Insumo;MUSSARELA;kg;Saída;10,926;-0,09;Saída;10,836;Eduarda;04/10/2023 22:16;Venda de 1/2 MARGUERITA do pedido 40
+Insumo;TOMATE SALADA;kg;Saída;1,1485;-0,0075;Saída;1,141;Eduarda;04/10/2023 22:16;Venda de 1/2 MARGUERITA do pedido 40
+Insumo;ORÉGANO;kg;Saída;0,045;-0,0005;Saída;0,0445;Eduarda;04/10/2023 22:16;Venda de 1/2 MARGUERITA do pedido 40
+Insumo;MOLHO TOMATE;kg;Saída;-2,68;-0,02;Saída;-2,7;Eduarda;04/10/2023 22:16;Venda de 1/2 MARGUERITA do pedido 40
+Insumo;MASSA PIZZA;kg;Saída;-14,75;-0,13;Saída;-14,88;Eduarda;04/10/2023 22:16;Venda de 1/2 MARGUERITA do pedido 40
+Insumo;SACO BOBINA;UN;Saída;-37,5;-0,5;Saída;-38;Eduarda;04/10/2023 22:16;Venda de 1/2 MARGUERITA do pedido 40
+Insumo;CAIXA GRANDE;UN;Saída;37;-0,5;Saída;36,5;Eduarda;04/10/2023 22:16;Venda de 1/2 MARGUERITA do pedido 40
+Insumo;MANJERICÃO FRESCO;kg;Saída;-0,003;-0,0005;Saída;-0,0035;Eduarda;04/10/2023 22:16;Venda de 1/2 MARGUERITA do pedido 40
+Insumo;MUSSARELA;kg;Saída;11,016;-0,09;Saída;10,926;Eduarda;04/10/2023 22:16;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 40
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;3,831;-0,03;Saída;3,801;Eduarda;04/10/2023 22:16;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 40
+Insumo;ORÉGANO;kg;Saída;0,0455;-0,0005;Saída;0,045;Eduarda;04/10/2023 22:16;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 40
+Insumo;MOLHO TOMATE;kg;Saída;-2,66;-0,02;Saída;-2,68;Eduarda;04/10/2023 22:16;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 40
+Insumo;MASSA PIZZA;kg;Saída;-14,62;-0,13;Saída;-14,75;Eduarda;04/10/2023 22:16;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 40
+Insumo;FRANGO DESFIADO;kg;Saída;1,632;-0,04;Saída;1,592;Eduarda;04/10/2023 22:16;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 40
+Insumo;SACO BOBINA;UN;Saída;-37;-0,5;Saída;-37,5;Eduarda;04/10/2023 22:16;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 40
+Insumo;CAIXA GRANDE;UN;Saída;37,5;-0,5;Saída;37;Eduarda;04/10/2023 22:16;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 40
+Insumo;MUSSARELA;kg;Saída;11,171;-0,155;Saída;11,016;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;AZEITONA PRETA;kg;Saída;0,233;-0,0075;Saída;0,2255;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;PRESUNTO;kg;Saída;0,34;-0,025;Saída;0,315;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;LINGUIÇA CALABRESA;kg;Saída;2,743;-0,03;Saída;2,713;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;CEBOLA ROXA;kg;Saída;0,2255;-0,005;Saída;0,2205;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;ORÉGANO;kg;Saída;0,046;-0,0005;Saída;0,0455;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;CEBOLA;kg;Saída;1,036;-0,0075;Saída;1,0285;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;PIMENTÃO;kg;Saída;0,187;-0,0075;Saída;0,1795;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;MOLHO TOMATE;kg;Saída;-2,615;-0,045;Saída;-2,66;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;MASSA PIZZA;kg;Saída;-14,4;-0,22;Saída;-14,62;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;SACO BOBINA;UN;Saída;-36,5;-0,5;Saída;-37;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;CAIXA GIGANTE;UN;Saída;23;-0,5;Saída;22,5;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;OVO;UN;Saída;-14,5;-1;Saída;-15,5;Eduarda;04/10/2023 22:07;Venda de 1/2 PORTUGUESA do pedido 39
+Insumo;MUSSARELA;kg;Saída;11,326;-0,155;Saída;11,171;Eduarda;04/10/2023 22:07;Venda de 1/2 BACON C/ OVOS do pedido 39
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;3,846;-0,015;Saída;3,831;Eduarda;04/10/2023 22:07;Venda de 1/2 BACON C/ OVOS do pedido 39
+Insumo;BACON;kg;Saída;3,64;-0,03;Saída;3,61;Eduarda;04/10/2023 22:07;Venda de 1/2 BACON C/ OVOS do pedido 39
+Insumo;ORÉGANO;kg;Saída;0,0465;-0,0005;Saída;0,046;Eduarda;04/10/2023 22:07;Venda de 1/2 BACON C/ OVOS do pedido 39
+Insumo;MOLHO TOMATE;kg;Saída;-2,57;-0,045;Saída;-2,615;Eduarda;04/10/2023 22:07;Venda de 1/2 BACON C/ OVOS do pedido 39
+Insumo;MASSA PIZZA;kg;Saída;-14,18;-0,22;Saída;-14,4;Eduarda;04/10/2023 22:07;Venda de 1/2 BACON C/ OVOS do pedido 39
+Insumo;SACO BOBINA;UN;Saída;-36;-0,5;Saída;-36,5;Eduarda;04/10/2023 22:07;Venda de 1/2 BACON C/ OVOS do pedido 39
+Insumo;CAIXA GIGANTE;UN;Saída;23,5;-0,5;Saída;23;Eduarda;04/10/2023 22:07;Venda de 1/2 BACON C/ OVOS do pedido 39
+Insumo;OVO;UN;Saída;-13;-1,5;Saída;-14,5;Eduarda;04/10/2023 22:07;Venda de 1/2 BACON C/ OVOS do pedido 39
+Insumo;MUSSARELA;kg;Saída;11,481;-0,155;Saída;11,326;Eduarda;04/10/2023 22:07;Venda de 1/2 ALHO PORÓ do pedido 39
+Insumo;CREAME CHEESE;kg;Saída;1,48;-0,06;Saída;1,42;Eduarda;04/10/2023 22:07;Venda de 1/2 ALHO PORÓ do pedido 39
+Insumo;ORÉGANO;kg;Saída;0,047;-0,0005;Saída;0,0465;Eduarda;04/10/2023 22:07;Venda de 1/2 ALHO PORÓ do pedido 39
+Insumo;MOLHO TOMATE;kg;Saída;-2,525;-0,045;Saída;-2,57;Eduarda;04/10/2023 22:07;Venda de 1/2 ALHO PORÓ do pedido 39
+Insumo;MASSA PIZZA;kg;Saída;-13,96;-0,22;Saída;-14,18;Eduarda;04/10/2023 22:07;Venda de 1/2 ALHO PORÓ do pedido 39
+Insumo;SACO BOBINA;UN;Saída;-35,5;-0,5;Saída;-36;Eduarda;04/10/2023 22:07;Venda de 1/2 ALHO PORÓ do pedido 39
+Insumo;CAIXA GIGANTE;UN;Saída;24;-0,5;Saída;23,5;Eduarda;04/10/2023 22:07;Venda de 1/2 ALHO PORÓ do pedido 39
+Insumo;ALHO PORÓ;kg;Saída;-0,065;-0,025;Saída;-0,09;Eduarda;04/10/2023 22:07;Venda de 1/2 ALHO PORÓ do pedido 39
+Insumo;PIMENTA BIQUINHO;kg;Saída;-0,013;-0,005;Saída;-0,018;Eduarda;04/10/2023 22:07;Venda de 1/2 ALHO PORÓ do pedido 39
+Insumo;MUSSARELA;kg;Saída;11,636;-0,155;Saída;11,481;Eduarda;04/10/2023 22:07;Venda de 1/2 4 QUEIJOS do pedido 39
+Insumo;GORGONZOLA;kg;Saída;0,028;-0,01;Saída;0,018;Eduarda;04/10/2023 22:07;Venda de 1/2 4 QUEIJOS do pedido 39
+Insumo;ORÉGANO;kg;Saída;0,0475;-0,0005;Saída;0,047;Eduarda;04/10/2023 22:07;Venda de 1/2 4 QUEIJOS do pedido 39
+Insumo;MOLHO TOMATE;kg;Saída;-2,48;-0,045;Saída;-2,525;Eduarda;04/10/2023 22:07;Venda de 1/2 4 QUEIJOS do pedido 39
+Insumo;MASSA PIZZA;kg;Saída;-13,74;-0,22;Saída;-13,96;Eduarda;04/10/2023 22:07;Venda de 1/2 4 QUEIJOS do pedido 39
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,49;-0,05;Saída;-0,54;Eduarda;04/10/2023 22:07;Venda de 1/2 4 QUEIJOS do pedido 39
+Insumo;SACO BOBINA;UN;Saída;-35;-0,5;Saída;-35,5;Eduarda;04/10/2023 22:07;Venda de 1/2 4 QUEIJOS do pedido 39
+Insumo;CAIXA GIGANTE;UN;Saída;24,5;-0,5;Saída;24;Eduarda;04/10/2023 22:07;Venda de 1/2 4 QUEIJOS do pedido 39
+Produto;COCA-COLA NORMAL 2L;UN;Saída;-1;-1;Saída;-2;Eduarda;04/10/2023 22:02;Venda de COCA-COLA NORMAL 2L do pedido 38
+Insumo;MUSSARELA;kg;Saída;11,791;-0,155;Saída;11,636;Eduarda;04/10/2023 22:02;Venda de 1/2 PEPPERONI do pedido 38
+Insumo;PEPPERONI;kg;Saída;1,088;-0,045;Saída;1,043;Eduarda;04/10/2023 22:02;Venda de 1/2 PEPPERONI do pedido 38
+Insumo;ORÉGANO;kg;Saída;0,048;-0,0005;Saída;0,0475;Eduarda;04/10/2023 22:02;Venda de 1/2 PEPPERONI do pedido 38
+Insumo;MOLHO TOMATE;kg;Saída;-2,435;-0,045;Saída;-2,48;Eduarda;04/10/2023 22:02;Venda de 1/2 PEPPERONI do pedido 38
+Insumo;MASSA PIZZA;kg;Saída;-13,52;-0,22;Saída;-13,74;Eduarda;04/10/2023 22:02;Venda de 1/2 PEPPERONI do pedido 38
+Insumo;SACO BOBINA;UN;Saída;-34,5;-0,5;Saída;-35;Eduarda;04/10/2023 22:02;Venda de 1/2 PEPPERONI do pedido 38
+Insumo;CAIXA GIGANTE;UN;Saída;25;-0,5;Saída;24,5;Eduarda;04/10/2023 22:02;Venda de 1/2 PEPPERONI do pedido 38
+Insumo;MUSSARELA;kg;Saída;11,946;-0,155;Saída;11,791;Eduarda;04/10/2023 22:02;Venda de 1/2 MARGUERITA do pedido 38
+Insumo;TOMATE SALADA;kg;Saída;1,1635;-0,015;Saída;1,1485;Eduarda;04/10/2023 22:02;Venda de 1/2 MARGUERITA do pedido 38
+Insumo;ORÉGANO;kg;Saída;0,0485;-0,0005;Saída;0,048;Eduarda;04/10/2023 22:02;Venda de 1/2 MARGUERITA do pedido 38
+Insumo;MOLHO TOMATE;kg;Saída;-2,39;-0,045;Saída;-2,435;Eduarda;04/10/2023 22:02;Venda de 1/2 MARGUERITA do pedido 38
+Insumo;MASSA PIZZA;kg;Saída;-13,3;-0,22;Saída;-13,52;Eduarda;04/10/2023 22:02;Venda de 1/2 MARGUERITA do pedido 38
+Insumo;SACO BOBINA;UN;Saída;-34;-0,5;Saída;-34,5;Eduarda;04/10/2023 22:02;Venda de 1/2 MARGUERITA do pedido 38
+Insumo;CAIXA GIGANTE;UN;Saída;25,5;-0,5;Saída;25;Eduarda;04/10/2023 22:02;Venda de 1/2 MARGUERITA do pedido 38
+Insumo;MANJERICÃO FRESCO;kg;Saída;-0,0025;-0,0005;Saída;-0,003;Eduarda;04/10/2023 22:02;Venda de 1/2 MARGUERITA do pedido 38
+Insumo;MUSSARELA;kg;Saída;12,256;-0,31;Saída;11,946;Eduarda;04/10/2023 22:02;Venda de PIZZA CALABRESA GIGANTE do pedido 38
+Insumo;LINGUIÇA CALABRESA;kg;Saída;2,973;-0,23;Saída;2,743;Eduarda;04/10/2023 22:02;Venda de PIZZA CALABRESA GIGANTE do pedido 38
+Insumo;CEBOLA ROXA;kg;Saída;0,2285;-0,003;Saída;0,2255;Eduarda;04/10/2023 22:02;Venda de PIZZA CALABRESA GIGANTE do pedido 38
+Insumo;ORÉGANO;kg;Saída;0,0495;-0,001;Saída;0,0485;Eduarda;04/10/2023 22:02;Venda de PIZZA CALABRESA GIGANTE do pedido 38
+Insumo;CEBOLA;kg;Saída;1,046;-0,01;Saída;1,036;Eduarda;04/10/2023 22:02;Venda de PIZZA CALABRESA GIGANTE do pedido 38
+Insumo;MOLHO TOMATE;kg;Saída;-2,3;-0,09;Saída;-2,39;Eduarda;04/10/2023 22:02;Venda de PIZZA CALABRESA GIGANTE do pedido 38
+Insumo;MASSA PIZZA;kg;Saída;-12,86;-0,44;Saída;-13,3;Eduarda;04/10/2023 22:02;Venda de PIZZA CALABRESA GIGANTE do pedido 38
+Insumo;SACO BOBINA;UN;Saída;-33;-1;Saída;-34;Eduarda;04/10/2023 22:02;Venda de PIZZA CALABRESA GIGANTE do pedido 38
+Insumo;CAIXA GIGANTE;UN;Saída;26,5;-1;Saída;25,5;Eduarda;04/10/2023 22:02;Venda de PIZZA CALABRESA GIGANTE do pedido 38
+Insumo;MUSSARELA;kg;Saída;12,411;-0,155;Saída;12,256;Eduarda;04/10/2023 21:57;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 37
+Insumo;CREAME CHEESE;kg;Saída;1,51;-0,03;Saída;1,48;Eduarda;04/10/2023 21:57;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 37
+Insumo;PEITO DE PERU;kg;Saída;0,084;-0,06;Saída;0,024;Eduarda;04/10/2023 21:57;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 37
+Insumo;ORÉGANO;kg;Saída;0,05;-0,0005;Saída;0,0495;Eduarda;04/10/2023 21:57;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 37
+Insumo;MOLHO TOMATE;kg;Saída;-2,255;-0,045;Saída;-2,3;Eduarda;04/10/2023 21:57;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 37
+Insumo;MASSA PIZZA;kg;Saída;-12,64;-0,22;Saída;-12,86;Eduarda;04/10/2023 21:57;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 37
+Insumo;SACO BOBINA;UN;Saída;-32,5;-0,5;Saída;-33;Eduarda;04/10/2023 21:57;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 37
+Insumo;CAIXA GIGANTE;UN;Saída;27;-0,5;Saída;26,5;Eduarda;04/10/2023 21:57;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 37
+Insumo;MUSSARELA;kg;Saída;12,566;-0,155;Saída;12,411;Eduarda;04/10/2023 21:57;Venda de 1/2 CALABRESA do pedido 37
+Insumo;LINGUIÇA CALABRESA;kg;Saída;3,088;-0,115;Saída;2,973;Eduarda;04/10/2023 21:57;Venda de 1/2 CALABRESA do pedido 37
+Insumo;CEBOLA ROXA;kg;Saída;0,23;-0,0015;Saída;0,2285;Eduarda;04/10/2023 21:57;Venda de 1/2 CALABRESA do pedido 37
+Insumo;ORÉGANO;kg;Saída;0,0505;-0,0005;Saída;0,05;Eduarda;04/10/2023 21:57;Venda de 1/2 CALABRESA do pedido 37
+Insumo;CEBOLA;kg;Saída;1,051;-0,005;Saída;1,046;Eduarda;04/10/2023 21:57;Venda de 1/2 CALABRESA do pedido 37
+Insumo;MOLHO TOMATE;kg;Saída;-2,21;-0,045;Saída;-2,255;Eduarda;04/10/2023 21:57;Venda de 1/2 CALABRESA do pedido 37
+Insumo;MASSA PIZZA;kg;Saída;-12,42;-0,22;Saída;-12,64;Eduarda;04/10/2023 21:57;Venda de 1/2 CALABRESA do pedido 37
+Insumo;SACO BOBINA;UN;Saída;-32;-0,5;Saída;-32,5;Eduarda;04/10/2023 21:57;Venda de 1/2 CALABRESA do pedido 37
+Insumo;CAIXA GIGANTE;UN;Saída;27,5;-0,5;Saída;27;Eduarda;04/10/2023 21:57;Venda de 1/2 CALABRESA do pedido 37
+Insumo;MUSSARELA;kg;Saída;12,721;-0,155;Saída;12,566;Eduarda;04/10/2023 21:55;Venda de 1/2 PARIS do pedido 37
+Insumo;AZEITONA PRETA;kg;Saída;0,238;-0,005;Saída;0,233;Eduarda;04/10/2023 21:55;Venda de 1/2 PARIS do pedido 37
+Insumo;CHAMPIGNON;kg;Saída;0,104;-0,01;Saída;0,094;Eduarda;04/10/2023 21:55;Venda de 1/2 PARIS do pedido 37
+Insumo;PRESUNTO;kg;Saída;0,38;-0,04;Saída;0,34;Eduarda;04/10/2023 21:55;Venda de 1/2 PARIS do pedido 37
+Insumo;ORÉGANO;kg;Saída;0,051;-0,0005;Saída;0,0505;Eduarda;04/10/2023 21:55;Venda de 1/2 PARIS do pedido 37
+Insumo;MOLHO TOMATE;kg;Saída;-2,165;-0,045;Saída;-2,21;Eduarda;04/10/2023 21:55;Venda de 1/2 PARIS do pedido 37
+Insumo;MASSA PIZZA;kg;Saída;-12,2;-0,22;Saída;-12,42;Eduarda;04/10/2023 21:55;Venda de 1/2 PARIS do pedido 37
+Insumo;SACO BOBINA;UN;Saída;-31,5;-0,5;Saída;-32;Eduarda;04/10/2023 21:55;Venda de 1/2 PARIS do pedido 37
+Insumo;CAIXA GIGANTE;UN;Saída;28;-0,5;Saída;27,5;Eduarda;04/10/2023 21:55;Venda de 1/2 PARIS do pedido 37
+Insumo;MUSSARELA;kg;Saída;12,876;-0,155;Saída;12,721;Eduarda;04/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 37
+Insumo;LINGUIÇA CALABRESA;kg;Saída;3,203;-0,115;Saída;3,088;Eduarda;04/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 37
+Insumo;CEBOLA ROXA;kg;Saída;0,2315;-0,0015;Saída;0,23;Eduarda;04/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 37
+Insumo;ORÉGANO;kg;Saída;0,0515;-0,0005;Saída;0,051;Eduarda;04/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 37
+Insumo;CEBOLA;kg;Saída;1,056;-0,005;Saída;1,051;Eduarda;04/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 37
+Insumo;MOLHO TOMATE;kg;Saída;-2,12;-0,045;Saída;-2,165;Eduarda;04/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 37
+Insumo;MASSA PIZZA;kg;Saída;-11,98;-0,22;Saída;-12,2;Eduarda;04/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 37
+Insumo;SACO BOBINA;UN;Saída;-31;-0,5;Saída;-31,5;Eduarda;04/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 37
+Insumo;CAIXA GIGANTE;UN;Saída;28,5;-0,5;Saída;28;Eduarda;04/10/2023 21:55;Venda de 1/2 CALABRESA do pedido 37
+Insumo;MUSSARELA;kg;Saída;12,966;-0,09;Saída;12,876;Eduarda;04/10/2023 21:01;Venda de 1/2 MARGUERITA do pedido 36
+Insumo;TOMATE SALADA;kg;Saída;1,171;-0,0075;Saída;1,1635;Eduarda;04/10/2023 21:01;Venda de 1/2 MARGUERITA do pedido 36
+Insumo;ORÉGANO;kg;Saída;0,052;-0,0005;Saída;0,0515;Eduarda;04/10/2023 21:01;Venda de 1/2 MARGUERITA do pedido 36
+Insumo;MOLHO TOMATE;kg;Saída;-2,1;-0,02;Saída;-2,12;Eduarda;04/10/2023 21:01;Venda de 1/2 MARGUERITA do pedido 36
+Insumo;MASSA PIZZA;kg;Saída;-11,85;-0,13;Saída;-11,98;Eduarda;04/10/2023 21:01;Venda de 1/2 MARGUERITA do pedido 36
+Insumo;SACO BOBINA;UN;Saída;-30,5;-0,5;Saída;-31;Eduarda;04/10/2023 21:01;Venda de 1/2 MARGUERITA do pedido 36
+Insumo;CAIXA GRANDE;UN;Saída;38;-0,5;Saída;37,5;Eduarda;04/10/2023 21:01;Venda de 1/2 MARGUERITA do pedido 36
+Insumo;MANJERICÃO FRESCO;kg;Saída;-0,002;-0,0005;Saída;-0,0025;Eduarda;04/10/2023 21:01;Venda de 1/2 MARGUERITA do pedido 36
+Insumo;MUSSARELA;kg;Saída;13,056;-0,09;Saída;12,966;Eduarda;04/10/2023 21:01;Venda de 1/2 CALABRESA do pedido 36
+Insumo;LINGUIÇA CALABRESA;kg;Saída;3,303;-0,1;Saída;3,203;Eduarda;04/10/2023 21:01;Venda de 1/2 CALABRESA do pedido 36
+Insumo;CEBOLA ROXA;kg;Saída;0,2325;-0,001;Saída;0,2315;Eduarda;04/10/2023 21:01;Venda de 1/2 CALABRESA do pedido 36
+Insumo;ORÉGANO;kg;Saída;0,0525;-0,0005;Saída;0,052;Eduarda;04/10/2023 21:01;Venda de 1/2 CALABRESA do pedido 36
+Insumo;CEBOLA;kg;Saída;1,059;-0,003;Saída;1,056;Eduarda;04/10/2023 21:01;Venda de 1/2 CALABRESA do pedido 36
+Insumo;MOLHO TOMATE;kg;Saída;-2,08;-0,02;Saída;-2,1;Eduarda;04/10/2023 21:01;Venda de 1/2 CALABRESA do pedido 36
+Insumo;MASSA PIZZA;kg;Saída;-11,72;-0,13;Saída;-11,85;Eduarda;04/10/2023 21:01;Venda de 1/2 CALABRESA do pedido 36
+Insumo;SACO BOBINA;UN;Saída;-30;-0,5;Saída;-30,5;Eduarda;04/10/2023 21:01;Venda de 1/2 CALABRESA do pedido 36
+Insumo;CAIXA GRANDE;UN;Saída;38,5;-0,5;Saída;38;Eduarda;04/10/2023 21:01;Venda de 1/2 CALABRESA do pedido 36
+Produto;COCA-COLA ZERO 2L;UN;Saída;-1;-1;Saída;-2;Eduarda;04/10/2023 20:57;Venda de COCA-COLA ZERO 2L do pedido 35
+Insumo;MUSSARELA;kg;Saída;13,146;-0,09;Saída;13,056;Eduarda;04/10/2023 20:56;Venda de 1/2 MARGUERITA do pedido 35
+Insumo;TOMATE SALADA;kg;Saída;1,1785;-0,0075;Saída;1,171;Eduarda;04/10/2023 20:56;Venda de 1/2 MARGUERITA do pedido 35
+Insumo;ORÉGANO;kg;Saída;0,053;-0,0005;Saída;0,0525;Eduarda;04/10/2023 20:56;Venda de 1/2 MARGUERITA do pedido 35
+Insumo;MOLHO TOMATE;kg;Saída;-2,06;-0,02;Saída;-2,08;Eduarda;04/10/2023 20:56;Venda de 1/2 MARGUERITA do pedido 35
+Insumo;MASSA PIZZA;kg;Saída;-11,59;-0,13;Saída;-11,72;Eduarda;04/10/2023 20:56;Venda de 1/2 MARGUERITA do pedido 35
+Insumo;SACO BOBINA;UN;Saída;-29,5;-0,5;Saída;-30;Eduarda;04/10/2023 20:56;Venda de 1/2 MARGUERITA do pedido 35
+Insumo;CAIXA GRANDE;UN;Saída;39;-0,5;Saída;38,5;Eduarda;04/10/2023 20:56;Venda de 1/2 MARGUERITA do pedido 35
+Insumo;MANJERICÃO FRESCO;kg;Saída;-0,0015;-0,0005;Saída;-0,002;Eduarda;04/10/2023 20:56;Venda de 1/2 MARGUERITA do pedido 35
+Insumo;MUSSARELA;kg;Saída;13,236;-0,09;Saída;13,146;Eduarda;04/10/2023 20:56;Venda de 1/2 PEPPERONI do pedido 35
+Insumo;PEPPERONI;kg;Saída;1,113;-0,025;Saída;1,088;Eduarda;04/10/2023 20:56;Venda de 1/2 PEPPERONI do pedido 35
+Insumo;ORÉGANO;kg;Saída;0,0535;-0,0005;Saída;0,053;Eduarda;04/10/2023 20:56;Venda de 1/2 PEPPERONI do pedido 35
+Insumo;MOLHO TOMATE;kg;Saída;-2,04;-0,02;Saída;-2,06;Eduarda;04/10/2023 20:56;Venda de 1/2 PEPPERONI do pedido 35
+Insumo;MASSA PIZZA;kg;Saída;-11,46;-0,13;Saída;-11,59;Eduarda;04/10/2023 20:56;Venda de 1/2 PEPPERONI do pedido 35
+Insumo;SACO BOBINA;UN;Saída;-29;-0,5;Saída;-29,5;Eduarda;04/10/2023 20:56;Venda de 1/2 PEPPERONI do pedido 35
+Insumo;CAIXA GRANDE;UN;Saída;39,5;-0,5;Saída;39;Eduarda;04/10/2023 20:56;Venda de 1/2 PEPPERONI do pedido 35
+Insumo;MUSSARELA;kg;Saída;13,546;-0,31;Saída;13,236;Eduarda;04/10/2023 20:56;Venda de PIZZA CALABRESA GIGANTE do pedido 35
+Insumo;LINGUIÇA CALABRESA;kg;Saída;3,533;-0,23;Saída;3,303;Eduarda;04/10/2023 20:56;Venda de PIZZA CALABRESA GIGANTE do pedido 35
+Insumo;CEBOLA ROXA;kg;Saída;0,2355;-0,003;Saída;0,2325;Eduarda;04/10/2023 20:56;Venda de PIZZA CALABRESA GIGANTE do pedido 35
+Insumo;ORÉGANO;kg;Saída;0,0545;-0,001;Saída;0,0535;Eduarda;04/10/2023 20:56;Venda de PIZZA CALABRESA GIGANTE do pedido 35
+Insumo;CEBOLA;kg;Saída;1,069;-0,01;Saída;1,059;Eduarda;04/10/2023 20:56;Venda de PIZZA CALABRESA GIGANTE do pedido 35
+Insumo;MOLHO TOMATE;kg;Saída;-1,95;-0,09;Saída;-2,04;Eduarda;04/10/2023 20:56;Venda de PIZZA CALABRESA GIGANTE do pedido 35
+Insumo;MASSA PIZZA;kg;Saída;-11,02;-0,44;Saída;-11,46;Eduarda;04/10/2023 20:56;Venda de PIZZA CALABRESA GIGANTE do pedido 35
+Insumo;SACO BOBINA;UN;Saída;-28;-1;Saída;-29;Eduarda;04/10/2023 20:56;Venda de PIZZA CALABRESA GIGANTE do pedido 35
+Insumo;CAIXA GIGANTE;UN;Saída;29,5;-1;Saída;28,5;Eduarda;04/10/2023 20:56;Venda de PIZZA CALABRESA GIGANTE do pedido 35
+Insumo;QUEIJO PROVOLONE;kg;Correção;2,414;-1;Saída;1,414;Eduarda;04/10/2023 12:20;Estorno - 
+Insumo;QUEIJO PARMESÃO;kg;Correção;4,392;-2;Saída;2,392;Eduarda;04/10/2023 12:20;Estorno - 
+Insumo;MUSSARELA;kg;Correção;17,046;-3,5;Saída;13,546;Eduarda;04/10/2023 12:19;Estorno - 
+Insumo;QUEIJO PROVOLONE;kg;Entrada;1,414;1;Entrada;2,414;Eduarda;04/10/2023 12:18;
+Insumo;QUEIJO PARMESÃO;kg;Entrada;2,392;2;Entrada;4,392;Eduarda;04/10/2023 12:18;
+Insumo;MUSSARELA;kg;Entrada;13,546;3,5;Entrada;17,046;Eduarda;04/10/2023 12:18;
+Insumo;REQUEIJÃO CREMOSO;kg;Entrada;2,346;1,5;Entrada;3,846;Eduarda;04/10/2023 12:16;
+Insumo;MUSSARELA;kg;Entrada;9,396;4,15;Entrada;13,546;Eduarda;04/10/2023 12:16;
+Insumo;LINGUIÇA CALABRESA;kg;Entrada;1,033;2,5;Entrada;3,533;Eduarda;04/10/2023 12:16;
+Insumo;FARINHA;kg;Entrada;20;20;Entrada;40;Eduarda;04/10/2023 12:16;
+Insumo;EXTRATO TOMATE;kg;Entrada;1,92;2;Entrada;3,92;Eduarda;04/10/2023 12:16;
+Insumo;BACON;kg;Entrada;1,64;2;Entrada;3,64;Eduarda;04/10/2023 12:16;
+Insumo;AZEITE;l;Entrada;0;0,5;Entrada;0,5;Eduarda;04/10/2023 12:16;
+Produto;GUARANÁ ANT. 1,5L;UN;Saída;2;-1;Saída;1;Eduarda;04/10/2023 12:01;Venda de GUARANÁ ANT. 1,5L do pedido 34
+Insumo;MUSSARELA;kg;Saída;9,551;-0,155;Saída;9,396;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;AZEITONA PRETA;kg;Saída;0,2455;-0,0075;Saída;0,238;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;PRESUNTO;kg;Saída;0,405;-0,025;Saída;0,38;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,063;-0,03;Saída;1,033;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;CEBOLA ROXA;kg;Saída;0,2405;-0,005;Saída;0,2355;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;ORÉGANO;kg;Saída;0,055;-0,0005;Saída;0,0545;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;CEBOLA;kg;Saída;1,0765;-0,0075;Saída;1,069;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;PIMENTÃO;kg;Saída;0,1945;-0,0075;Saída;0,187;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;MOLHO TOMATE;kg;Saída;-1,905;-0,045;Saída;-1,95;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;MASSA PIZZA;kg;Saída;-10,8;-0,22;Saída;-11,02;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;SACO BOBINA;UN;Saída;-27,5;-0,5;Saída;-28;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;CAIXA GIGANTE;UN;Saída;30;-0,5;Saída;29,5;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;OVO;UN;Saída;-12;-1;Saída;-13;Eduarda;04/10/2023 12:01;Venda de 1/2 PORTUGUESA do pedido 34
+Insumo;MUSSARELA;kg;Saída;9,706;-0,155;Saída;9,551;Eduarda;04/10/2023 12:01;Venda de 1/2 CALABRESA do pedido 34
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,178;-0,115;Saída;1,063;Eduarda;04/10/2023 12:01;Venda de 1/2 CALABRESA do pedido 34
+Insumo;CEBOLA ROXA;kg;Saída;0,242;-0,0015;Saída;0,2405;Eduarda;04/10/2023 12:01;Venda de 1/2 CALABRESA do pedido 34
+Insumo;ORÉGANO;kg;Saída;0,0555;-0,0005;Saída;0,055;Eduarda;04/10/2023 12:01;Venda de 1/2 CALABRESA do pedido 34
+Insumo;CEBOLA;kg;Saída;1,0815;-0,005;Saída;1,0765;Eduarda;04/10/2023 12:01;Venda de 1/2 CALABRESA do pedido 34
+Insumo;MOLHO TOMATE;kg;Saída;-1,86;-0,045;Saída;-1,905;Eduarda;04/10/2023 12:01;Venda de 1/2 CALABRESA do pedido 34
+Insumo;MASSA PIZZA;kg;Saída;-10,58;-0,22;Saída;-10,8;Eduarda;04/10/2023 12:01;Venda de 1/2 CALABRESA do pedido 34
+Insumo;SACO BOBINA;UN;Saída;-27;-0,5;Saída;-27,5;Eduarda;04/10/2023 12:01;Venda de 1/2 CALABRESA do pedido 34
+Insumo;CAIXA GIGANTE;UN;Saída;30,5;-0,5;Saída;30;Eduarda;04/10/2023 12:01;Venda de 1/2 CALABRESA do pedido 34
+Insumo;MUSSARELA;kg;Saída;10,016;-0,31;Saída;9,706;Eduarda;04/10/2023 12:00;Venda de PIZZA 4 QUEIJOS GIGANTE do pedido 34
+Insumo;GORGONZOLA;kg;Saída;0,048;-0,02;Saída;0,028;Eduarda;04/10/2023 12:00;Venda de PIZZA 4 QUEIJOS GIGANTE do pedido 34
+Insumo;ORÉGANO;kg;Saída;0,0565;-0,001;Saída;0,0555;Eduarda;04/10/2023 12:00;Venda de PIZZA 4 QUEIJOS GIGANTE do pedido 34
+Insumo;MOLHO TOMATE;kg;Saída;-1,77;-0,09;Saída;-1,86;Eduarda;04/10/2023 12:00;Venda de PIZZA 4 QUEIJOS GIGANTE do pedido 34
+Insumo;MASSA PIZZA;kg;Saída;-10,14;-0,44;Saída;-10,58;Eduarda;04/10/2023 12:00;Venda de PIZZA 4 QUEIJOS GIGANTE do pedido 34
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,39;-0,1;Saída;-0,49;Eduarda;04/10/2023 12:00;Venda de PIZZA 4 QUEIJOS GIGANTE do pedido 34
+Insumo;SACO BOBINA;UN;Saída;-26;-1;Saída;-27;Eduarda;04/10/2023 12:00;Venda de PIZZA 4 QUEIJOS GIGANTE do pedido 34
+Insumo;CAIXA GIGANTE;UN;Saída;31,5;-1;Saída;30,5;Eduarda;04/10/2023 12:00;Venda de PIZZA 4 QUEIJOS GIGANTE do pedido 34
+Insumo;MUSSARELA;kg;Saída;10,196;-0,18;Saída;10,016;Eduarda;04/10/2023 11:50;Venda de PIZZA CALABRESA GRANDE do pedido 32
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,378;-0,2;Saída;1,178;Eduarda;04/10/2023 11:50;Venda de PIZZA CALABRESA GRANDE do pedido 32
+Insumo;CEBOLA ROXA;kg;Saída;0,244;-0,002;Saída;0,242;Eduarda;04/10/2023 11:50;Venda de PIZZA CALABRESA GRANDE do pedido 32
+Insumo;ORÉGANO;kg;Saída;0,0575;-0,001;Saída;0,0565;Eduarda;04/10/2023 11:50;Venda de PIZZA CALABRESA GRANDE do pedido 32
+Insumo;CEBOLA;kg;Saída;1,0875;-0,006;Saída;1,0815;Eduarda;04/10/2023 11:50;Venda de PIZZA CALABRESA GRANDE do pedido 32
+Insumo;MOLHO TOMATE;kg;Saída;-1,73;-0,04;Saída;-1,77;Eduarda;04/10/2023 11:50;Venda de PIZZA CALABRESA GRANDE do pedido 32
+Insumo;MASSA PIZZA;kg;Saída;-9,88;-0,26;Saída;-10,14;Eduarda;04/10/2023 11:50;Venda de PIZZA CALABRESA GRANDE do pedido 32
+Insumo;SACO BOBINA;UN;Saída;-25;-1;Saída;-26;Eduarda;04/10/2023 11:50;Venda de PIZZA CALABRESA GRANDE do pedido 32
+Insumo;CAIXA GRANDE;UN;Saída;40,5;-1;Saída;39,5;Eduarda;04/10/2023 11:50;Venda de PIZZA CALABRESA GRANDE do pedido 32
+Insumo;MUSSARELA;kg;Saída;10,351;-0,155;Saída;10,196;Eduarda;04/10/2023 11:46;Venda de 1/2 4 QUEIJOS do pedido 31
+Insumo;GORGONZOLA;kg;Saída;0,058;-0,01;Saída;0,048;Eduarda;04/10/2023 11:46;Venda de 1/2 4 QUEIJOS do pedido 31
+Insumo;ORÉGANO;kg;Saída;0,058;-0,0005;Saída;0,0575;Eduarda;04/10/2023 11:46;Venda de 1/2 4 QUEIJOS do pedido 31
+Insumo;MOLHO TOMATE;kg;Saída;-1,685;-0,045;Saída;-1,73;Eduarda;04/10/2023 11:46;Venda de 1/2 4 QUEIJOS do pedido 31
+Insumo;MASSA PIZZA;kg;Saída;-9,66;-0,22;Saída;-9,88;Eduarda;04/10/2023 11:46;Venda de 1/2 4 QUEIJOS do pedido 31
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,34;-0,05;Saída;-0,39;Eduarda;04/10/2023 11:46;Venda de 1/2 4 QUEIJOS do pedido 31
+Insumo;SACO BOBINA;UN;Saída;-24,5;-0,5;Saída;-25;Eduarda;04/10/2023 11:46;Venda de 1/2 4 QUEIJOS do pedido 31
+Insumo;CAIXA GIGANTE;UN;Saída;32;-0,5;Saída;31,5;Eduarda;04/10/2023 11:46;Venda de 1/2 4 QUEIJOS do pedido 31
+Insumo;MUSSARELA;kg;Saída;10,506;-0,155;Saída;10,351;Eduarda;04/10/2023 11:46;Venda de 1/2 BACON C/ OVOS do pedido 31
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;2,361;-0,015;Saída;2,346;Eduarda;04/10/2023 11:46;Venda de 1/2 BACON C/ OVOS do pedido 31
+Insumo;BACON;kg;Saída;1,67;-0,03;Saída;1,64;Eduarda;04/10/2023 11:46;Venda de 1/2 BACON C/ OVOS do pedido 31
+Insumo;ORÉGANO;kg;Saída;0,0585;-0,0005;Saída;0,058;Eduarda;04/10/2023 11:46;Venda de 1/2 BACON C/ OVOS do pedido 31
+Insumo;MOLHO TOMATE;kg;Saída;-1,64;-0,045;Saída;-1,685;Eduarda;04/10/2023 11:46;Venda de 1/2 BACON C/ OVOS do pedido 31
+Insumo;MASSA PIZZA;kg;Saída;-9,44;-0,22;Saída;-9,66;Eduarda;04/10/2023 11:46;Venda de 1/2 BACON C/ OVOS do pedido 31
+Insumo;SACO BOBINA;UN;Saída;-24;-0,5;Saída;-24,5;Eduarda;04/10/2023 11:46;Venda de 1/2 BACON C/ OVOS do pedido 31
+Insumo;CAIXA GIGANTE;UN;Saída;32,5;-0,5;Saída;32;Eduarda;04/10/2023 11:46;Venda de 1/2 BACON C/ OVOS do pedido 31
+Insumo;OVO;UN;Saída;-10,5;-1,5;Saída;-12;Eduarda;04/10/2023 11:46;Venda de 1/2 BACON C/ OVOS do pedido 31
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,428;-0,05;Saída;1,378;Eduarda;04/10/2023 11:46;Venda de complemento Adicional Calabresa do pedido 31
+Insumo;MASSA PIZZA;kg;Saída;-9,4;-0,04;Saída;-9,44;Eduarda;04/10/2023 11:42;Venda de DOCE DE LEITE do pedido 30
+Insumo;DOCE DE LEITE;kg;Saída;-0,04;-0,04;Saída;-0,08;Eduarda;04/10/2023 11:42;Venda de DOCE DE LEITE do pedido 30
+Insumo;CHOCOLATE BRANCO;kg;Saída;0,45;-0,024;Saída;0,426;Eduarda;04/10/2023 11:42;Venda de CHOCOLATE BRANCO do pedido 30
+Insumo;MASSA PIZZA;kg;Saída;-9,36;-0,04;Saída;-9,4;Eduarda;04/10/2023 11:42;Venda de CHOCOLATE BRANCO do pedido 30
+Insumo;CHOCOLATE AO LEITE;kg;Saída;1,218;-0,024;Saída;1,194;Eduarda;04/10/2023 11:42;Venda de CHOCOLATE AO LEITE do pedido 30
+Insumo;MASSA PIZZA;kg;Saída;-9,32;-0,04;Saída;-9,36;Eduarda;04/10/2023 11:42;Venda de CHOCOLATE AO LEITE do pedido 30
+Insumo;MUSSARELA;kg;Saída;10,661;-0,155;Saída;10,506;Eduarda;04/10/2023 11:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 30
+Insumo;CREAME CHEESE;kg;Saída;1,54;-0,03;Saída;1,51;Eduarda;04/10/2023 11:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 30
+Insumo;PEITO DE PERU;kg;Saída;0,144;-0,06;Saída;0,084;Eduarda;04/10/2023 11:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 30
+Insumo;ORÉGANO;kg;Saída;0,059;-0,0005;Saída;0,0585;Eduarda;04/10/2023 11:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 30
+Insumo;MOLHO TOMATE;kg;Saída;-1,595;-0,045;Saída;-1,64;Eduarda;04/10/2023 11:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 30
+Insumo;MASSA PIZZA;kg;Saída;-9,1;-0,22;Saída;-9,32;Eduarda;04/10/2023 11:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 30
+Insumo;SACO BOBINA;UN;Saída;-23,5;-0,5;Saída;-24;Eduarda;04/10/2023 11:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 30
+Insumo;CAIXA GIGANTE;UN;Saída;33;-0,5;Saída;32,5;Eduarda;04/10/2023 11:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 30
+Insumo;MUSSARELA;kg;Saída;10,816;-0,155;Saída;10,661;Eduarda;04/10/2023 11:42;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 30
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;2,421;-0,06;Saída;2,361;Eduarda;04/10/2023 11:42;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 30
+Insumo;ORÉGANO;kg;Saída;0,0595;-0,0005;Saída;0,059;Eduarda;04/10/2023 11:42;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 30
+Insumo;MOLHO TOMATE;kg;Saída;-1,55;-0,045;Saída;-1,595;Eduarda;04/10/2023 11:42;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 30
+Insumo;MASSA PIZZA;kg;Saída;-8,88;-0,22;Saída;-9,1;Eduarda;04/10/2023 11:42;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 30
+Insumo;FRANGO DESFIADO;kg;Saída;1,722;-0,09;Saída;1,632;Eduarda;04/10/2023 11:42;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 30
+Insumo;SACO BOBINA;UN;Saída;-23;-0,5;Saída;-23,5;Eduarda;04/10/2023 11:42;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 30
+Insumo;CAIXA GIGANTE;UN;Saída;33,5;-0,5;Saída;33;Eduarda;04/10/2023 11:42;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 30
+Insumo;QUEIJO PROVOLONE;kg;Entrada;0,414;1;Entrada;1,414;Eduarda;28/09/2023 12:11;
+Insumo;QUEIJO PARMESÃO;kg;Entrada;0,392;2;Entrada;2,392;Eduarda;28/09/2023 12:11;
+Insumo;MUSSARELA;kg;Entrada;7,316;3,5;Entrada;10,816;Eduarda;28/09/2023 12:11;
+Insumo;DISCO 30;UN;Entrada;0;10;Entrada;10;Eduarda;28/09/2023 11:31;Lançamento Inicial de Estoque
+Insumo;SACO EMB. 25X35 ;UN;Entrada;0;10;Entrada;10;Eduarda;28/09/2023 11:29;Lançamento Inicial de Estoque
+Insumo;SACO EMB. 30X40;UN;Entrada;0;10;Entrada;10;Eduarda;28/09/2023 11:28;Lançamento Inicial de Estoque
+Insumo;CAIXA GRANDE;UN;Entrada;-11,5;52;Entrada;40,5;Eduarda;28/09/2023 11:23;
+Insumo;CAIXA GIGANTE;UN;Entrada;-9,5;43;Entrada;33,5;Eduarda;28/09/2023 11:23;
+Insumo;PIMENTÃO;kg;Entrada;0,0695;0,125;Entrada;0,1945;Eduarda;28/09/2023 11:09;
+Insumo;CHAMPIGNON;kg;Entrada;0,024;0,08;Entrada;0,104;Eduarda;28/09/2023 11:09;
+Insumo;TOMATE SALADA;kg;Entrada;0,7185;0,46;Entrada;1,1785;Eduarda;28/09/2023 11:05;
+Insumo;RÚCULA;kg;Entrada;0,1;0,05;Entrada;0,15;Eduarda;28/09/2023 11:05;
+Insumo;QUEIJO PARMESÃO;kg;Entrada;0,21;0,182;Entrada;0,392;Eduarda;28/09/2023 11:05;
+Insumo;PEITO DE PERU;kg;Entrada;-0,07;0,214;Entrada;0,144;Eduarda;28/09/2023 11:05;
+Insumo;MILHO;kg;Entrada;-0,01;0,17;Entrada;0,16;Eduarda;28/09/2023 11:05;
+Insumo;CEBOLA;kg;Entrada;0,6275;0,46;Entrada;1,0875;Eduarda;28/09/2023 11:05;
+Insumo;MUSSARELA;kg;Saída;7,471;-0,155;Saída;7,316;Eduarda;23/09/2023 22:05;Venda de 1/2 PARIS do pedido 27
+Insumo;AZEITONA PRETA;kg;Saída;0,2505;-0,005;Saída;0,2455;Eduarda;23/09/2023 22:05;Venda de 1/2 PARIS do pedido 27
+Insumo;CHAMPIGNON;kg;Saída;0,034;-0,01;Saída;0,024;Eduarda;23/09/2023 22:05;Venda de 1/2 PARIS do pedido 27
+Insumo;PRESUNTO;kg;Saída;0,445;-0,04;Saída;0,405;Eduarda;23/09/2023 22:05;Venda de 1/2 PARIS do pedido 27
+Insumo;ORÉGANO;kg;Saída;0,06;-0,0005;Saída;0,0595;Eduarda;23/09/2023 22:05;Venda de 1/2 PARIS do pedido 27
+Insumo;MOLHO TOMATE;kg;Saída;-1,505;-0,045;Saída;-1,55;Eduarda;23/09/2023 22:05;Venda de 1/2 PARIS do pedido 27
+Insumo;MASSA PIZZA;kg;Saída;-8,66;-0,22;Saída;-8,88;Eduarda;23/09/2023 22:05;Venda de 1/2 PARIS do pedido 27
+Insumo;SACO BOBINA;UN;Saída;-22,5;-0,5;Saída;-23;Eduarda;23/09/2023 22:05;Venda de 1/2 PARIS do pedido 27
+Insumo;CAIXA GIGANTE;UN;Saída;-9;-0,5;Saída;-9,5;Eduarda;23/09/2023 22:05;Venda de 1/2 PARIS do pedido 27
+Insumo;MUSSARELA;kg;Saída;7,626;-0,155;Saída;7,471;Eduarda;23/09/2023 22:05;Venda de 1/2 CALABRESA do pedido 27
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,453;-0,025;Saída;1,428;Eduarda;23/09/2023 22:05;Venda de 1/2 CALABRESA do pedido 27
+Insumo;CEBOLA ROXA;kg;Saída;0,2455;-0,0015;Saída;0,244;Eduarda;23/09/2023 22:05;Venda de 1/2 CALABRESA do pedido 27
+Insumo;ORÉGANO;kg;Saída;0,0605;-0,0005;Saída;0,06;Eduarda;23/09/2023 22:05;Venda de 1/2 CALABRESA do pedido 27
+Insumo;CEBOLA;kg;Saída;0,6325;-0,005;Saída;0,6275;Eduarda;23/09/2023 22:05;Venda de 1/2 CALABRESA do pedido 27
+Insumo;MOLHO TOMATE;kg;Saída;-1,46;-0,045;Saída;-1,505;Eduarda;23/09/2023 22:05;Venda de 1/2 CALABRESA do pedido 27
+Insumo;MASSA PIZZA;kg;Saída;-8,44;-0,22;Saída;-8,66;Eduarda;23/09/2023 22:05;Venda de 1/2 CALABRESA do pedido 27
+Insumo;SACO BOBINA;UN;Saída;-22;-0,5;Saída;-22,5;Eduarda;23/09/2023 22:05;Venda de 1/2 CALABRESA do pedido 27
+Insumo;CAIXA GIGANTE;UN;Saída;-8,5;-0,5;Saída;-9;Eduarda;23/09/2023 22:05;Venda de 1/2 CALABRESA do pedido 27
+Insumo;MUSSARELA;kg;Saída;7,781;-0,155;Saída;7,626;Eduarda;23/09/2023 22:04;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;GORGONZOLA;kg;Saída;0,068;-0,01;Saída;0,058;Eduarda;23/09/2023 22:04;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;ORÉGANO;kg;Saída;0,061;-0,0005;Saída;0,0605;Eduarda;23/09/2023 22:04;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;MOLHO TOMATE;kg;Saída;-1,415;-0,045;Saída;-1,46;Eduarda;23/09/2023 22:04;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;MASSA PIZZA;kg;Saída;-8,22;-0,22;Saída;-8,44;Eduarda;23/09/2023 22:04;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,29;-0,05;Saída;-0,34;Eduarda;23/09/2023 22:04;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;SACO BOBINA;UN;Saída;-21,5;-0,5;Saída;-22;Eduarda;23/09/2023 22:04;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;CAIXA GIGANTE;UN;Saída;-8;-0,5;Saída;-8,5;Eduarda;23/09/2023 22:04;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;MUSSARELA;kg;Saída;7,936;-0,155;Saída;7,781;Eduarda;23/09/2023 22:04;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;2,436;-0,015;Saída;2,421;Eduarda;23/09/2023 22:04;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;BACON;kg;Saída;1,7;-0,03;Saída;1,67;Eduarda;23/09/2023 22:04;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;ORÉGANO;kg;Saída;0,0615;-0,0005;Saída;0,061;Eduarda;23/09/2023 22:04;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;MOLHO TOMATE;kg;Saída;-1,37;-0,045;Saída;-1,415;Eduarda;23/09/2023 22:04;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;MASSA PIZZA;kg;Saída;-8;-0,22;Saída;-8,22;Eduarda;23/09/2023 22:04;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;SACO BOBINA;UN;Saída;-21;-0,5;Saída;-21,5;Eduarda;23/09/2023 22:04;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;OVO;UN;Saída;-9;-1,5;Saída;-10,5;Eduarda;23/09/2023 22:04;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,503;-0,05;Saída;1,453;Eduarda;23/09/2023 22:04;Venda de complemento Adicional Calabresa do pedido 26
+Insumo;MUSSARELA;kg;Devolução;7,626;0,155;Entrada;7,781;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;REQUEIJÃO CREMOSO;kg;Devolução;2,421;0,015;Entrada;2,436;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;BACON;kg;Devolução;1,67;0,03;Entrada;1,7;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;ORÉGANO;kg;Devolução;0,0605;0,0005;Entrada;0,061;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;MOLHO TOMATE;kg;Devolução;-1,46;0,045;Entrada;-1,415;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;MASSA PIZZA;kg;Devolução;-8,44;0,22;Entrada;-8,22;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;SACO BOBINA;UN;Devolução;-22;0,5;Entrada;-21,5;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;OVO;UN;Devolução;-10,5;1,5;Entrada;-9;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;MUSSARELA;kg;Devolução;7,781;0,155;Entrada;7,936;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;GORGONZOLA;kg;Devolução;0,058;0,01;Entrada;0,068;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;ORÉGANO;kg;Devolução;0,061;0,0005;Entrada;0,0615;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;MOLHO TOMATE;kg;Devolução;-1,415;0,045;Entrada;-1,37;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;MASSA PIZZA;kg;Devolução;-8,22;0,22;Entrada;-8;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;MISTURA 4 QUEIJOS;kg;Devolução;-0,34;0,05;Entrada;-0,29;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;SACO BOBINA;UN;Devolução;-21,5;0,5;Entrada;-21;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;CAIXA GIGANTE;UN;Devolução;-8,5;0,5;Entrada;-8;Eduarda;23/09/2023 22:04;Alteração do item: 98
+Insumo;MUSSARELA;kg;Saída;7,781;-0,155;Saída;7,626;Eduarda;23/09/2023 21:52;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;GORGONZOLA;kg;Saída;0,068;-0,01;Saída;0,058;Eduarda;23/09/2023 21:52;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;ORÉGANO;kg;Saída;0,061;-0,0005;Saída;0,0605;Eduarda;23/09/2023 21:52;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;MOLHO TOMATE;kg;Saída;-1,415;-0,045;Saída;-1,46;Eduarda;23/09/2023 21:52;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;MASSA PIZZA;kg;Saída;-8,22;-0,22;Saída;-8,44;Eduarda;23/09/2023 21:52;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,29;-0,05;Saída;-0,34;Eduarda;23/09/2023 21:52;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;SACO BOBINA;UN;Saída;-21,5;-0,5;Saída;-22;Eduarda;23/09/2023 21:52;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;CAIXA GIGANTE;UN;Saída;-8;-0,5;Saída;-8,5;Eduarda;23/09/2023 21:52;Venda de 1/2 4 QUEIJOS do pedido 26
+Insumo;MUSSARELA;kg;Saída;7,936;-0,155;Saída;7,781;Eduarda;23/09/2023 21:52;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;2,436;-0,015;Saída;2,421;Eduarda;23/09/2023 21:52;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;BACON;kg;Saída;1,7;-0,03;Saída;1,67;Eduarda;23/09/2023 21:52;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;ORÉGANO;kg;Saída;0,0615;-0,0005;Saída;0,061;Eduarda;23/09/2023 21:52;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;MOLHO TOMATE;kg;Saída;-1,37;-0,045;Saída;-1,415;Eduarda;23/09/2023 21:52;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;MASSA PIZZA;kg;Saída;-8;-0,22;Saída;-8,22;Eduarda;23/09/2023 21:52;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;SACO BOBINA;UN;Saída;-21;-0,5;Saída;-21,5;Eduarda;23/09/2023 21:52;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;OVO;UN;Saída;-9;-1,5;Saída;-10,5;Eduarda;23/09/2023 21:52;Venda de 1/2 BACON C/ OVOS do pedido 26
+Insumo;MUSSARELA;kg;Saída;8,091;-0,155;Saída;7,936;Eduarda;23/09/2023 21:49;Venda de 1/2 ALHO PORÓ do pedido 25
+Insumo;CREAME CHEESE;kg;Saída;1,6;-0,06;Saída;1,54;Eduarda;23/09/2023 21:49;Venda de 1/2 ALHO PORÓ do pedido 25
+Insumo;ORÉGANO;kg;Saída;0,062;-0,0005;Saída;0,0615;Eduarda;23/09/2023 21:49;Venda de 1/2 ALHO PORÓ do pedido 25
+Insumo;MOLHO TOMATE;kg;Saída;-1,325;-0,045;Saída;-1,37;Eduarda;23/09/2023 21:49;Venda de 1/2 ALHO PORÓ do pedido 25
+Insumo;MASSA PIZZA;kg;Saída;-7,78;-0,22;Saída;-8;Eduarda;23/09/2023 21:49;Venda de 1/2 ALHO PORÓ do pedido 25
+Insumo;SACO BOBINA;UN;Saída;-20,5;-0,5;Saída;-21;Eduarda;23/09/2023 21:49;Venda de 1/2 ALHO PORÓ do pedido 25
+Insumo;CAIXA GIGANTE;UN;Saída;-7,5;-0,5;Saída;-8;Eduarda;23/09/2023 21:49;Venda de 1/2 ALHO PORÓ do pedido 25
+Insumo;ALHO PORÓ;kg;Saída;-0,04;-0,025;Saída;-0,065;Eduarda;23/09/2023 21:49;Venda de 1/2 ALHO PORÓ do pedido 25
+Insumo;PIMENTA BIQUINHO;kg;Saída;-0,008;-0,005;Saída;-0,013;Eduarda;23/09/2023 21:49;Venda de 1/2 ALHO PORÓ do pedido 25
+Insumo;MUSSARELA;kg;Devolução;7,781;0,31;Entrada;8,091;Eduarda;23/09/2023 21:23;Item cancelado
+Insumo;CREAME CHEESE;kg;Devolução;1,48;0,12;Entrada;1,6;Eduarda;23/09/2023 21:23;Item cancelado
+Insumo;ORÉGANO;kg;Devolução;0,061;0,001;Entrada;0,062;Eduarda;23/09/2023 21:23;Item cancelado
+Insumo;MOLHO TOMATE;kg;Devolução;-1,415;0,09;Entrada;-1,325;Eduarda;23/09/2023 21:23;Item cancelado
+Insumo;MASSA PIZZA;kg;Devolução;-8,22;0,44;Entrada;-7,78;Eduarda;23/09/2023 21:23;Item cancelado
+Insumo;SACO BOBINA;UN;Devolução;-21,5;1;Entrada;-20,5;Eduarda;23/09/2023 21:23;Item cancelado
+Insumo;CAIXA GIGANTE;UN;Devolução;-8,5;1;Entrada;-7,5;Eduarda;23/09/2023 21:23;Item cancelado
+Insumo;ALHO PORÓ;kg;Devolução;-0,09;0,05;Entrada;-0,04;Eduarda;23/09/2023 21:23;Item cancelado
+Insumo;PIMENTA BIQUINHO;kg;Devolução;-0,018;0,01;Entrada;-0,008;Eduarda;23/09/2023 21:23;Item cancelado
+Insumo;MUSSARELA;kg;Saída;8,091;-0,31;Saída;7,781;Eduarda;23/09/2023 21:22;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 25
+Insumo;CREAME CHEESE;kg;Saída;1,6;-0,12;Saída;1,48;Eduarda;23/09/2023 21:22;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 25
+Insumo;ORÉGANO;kg;Saída;0,062;-0,001;Saída;0,061;Eduarda;23/09/2023 21:22;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 25
+Insumo;MOLHO TOMATE;kg;Saída;-1,325;-0,09;Saída;-1,415;Eduarda;23/09/2023 21:22;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 25
+Insumo;MASSA PIZZA;kg;Saída;-7,78;-0,44;Saída;-8,22;Eduarda;23/09/2023 21:22;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 25
+Insumo;SACO BOBINA;UN;Saída;-20,5;-1;Saída;-21,5;Eduarda;23/09/2023 21:22;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 25
+Insumo;CAIXA GIGANTE;UN;Saída;-7,5;-1;Saída;-8,5;Eduarda;23/09/2023 21:22;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 25
+Insumo;ALHO PORÓ;kg;Saída;-0,04;-0,05;Saída;-0,09;Eduarda;23/09/2023 21:22;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 25
+Insumo;PIMENTA BIQUINHO;kg;Saída;-0,008;-0,01;Saída;-0,018;Eduarda;23/09/2023 21:22;Venda de PIZZA ALHO PORÓ GIGANTE do pedido 25
+Insumo;MASSA PIZZA;kg;Saída;-7,74;-0,04;Saída;-7,78;Eduarda;23/09/2023 20:49;Venda de DOCE DE LEITE do pedido 21
+Insumo;DOCE DE LEITE;kg;Saída;0;-0,04;Saída;-0,04;Eduarda;23/09/2023 20:49;Venda de DOCE DE LEITE do pedido 21
+Insumo;CHOCOLATE BRANCO;kg;Saída;0,474;-0,024;Saída;0,45;Eduarda;23/09/2023 20:49;Venda de CHOCOLATE BRANCO do pedido 21
+Insumo;MASSA PIZZA;kg;Saída;-7,7;-0,04;Saída;-7,74;Eduarda;23/09/2023 20:49;Venda de CHOCOLATE BRANCO do pedido 21
+Insumo;CHOCOLATE AO LEITE;kg;Saída;1,242;-0,024;Saída;1,218;Eduarda;23/09/2023 20:49;Venda de CHOCOLATE AO LEITE do pedido 21
+Insumo;MASSA PIZZA;kg;Saída;-7,66;-0,04;Saída;-7,7;Eduarda;23/09/2023 20:49;Venda de CHOCOLATE AO LEITE do pedido 21
+Insumo;MUSSARELA;kg;Saída;8,246;-0,155;Saída;8,091;Eduarda;23/09/2023 20:43;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 21
+Insumo;CREAME CHEESE;kg;Saída;1,63;-0,03;Saída;1,6;Eduarda;23/09/2023 20:43;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 21
+Insumo;PEITO DE PERU;kg;Saída;-0,01;-0,06;Saída;-0,07;Eduarda;23/09/2023 20:43;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 21
+Insumo;ORÉGANO;kg;Saída;0,0625;-0,0005;Saída;0,062;Eduarda;23/09/2023 20:43;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 21
+Insumo;MOLHO TOMATE;kg;Saída;-1,28;-0,045;Saída;-1,325;Eduarda;23/09/2023 20:43;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 21
+Insumo;MASSA PIZZA;kg;Saída;-7,44;-0,22;Saída;-7,66;Eduarda;23/09/2023 20:43;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 21
+Insumo;SACO BOBINA;UN;Saída;-20;-0,5;Saída;-20,5;Eduarda;23/09/2023 20:43;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 21
+Insumo;CAIXA GIGANTE;UN;Saída;-7;-0,5;Saída;-7,5;Eduarda;23/09/2023 20:43;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 21
+Insumo;MUSSARELA;kg;Saída;8,401;-0,155;Saída;8,246;Eduarda;20/09/2023 10:26;Venda de 1/2 CALABRESA do pedido 20
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,528;-0,025;Saída;1,503;Eduarda;20/09/2023 10:26;Venda de 1/2 CALABRESA do pedido 20
+Insumo;CEBOLA ROXA;kg;Saída;0,247;-0,0015;Saída;0,2455;Eduarda;20/09/2023 10:26;Venda de 1/2 CALABRESA do pedido 20
+Insumo;ORÉGANO;kg;Saída;0,063;-0,0005;Saída;0,0625;Eduarda;20/09/2023 10:26;Venda de 1/2 CALABRESA do pedido 20
+Insumo;CEBOLA;kg;Saída;0,6375;-0,005;Saída;0,6325;Eduarda;20/09/2023 10:26;Venda de 1/2 CALABRESA do pedido 20
+Insumo;MOLHO TOMATE;kg;Saída;-1,235;-0,045;Saída;-1,28;Eduarda;20/09/2023 10:26;Venda de 1/2 CALABRESA do pedido 20
+Insumo;MASSA PIZZA;kg;Saída;-7,22;-0,22;Saída;-7,44;Eduarda;20/09/2023 10:26;Venda de 1/2 CALABRESA do pedido 20
+Insumo;SACO BOBINA;UN;Saída;-19,5;-0,5;Saída;-20;Eduarda;20/09/2023 10:26;Venda de 1/2 CALABRESA do pedido 20
+Insumo;CAIXA GIGANTE;UN;Saída;-6,5;-0,5;Saída;-7;Eduarda;20/09/2023 10:26;Venda de 1/2 CALABRESA do pedido 20
+Insumo;BACON;kg;Saída;1,74;-0,04;Saída;1,7;Eduarda;20/09/2023 10:26;Venda de complemento Adicional Bacon do pedido 20
+Insumo;MASSA PIZZA;kg;Saída;-6,96;-0,26;Saída;-7,22;Eduarda;18/09/2023 11:42;Venda de PIZZA FRANGO C/ CATUPIRY GRANDE do pedido 19
+Insumo;MUSSARELA;kg;Saída;8,556;-0,155;Saída;8,401;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;AZEITONA PRETA;kg;Saída;0,258;-0,0075;Saída;0,2505;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;PRESUNTO;kg;Saída;0,47;-0,025;Saída;0,445;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,558;-0,03;Saída;1,528;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;CEBOLA ROXA;kg;Saída;0,252;-0,005;Saída;0,247;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;ORÉGANO;kg;Saída;0,0635;-0,0005;Saída;0,063;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;CEBOLA;kg;Saída;0,645;-0,0075;Saída;0,6375;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;PIMENTÃO;kg;Saída;0,077;-0,0075;Saída;0,0695;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;MOLHO TOMATE;kg;Saída;-1,19;-0,045;Saída;-1,235;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;MASSA PIZZA;kg;Saída;-6,74;-0,22;Saída;-6,96;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;SACO BOBINA;UN;Saída;-19;-0,5;Saída;-19,5;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;CAIXA GIGANTE;UN;Saída;-6;-0,5;Saída;-6,5;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;OVO;UN;Saída;-8;-1;Saída;-9;Eduarda;18/09/2023 11:41;Venda de 1/2 PORTUGUESA do pedido 18
+Insumo;MUSSARELA;kg;Saída;8,711;-0,155;Saída;8,556;Eduarda;18/09/2023 11:41;Venda de 1/2 CALABRESA do pedido 18
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,583;-0,025;Saída;1,558;Eduarda;18/09/2023 11:41;Venda de 1/2 CALABRESA do pedido 18
+Insumo;CEBOLA ROXA;kg;Saída;0,2535;-0,0015;Saída;0,252;Eduarda;18/09/2023 11:41;Venda de 1/2 CALABRESA do pedido 18
+Insumo;ORÉGANO;kg;Saída;0,064;-0,0005;Saída;0,0635;Eduarda;18/09/2023 11:41;Venda de 1/2 CALABRESA do pedido 18
+Insumo;CEBOLA;kg;Saída;0,65;-0,005;Saída;0,645;Eduarda;18/09/2023 11:41;Venda de 1/2 CALABRESA do pedido 18
+Insumo;MOLHO TOMATE;kg;Saída;-1,145;-0,045;Saída;-1,19;Eduarda;18/09/2023 11:41;Venda de 1/2 CALABRESA do pedido 18
+Insumo;MASSA PIZZA;kg;Saída;-6,52;-0,22;Saída;-6,74;Eduarda;18/09/2023 11:41;Venda de 1/2 CALABRESA do pedido 18
+Insumo;SACO BOBINA;UN;Saída;-18,5;-0,5;Saída;-19;Eduarda;18/09/2023 11:41;Venda de 1/2 CALABRESA do pedido 18
+Insumo;CAIXA GIGANTE;UN;Saída;-5,5;-0,5;Saída;-6;Eduarda;18/09/2023 11:41;Venda de 1/2 CALABRESA do pedido 18
+Insumo;MUSSARELA;kg;Saída;8,866;-0,155;Saída;8,711;Eduarda;18/09/2023 11:38;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 17
+Insumo;CREAME CHEESE;kg;Saída;1,66;-0,03;Saída;1,63;Eduarda;18/09/2023 11:38;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 17
+Insumo;PEITO DE PERU;kg;Saída;0,05;-0,06;Saída;-0,01;Eduarda;18/09/2023 11:38;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 17
+Insumo;ORÉGANO;kg;Saída;0,0645;-0,0005;Saída;0,064;Eduarda;18/09/2023 11:38;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 17
+Insumo;MOLHO TOMATE;kg;Saída;-1,1;-0,045;Saída;-1,145;Eduarda;18/09/2023 11:38;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 17
+Insumo;MASSA PIZZA;kg;Saída;-6,3;-0,22;Saída;-6,52;Eduarda;18/09/2023 11:38;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 17
+Insumo;SACO BOBINA;UN;Saída;-18;-0,5;Saída;-18,5;Eduarda;18/09/2023 11:38;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 17
+Insumo;CAIXA GIGANTE;UN;Saída;-5;-0,5;Saída;-5,5;Eduarda;18/09/2023 11:38;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 17
+Insumo;MUSSARELA;kg;Saída;9,021;-0,155;Saída;8,866;Eduarda;18/09/2023 11:38;Venda de 1/2 PARIS do pedido 17
+Insumo;AZEITONA PRETA;kg;Saída;0,263;-0,005;Saída;0,258;Eduarda;18/09/2023 11:38;Venda de 1/2 PARIS do pedido 17
+Insumo;CHAMPIGNON;kg;Saída;0,044;-0,01;Saída;0,034;Eduarda;18/09/2023 11:38;Venda de 1/2 PARIS do pedido 17
+Insumo;PRESUNTO;kg;Saída;0,51;-0,04;Saída;0,47;Eduarda;18/09/2023 11:38;Venda de 1/2 PARIS do pedido 17
+Insumo;ORÉGANO;kg;Saída;0,065;-0,0005;Saída;0,0645;Eduarda;18/09/2023 11:38;Venda de 1/2 PARIS do pedido 17
+Insumo;MOLHO TOMATE;kg;Saída;-1,055;-0,045;Saída;-1,1;Eduarda;18/09/2023 11:38;Venda de 1/2 PARIS do pedido 17
+Insumo;MASSA PIZZA;kg;Saída;-6,08;-0,22;Saída;-6,3;Eduarda;18/09/2023 11:38;Venda de 1/2 PARIS do pedido 17
+Insumo;SACO BOBINA;UN;Saída;-17,5;-0,5;Saída;-18;Eduarda;18/09/2023 11:38;Venda de 1/2 PARIS do pedido 17
+Insumo;CAIXA GIGANTE;UN;Saída;-4,5;-0,5;Saída;-5;Eduarda;18/09/2023 11:38;Venda de 1/2 PARIS do pedido 17
+Insumo;MUSSARELA;kg;Saída;9,176;-0,155;Saída;9,021;Eduarda;18/09/2023 11:35;Venda de 1/2 BACON C/ OVOS do pedido 16
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;2,451;-0,015;Saída;2,436;Eduarda;18/09/2023 11:35;Venda de 1/2 BACON C/ OVOS do pedido 16
+Insumo;BACON;kg;Saída;1,77;-0,03;Saída;1,74;Eduarda;18/09/2023 11:35;Venda de 1/2 BACON C/ OVOS do pedido 16
+Insumo;ORÉGANO;kg;Saída;0,0655;-0,0005;Saída;0,065;Eduarda;18/09/2023 11:35;Venda de 1/2 BACON C/ OVOS do pedido 16
+Insumo;MOLHO TOMATE;kg;Saída;-1,01;-0,045;Saída;-1,055;Eduarda;18/09/2023 11:35;Venda de 1/2 BACON C/ OVOS do pedido 16
+Insumo;MASSA PIZZA;kg;Saída;-5,86;-0,22;Saída;-6,08;Eduarda;18/09/2023 11:35;Venda de 1/2 BACON C/ OVOS do pedido 16
+Insumo;SACO BOBINA;UN;Saída;-17;-0,5;Saída;-17,5;Eduarda;18/09/2023 11:35;Venda de 1/2 BACON C/ OVOS do pedido 16
+Insumo;OVO;UN;Saída;-6,5;-1,5;Saída;-8;Eduarda;18/09/2023 11:35;Venda de 1/2 BACON C/ OVOS do pedido 16
+Insumo;MUSSARELA;kg;Saída;9,331;-0,155;Saída;9,176;Eduarda;18/09/2023 11:35;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 16
+Insumo;PEITO DE PERU;kg;Saída;0,11;-0,06;Saída;0,05;Eduarda;18/09/2023 11:35;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 16
+Insumo;ORÉGANO;kg;Saída;0,066;-0,0005;Saída;0,0655;Eduarda;18/09/2023 11:35;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 16
+Insumo;MOLHO TOMATE;kg;Saída;-0,965;-0,045;Saída;-1,01;Eduarda;18/09/2023 11:35;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 16
+Insumo;MASSA PIZZA;kg;Saída;-5,64;-0,22;Saída;-5,86;Eduarda;18/09/2023 11:35;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 16
+Insumo;SACO BOBINA;UN;Saída;-16,5;-0,5;Saída;-17;Eduarda;18/09/2023 11:35;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 16
+Insumo;CAIXA GIGANTE;UN;Saída;-4;-0,5;Saída;-4,5;Eduarda;18/09/2023 11:35;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 16
+Insumo;TOMATE SECO;kg;Saída;0;-0,005;Saída;-0,005;Eduarda;18/09/2023 11:35;Venda de 1/2 PEITO DE PERU C/ TOMATE SECO do pedido 16
+Insumo;MUSSARELA;kg;Saída;9,486;-0,155;Saída;9,331;Eduarda;18/09/2023 11:28;Venda de 1/2 MARGUERITA do pedido 15
+Insumo;TOMATE SALADA;kg;Saída;0,7335;-0,015;Saída;0,7185;Eduarda;18/09/2023 11:28;Venda de 1/2 MARGUERITA do pedido 15
+Insumo;ORÉGANO;kg;Saída;0,0665;-0,0005;Saída;0,066;Eduarda;18/09/2023 11:28;Venda de 1/2 MARGUERITA do pedido 15
+Insumo;MOLHO TOMATE;kg;Saída;-0,92;-0,045;Saída;-0,965;Eduarda;18/09/2023 11:28;Venda de 1/2 MARGUERITA do pedido 15
+Insumo;MASSA PIZZA;kg;Saída;-5,42;-0,22;Saída;-5,64;Eduarda;18/09/2023 11:28;Venda de 1/2 MARGUERITA do pedido 15
+Insumo;SACO BOBINA;UN;Saída;-16;-0,5;Saída;-16,5;Eduarda;18/09/2023 11:28;Venda de 1/2 MARGUERITA do pedido 15
+Insumo;CAIXA GIGANTE;UN;Saída;-3,5;-0,5;Saída;-4;Eduarda;18/09/2023 11:28;Venda de 1/2 MARGUERITA do pedido 15
+Insumo;MANJERICÃO FRESCO;kg;Saída;-0,001;-0,0005;Saída;-0,0015;Eduarda;18/09/2023 11:28;Venda de 1/2 MARGUERITA do pedido 15
+Insumo;PEPPERONI;kg;Correção;2,113;-1;Saída;1,113;Eduarda;18/09/2023 09:53;Estorno - Compra de novos itens
+Insumo;PEPPERONI;kg;Entrada;1,113;1;Entrada;2,113;Eduarda;18/09/2023 09:52;Compra de novos itens
+Insumo;CREAME CHEESE;kg;Saída;1,68;-0,02;Saída;1,66;Eduarda;18/09/2023 09:39;Venda de ROMEU E JULIETA do pedido 14
+Insumo;MASSA PIZZA;kg;Saída;-5,34;-0,08;Saída;-5,42;Eduarda;18/09/2023 09:39;Venda de ROMEU E JULIETA do pedido 14
+Insumo;GOIABADA;kg;Saída;-0,03;-0,02;Saída;-0,05;Eduarda;18/09/2023 09:39;Venda de ROMEU E JULIETA do pedido 14
+Insumo;MUSSARELA;kg;Saída;9,641;-0,155;Saída;9,486;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;AZEITONA PRETA;kg;Saída;0,2705;-0,0075;Saída;0,263;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;PRESUNTO;kg;Saída;0,535;-0,025;Saída;0,51;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,613;-0,03;Saída;1,583;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;CEBOLA ROXA;kg;Saída;0,2585;-0,005;Saída;0,2535;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;ORÉGANO;kg;Saída;0,067;-0,0005;Saída;0,0665;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;CEBOLA;kg;Saída;0,6575;-0,0075;Saída;0,65;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;PIMENTÃO;kg;Saída;0,0845;-0,0075;Saída;0,077;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;MOLHO TOMATE;kg;Saída;-0,875;-0,045;Saída;-0,92;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;MASSA PIZZA;kg;Saída;-5,12;-0,22;Saída;-5,34;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;SACO BOBINA;UN;Saída;-15,5;-0,5;Saída;-16;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;CAIXA GIGANTE;UN;Saída;-3;-0,5;Saída;-3,5;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;OVO;UN;Saída;-5,5;-1;Saída;-6,5;Eduarda;18/09/2023 09:37;Venda de 1/2 PORTUGUESA do pedido 14
+Insumo;MUSSARELA;kg;Saída;9,796;-0,155;Saída;9,641;Eduarda;18/09/2023 09:37;Venda de 1/2 MARGUERITA do pedido 14
+Insumo;TOMATE SALADA;kg;Saída;0,7485;-0,015;Saída;0,7335;Eduarda;18/09/2023 09:37;Venda de 1/2 MARGUERITA do pedido 14
+Insumo;ORÉGANO;kg;Saída;0,0675;-0,0005;Saída;0,067;Eduarda;18/09/2023 09:37;Venda de 1/2 MARGUERITA do pedido 14
+Insumo;MOLHO TOMATE;kg;Saída;-0,83;-0,045;Saída;-0,875;Eduarda;18/09/2023 09:37;Venda de 1/2 MARGUERITA do pedido 14
+Insumo;MASSA PIZZA;kg;Saída;-4,9;-0,22;Saída;-5,12;Eduarda;18/09/2023 09:37;Venda de 1/2 MARGUERITA do pedido 14
+Insumo;SACO BOBINA;UN;Saída;-15;-0,5;Saída;-15,5;Eduarda;18/09/2023 09:37;Venda de 1/2 MARGUERITA do pedido 14
+Insumo;CAIXA GIGANTE;UN;Saída;-2,5;-0,5;Saída;-3;Eduarda;18/09/2023 09:37;Venda de 1/2 MARGUERITA do pedido 14
+Insumo;MANJERICÃO FRESCO;kg;Saída;-0,0005;-0,0005;Saída;-0,001;Eduarda;18/09/2023 09:37;Venda de 1/2 MARGUERITA do pedido 14
+Insumo;CREAME CHEESE;kg;Saída;1,88;-0,2;Saída;1,68;Eduarda;18/09/2023 09:37;Venda de complemento Borda Cream Cheese - Giga do pedido 14
+Insumo;MUSSARELA;kg;Saída;9,886;-0,09;Saída;9,796;Eduarda;17/09/2023 20:59;Venda de 1/2 BACON C/ OVOS do pedido 11
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;2,461;-0,01;Saída;2,451;Eduarda;17/09/2023 20:59;Venda de 1/2 BACON C/ OVOS do pedido 11
+Insumo;BACON;kg;Saída;1,79;-0,02;Saída;1,77;Eduarda;17/09/2023 20:59;Venda de 1/2 BACON C/ OVOS do pedido 11
+Insumo;ORÉGANO;kg;Saída;0,068;-0,0005;Saída;0,0675;Eduarda;17/09/2023 20:59;Venda de 1/2 BACON C/ OVOS do pedido 11
+Insumo;MOLHO TOMATE;kg;Saída;-0,81;-0,02;Saída;-0,83;Eduarda;17/09/2023 20:59;Venda de 1/2 BACON C/ OVOS do pedido 11
+Insumo;MASSA PIZZA;kg;Saída;-4,77;-0,13;Saída;-4,9;Eduarda;17/09/2023 20:59;Venda de 1/2 BACON C/ OVOS do pedido 11
+Insumo;SACO BOBINA;UN;Saída;-14,5;-0,5;Saída;-15;Eduarda;17/09/2023 20:59;Venda de 1/2 BACON C/ OVOS do pedido 11
+Insumo;OVO;UN;Saída;-4,5;-1;Saída;-5,5;Eduarda;17/09/2023 20:59;Venda de 1/2 BACON C/ OVOS do pedido 11
+Insumo;MUSSARELA;kg;Saída;9,976;-0,09;Saída;9,886;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;AZEITONA PRETA;kg;Saída;0,2755;-0,005;Saída;0,2705;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;PRESUNTO;kg;Saída;0,55;-0,015;Saída;0,535;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,633;-0,02;Saída;1,613;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;CEBOLA ROXA;kg;Saída;0,261;-0,0025;Saída;0,2585;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;ORÉGANO;kg;Saída;0,0685;-0,0005;Saída;0,068;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;CEBOLA;kg;Saída;0,6625;-0,005;Saída;0,6575;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;PIMENTÃO;kg;Saída;0,0895;-0,005;Saída;0,0845;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;MOLHO TOMATE;kg;Saída;-0,79;-0,02;Saída;-0,81;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;MASSA PIZZA;kg;Saída;-4,64;-0,13;Saída;-4,77;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;SACO BOBINA;UN;Saída;-14;-0,5;Saída;-14,5;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;CAIXA GRANDE;UN;Saída;-11;-0,5;Saída;-11,5;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;OVO;UN;Saída;-3,5;-1;Saída;-4,5;Eduarda;17/09/2023 20:59;Venda de 1/2 PORTUGUESA do pedido 11
+Insumo;CHOCOLATE AO LEITE;kg;Saída;1,266;-0,024;Saída;1,242;Eduarda;17/09/2023 20:42;Venda de CHOCOLATE AO LEITE do pedido 10
+Insumo;MASSA PIZZA;kg;Saída;-4,6;-0,04;Saída;-4,64;Eduarda;17/09/2023 20:42;Venda de CHOCOLATE AO LEITE do pedido 10
+Insumo;MUSSARELA;kg;Saída;10,066;-0,09;Saída;9,976;Eduarda;17/09/2023 20:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 10
+Insumo;CREAME CHEESE;kg;Saída;1,9;-0,02;Saída;1,88;Eduarda;17/09/2023 20:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 10
+Insumo;PEITO DE PERU;kg;Saída;0,15;-0,04;Saída;0,11;Eduarda;17/09/2023 20:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 10
+Insumo;ORÉGANO;kg;Saída;0,069;-0,0005;Saída;0,0685;Eduarda;17/09/2023 20:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 10
+Insumo;MOLHO TOMATE;kg;Saída;-0,77;-0,02;Saída;-0,79;Eduarda;17/09/2023 20:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 10
+Insumo;MASSA PIZZA;kg;Saída;-4,47;-0,13;Saída;-4,6;Eduarda;17/09/2023 20:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 10
+Insumo;SACO BOBINA;UN;Saída;-13,5;-0,5;Saída;-14;Eduarda;17/09/2023 20:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 10
+Insumo;CAIXA GRANDE;UN;Saída;-10,5;-0,5;Saída;-11;Eduarda;17/09/2023 20:42;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 10
+Insumo;MUSSARELA;kg;Saída;10,156;-0,09;Saída;10,066;Eduarda;17/09/2023 20:42;Venda de 1/2 4 QUEIJOS do pedido 10
+Insumo;GORGONZOLA;kg;Saída;0,073;-0,005;Saída;0,068;Eduarda;17/09/2023 20:42;Venda de 1/2 4 QUEIJOS do pedido 10
+Insumo;ORÉGANO;kg;Saída;0,0695;-0,0005;Saída;0,069;Eduarda;17/09/2023 20:42;Venda de 1/2 4 QUEIJOS do pedido 10
+Insumo;MOLHO TOMATE;kg;Saída;-0,74;-0,03;Saída;-0,77;Eduarda;17/09/2023 20:42;Venda de 1/2 4 QUEIJOS do pedido 10
+Insumo;MASSA PIZZA;kg;Saída;-4,34;-0,13;Saída;-4,47;Eduarda;17/09/2023 20:42;Venda de 1/2 4 QUEIJOS do pedido 10
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,26;-0,03;Saída;-0,29;Eduarda;17/09/2023 20:42;Venda de 1/2 4 QUEIJOS do pedido 10
+Insumo;SACO BOBINA;UN;Saída;-13;-0,5;Saída;-13,5;Eduarda;17/09/2023 20:42;Venda de 1/2 4 QUEIJOS do pedido 10
+Insumo;CAIXA GRANDE;UN;Saída;-10;-0,5;Saída;-10,5;Eduarda;17/09/2023 20:42;Venda de 1/2 4 QUEIJOS do pedido 10
+Insumo;MUSSARELA;kg;Saída;10,516;-0,36;Saída;10,156;Eduarda;16/09/2023 21:56;Venda de PIZZA CALABRESA GRANDE do pedido 9
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,693;-0,06;Saída;1,633;Eduarda;16/09/2023 21:56;Venda de PIZZA CALABRESA GRANDE do pedido 9
+Insumo;CEBOLA ROXA;kg;Saída;0,265;-0,004;Saída;0,261;Eduarda;16/09/2023 21:56;Venda de PIZZA CALABRESA GRANDE do pedido 9
+Insumo;ORÉGANO;kg;Saída;0,0715;-0,002;Saída;0,0695;Eduarda;16/09/2023 21:56;Venda de PIZZA CALABRESA GRANDE do pedido 9
+Insumo;CEBOLA;kg;Saída;0,6745;-0,012;Saída;0,6625;Eduarda;16/09/2023 21:56;Venda de PIZZA CALABRESA GRANDE do pedido 9
+Insumo;MOLHO TOMATE;kg;Saída;-0,66;-0,08;Saída;-0,74;Eduarda;16/09/2023 21:56;Venda de PIZZA CALABRESA GRANDE do pedido 9
+Insumo;MASSA PIZZA;kg;Saída;-3,82;-0,52;Saída;-4,34;Eduarda;16/09/2023 21:56;Venda de PIZZA CALABRESA GRANDE do pedido 9
+Insumo;SACO BOBINA;UN;Saída;-11;-2;Saída;-13;Eduarda;16/09/2023 21:56;Venda de PIZZA CALABRESA GRANDE do pedido 9
+Insumo;CAIXA GRANDE;UN;Saída;-8;-2;Saída;-10;Eduarda;16/09/2023 21:56;Venda de PIZZA CALABRESA GRANDE do pedido 9
+Insumo;MUSSARELA;kg;Saída;10,696;-0,18;Saída;10,516;Eduarda;16/09/2023 21:54;Venda de PIZZA CALABRESA GRANDE do pedido 7
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,723;-0,03;Saída;1,693;Eduarda;16/09/2023 21:54;Venda de PIZZA CALABRESA GRANDE do pedido 7
+Insumo;CEBOLA ROXA;kg;Saída;0,267;-0,002;Saída;0,265;Eduarda;16/09/2023 21:54;Venda de PIZZA CALABRESA GRANDE do pedido 7
+Insumo;ORÉGANO;kg;Saída;0,0725;-0,001;Saída;0,0715;Eduarda;16/09/2023 21:54;Venda de PIZZA CALABRESA GRANDE do pedido 7
+Insumo;CEBOLA;kg;Saída;0,6805;-0,006;Saída;0,6745;Eduarda;16/09/2023 21:54;Venda de PIZZA CALABRESA GRANDE do pedido 7
+Insumo;MOLHO TOMATE;kg;Saída;-0,62;-0,04;Saída;-0,66;Eduarda;16/09/2023 21:54;Venda de PIZZA CALABRESA GRANDE do pedido 7
+Insumo;MASSA PIZZA;kg;Saída;-3,56;-0,26;Saída;-3,82;Eduarda;16/09/2023 21:54;Venda de PIZZA CALABRESA GRANDE do pedido 7
+Insumo;SACO BOBINA;UN;Saída;-10;-1;Saída;-11;Eduarda;16/09/2023 21:54;Venda de PIZZA CALABRESA GRANDE do pedido 7
+Insumo;CAIXA GRANDE;UN;Saída;-7;-1;Saída;-8;Eduarda;16/09/2023 21:54;Venda de PIZZA CALABRESA GRANDE do pedido 7
+Insumo;MUSSARELA;kg;Saída;10,876;-0,18;Saída;10,696;Eduarda;16/09/2023 21:51;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 6
+Insumo;GORGONZOLA;kg;Saída;0,083;-0,01;Saída;0,073;Eduarda;16/09/2023 21:51;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 6
+Insumo;ORÉGANO;kg;Saída;0,0735;-0,001;Saída;0,0725;Eduarda;16/09/2023 21:51;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 6
+Insumo;MOLHO TOMATE;kg;Saída;-0,56;-0,06;Saída;-0,62;Eduarda;16/09/2023 21:51;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 6
+Insumo;MASSA PIZZA;kg;Saída;-3,3;-0,26;Saída;-3,56;Eduarda;16/09/2023 21:51;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 6
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,2;-0,06;Saída;-0,26;Eduarda;16/09/2023 21:51;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 6
+Insumo;SACO BOBINA;UN;Saída;-9;-1;Saída;-10;Eduarda;16/09/2023 21:51;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 6
+Insumo;CAIXA GRANDE;UN;Saída;-6;-1;Saída;-7;Eduarda;16/09/2023 21:51;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 6
+Insumo;CREAME CHEESE;kg;Saída;1,92;-0,02;Saída;1,9;Eduarda;16/09/2023 20:43;Venda de ROMEU E JULIETA do pedido 4
+Insumo;MASSA PIZZA;kg;Saída;-3,22;-0,08;Saída;-3,3;Eduarda;16/09/2023 20:43;Venda de ROMEU E JULIETA do pedido 4
+Insumo;GOIABADA;kg;Saída;-0,01;-0,02;Saída;-0,03;Eduarda;16/09/2023 20:43;Venda de ROMEU E JULIETA do pedido 4
+Insumo;MASSA PIZZA;kg;Devolução;-3,3;0,08;Entrada;-3,22;Eduarda;16/09/2023 20:42;Item cancelado
+Insumo;DOCE DE LEITE;kg;Devolução;-0,08;0,08;Entrada;0;Eduarda;16/09/2023 20:42;Item cancelado
+Insumo;CHOCOLATE BRANCO;kg;Saída;0,498;-0,024;Saída;0,474;Eduarda;16/09/2023 20:42;Venda de CHOCOLATE BRANCO do pedido 4
+Insumo;MASSA PIZZA;kg;Saída;-3,26;-0,04;Saída;-3,3;Eduarda;16/09/2023 20:42;Venda de CHOCOLATE BRANCO do pedido 4
+Insumo;CREAME CHEESE;kg;Saída;1,93;-0,01;Saída;1,92;Eduarda;16/09/2023 20:42;Venda de ROMEU E JULIETA do pedido 4
+Insumo;MASSA PIZZA;kg;Saída;-3,22;-0,04;Saída;-3,26;Eduarda;16/09/2023 20:42;Venda de ROMEU E JULIETA do pedido 4
+Insumo;GOIABADA;kg;Saída;0;-0,01;Saída;-0,01;Eduarda;16/09/2023 20:42;Venda de ROMEU E JULIETA do pedido 4
+Insumo;MASSA PIZZA;kg;Saída;-3,14;-0,08;Saída;-3,22;Eduarda;16/09/2023 20:42;Venda de DOCE DE LEITE do pedido 4
+Insumo;DOCE DE LEITE;kg;Saída;0;-0,08;Saída;-0,08;Eduarda;16/09/2023 20:42;Venda de DOCE DE LEITE do pedido 4
+Produto;COCA-COLA ZERO 2L;UN;Saída;0;-1;Saída;-1;Eduarda;16/09/2023 20:41;Venda de COCA-COLA ZERO 2L do pedido 4
+Insumo;MUSSARELA;kg;Saída;11,031;-0,155;Saída;10,876;Eduarda;16/09/2023 20:41;Venda de 1/2 BACON C/ OVOS do pedido 4
+Insumo;REQUEIJÃO CREMOSO;kg;Saída;2,476;-0,015;Saída;2,461;Eduarda;16/09/2023 20:41;Venda de 1/2 BACON C/ OVOS do pedido 4
+Insumo;BACON;kg;Saída;1,82;-0,03;Saída;1,79;Eduarda;16/09/2023 20:41;Venda de 1/2 BACON C/ OVOS do pedido 4
+Insumo;ORÉGANO;kg;Saída;0,074;-0,0005;Saída;0,0735;Eduarda;16/09/2023 20:41;Venda de 1/2 BACON C/ OVOS do pedido 4
+Insumo;MOLHO TOMATE;kg;Saída;-0,515;-0,045;Saída;-0,56;Eduarda;16/09/2023 20:41;Venda de 1/2 BACON C/ OVOS do pedido 4
+Insumo;MASSA PIZZA;kg;Saída;-2,92;-0,22;Saída;-3,14;Eduarda;16/09/2023 20:41;Venda de 1/2 BACON C/ OVOS do pedido 4
+Insumo;SACO BOBINA;UN;Saída;-8,5;-0,5;Saída;-9;Eduarda;16/09/2023 20:41;Venda de 1/2 BACON C/ OVOS do pedido 4
+Insumo;OVO;UN;Saída;-2;-1,5;Saída;-3,5;Eduarda;16/09/2023 20:41;Venda de 1/2 BACON C/ OVOS do pedido 4
+Insumo;MUSSARELA;kg;Saída;11,186;-0,155;Saída;11,031;Eduarda;16/09/2023 20:41;Venda de 1/2 PEPPERONI do pedido 4
+Insumo;PEPPERONI;kg;Saída;1,158;-0,045;Saída;1,113;Eduarda;16/09/2023 20:41;Venda de 1/2 PEPPERONI do pedido 4
+Insumo;ORÉGANO;kg;Saída;0,0745;-0,0005;Saída;0,074;Eduarda;16/09/2023 20:41;Venda de 1/2 PEPPERONI do pedido 4
+Insumo;MOLHO TOMATE;kg;Saída;-0,47;-0,045;Saída;-0,515;Eduarda;16/09/2023 20:41;Venda de 1/2 PEPPERONI do pedido 4
+Insumo;MASSA PIZZA;kg;Saída;-2,7;-0,22;Saída;-2,92;Eduarda;16/09/2023 20:41;Venda de 1/2 PEPPERONI do pedido 4
+Insumo;SACO BOBINA;UN;Saída;-8;-0,5;Saída;-8,5;Eduarda;16/09/2023 20:41;Venda de 1/2 PEPPERONI do pedido 4
+Insumo;CAIXA GIGANTE;UN;Saída;-2;-0,5;Saída;-2,5;Eduarda;16/09/2023 20:41;Venda de 1/2 PEPPERONI do pedido 4
+Insumo;MUSSARELA;kg;Saída;11,341;-0,155;Saída;11,186;Eduarda;16/09/2023 20:41;Venda de 1/2 4 QUEIJOS do pedido 4
+Insumo;GORGONZOLA;kg;Saída;0,093;-0,01;Saída;0,083;Eduarda;16/09/2023 20:41;Venda de 1/2 4 QUEIJOS do pedido 4
+Insumo;ORÉGANO;kg;Saída;0,075;-0,0005;Saída;0,0745;Eduarda;16/09/2023 20:41;Venda de 1/2 4 QUEIJOS do pedido 4
+Insumo;MOLHO TOMATE;kg;Saída;-0,425;-0,045;Saída;-0,47;Eduarda;16/09/2023 20:41;Venda de 1/2 4 QUEIJOS do pedido 4
+Insumo;MASSA PIZZA;kg;Saída;-2,48;-0,22;Saída;-2,7;Eduarda;16/09/2023 20:41;Venda de 1/2 4 QUEIJOS do pedido 4
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,15;-0,05;Saída;-0,2;Eduarda;16/09/2023 20:41;Venda de 1/2 4 QUEIJOS do pedido 4
+Insumo;SACO BOBINA;UN;Saída;-7,5;-0,5;Saída;-8;Eduarda;16/09/2023 20:41;Venda de 1/2 4 QUEIJOS do pedido 4
+Insumo;CAIXA GIGANTE;UN;Saída;-1,5;-0,5;Saída;-2;Eduarda;16/09/2023 20:41;Venda de 1/2 4 QUEIJOS do pedido 4
+Insumo;MUSSARELA;kg;Saída;11,496;-0,155;Saída;11,341;Eduarda;16/09/2023 20:41;Venda de 1/2 ALHO PORÓ do pedido 4
+Insumo;CREAME CHEESE;kg;Saída;1,99;-0,06;Saída;1,93;Eduarda;16/09/2023 20:41;Venda de 1/2 ALHO PORÓ do pedido 4
+Insumo;ORÉGANO;kg;Saída;0,0755;-0,0005;Saída;0,075;Eduarda;16/09/2023 20:41;Venda de 1/2 ALHO PORÓ do pedido 4
+Insumo;MOLHO TOMATE;kg;Saída;-0,38;-0,045;Saída;-0,425;Eduarda;16/09/2023 20:41;Venda de 1/2 ALHO PORÓ do pedido 4
+Insumo;MASSA PIZZA;kg;Saída;-2,26;-0,22;Saída;-2,48;Eduarda;16/09/2023 20:41;Venda de 1/2 ALHO PORÓ do pedido 4
+Insumo;SACO BOBINA;UN;Saída;-7;-0,5;Saída;-7,5;Eduarda;16/09/2023 20:41;Venda de 1/2 ALHO PORÓ do pedido 4
+Insumo;CAIXA GIGANTE;UN;Saída;-1;-0,5;Saída;-1,5;Eduarda;16/09/2023 20:41;Venda de 1/2 ALHO PORÓ do pedido 4
+Insumo;ALHO PORÓ;kg;Saída;-0,015;-0,025;Saída;-0,04;Eduarda;16/09/2023 20:41;Venda de 1/2 ALHO PORÓ do pedido 4
+Insumo;PIMENTA BIQUINHO;kg;Saída;-0,003;-0,005;Saída;-0,008;Eduarda;16/09/2023 20:41;Venda de 1/2 ALHO PORÓ do pedido 4
+Insumo;MUSSARELA;kg;Saída;11,586;-0,09;Saída;11,496;Eduarda;16/09/2023 19:17;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;GORGONZOLA;kg;Saída;0,098;-0,005;Saída;0,093;Eduarda;16/09/2023 19:17;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;ORÉGANO;kg;Saída;0,076;-0,0005;Saída;0,0755;Eduarda;16/09/2023 19:17;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;MOLHO TOMATE;kg;Saída;-0,35;-0,03;Saída;-0,38;Eduarda;16/09/2023 19:17;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-2,13;-0,13;Saída;-2,26;Eduarda;16/09/2023 19:17;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,12;-0,03;Saída;-0,15;Eduarda;16/09/2023 19:17;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;SACO BOBINA;UN;Saída;-6,5;-0,5;Saída;-7;Eduarda;16/09/2023 19:17;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;CAIXA GRANDE;UN;Saída;-5,5;-0,5;Saída;-6;Eduarda;16/09/2023 19:17;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;MUSSARELA;kg;Saída;11,676;-0,09;Saída;11,586;Eduarda;16/09/2023 19:17;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 3
+Insumo;CREAME CHEESE;kg;Saída;2,01;-0,02;Saída;1,99;Eduarda;16/09/2023 19:17;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 3
+Insumo;PEITO DE PERU;kg;Saída;0,19;-0,04;Saída;0,15;Eduarda;16/09/2023 19:17;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 3
+Insumo;ORÉGANO;kg;Saída;0,0765;-0,0005;Saída;0,076;Eduarda;16/09/2023 19:17;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 3
+Insumo;MOLHO TOMATE;kg;Saída;-0,33;-0,02;Saída;-0,35;Eduarda;16/09/2023 19:17;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-2;-0,13;Saída;-2,13;Eduarda;16/09/2023 19:17;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 3
+Insumo;SACO BOBINA;UN;Saída;-6;-0,5;Saída;-6,5;Eduarda;16/09/2023 19:17;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 3
+Insumo;CAIXA GRANDE;UN;Saída;-5;-0,5;Saída;-5,5;Eduarda;16/09/2023 19:17;Venda de 1/2 PEITO DE PERU C/ CREAM CHEESE do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-1,87;-0,13;Saída;-2;Eduarda;16/09/2023 18:37;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 3
+Insumo;MUSSARELA;kg;Saída;11,766;-0,09;Saída;11,676;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;AZEITONA PRETA;kg;Saída;0,2805;-0,005;Saída;0,2755;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;PRESUNTO;kg;Saída;0,565;-0,015;Saída;0,55;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,743;-0,02;Saída;1,723;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;CEBOLA ROXA;kg;Saída;0,2695;-0,0025;Saída;0,267;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;ORÉGANO;kg;Saída;0,077;-0,0005;Saída;0,0765;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;CEBOLA;kg;Saída;0,6855;-0,005;Saída;0,6805;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;PIMENTÃO;kg;Saída;0,0945;-0,005;Saída;0,0895;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;MOLHO TOMATE;kg;Saída;-0,31;-0,02;Saída;-0,33;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-1,74;-0,13;Saída;-1,87;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;SACO BOBINA;UN;Saída;-5,5;-0,5;Saída;-6;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;CAIXA GRANDE;UN;Saída;-4,5;-0,5;Saída;-5;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;OVO;UN;Saída;-1;-1;Saída;-2;Eduarda;16/09/2023 18:37;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;MUSSARELA;kg;Saída;11,856;-0,09;Saída;11,766;Eduarda;16/09/2023 18:37;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;TOMATE SALADA;kg;Saída;0,756;-0,0075;Saída;0,7485;Eduarda;16/09/2023 18:37;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;ORÉGANO;kg;Saída;0,0775;-0,0005;Saída;0,077;Eduarda;16/09/2023 18:37;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;MOLHO TOMATE;kg;Saída;-0,29;-0,02;Saída;-0,31;Eduarda;16/09/2023 18:37;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-1,61;-0,13;Saída;-1,74;Eduarda;16/09/2023 18:37;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;SACO BOBINA;UN;Saída;-5;-0,5;Saída;-5,5;Eduarda;16/09/2023 18:37;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;CAIXA GRANDE;UN;Saída;-4;-0,5;Saída;-4,5;Eduarda;16/09/2023 18:37;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;MANJERICÃO FRESCO;kg;Saída;0;-0,0005;Saída;-0,0005;Eduarda;16/09/2023 18:37;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;MUSSARELA;kg;Saída;11,946;-0,09;Saída;11,856;Eduarda;16/09/2023 18:37;Venda de 1/2 CALABRESA do pedido 3
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,758;-0,015;Saída;1,743;Eduarda;16/09/2023 18:37;Venda de 1/2 CALABRESA do pedido 3
+Insumo;CEBOLA ROXA;kg;Saída;0,2705;-0,001;Saída;0,2695;Eduarda;16/09/2023 18:37;Venda de 1/2 CALABRESA do pedido 3
+Insumo;ORÉGANO;kg;Saída;0,078;-0,0005;Saída;0,0775;Eduarda;16/09/2023 18:37;Venda de 1/2 CALABRESA do pedido 3
+Insumo;CEBOLA;kg;Saída;0,6885;-0,003;Saída;0,6855;Eduarda;16/09/2023 18:37;Venda de 1/2 CALABRESA do pedido 3
+Insumo;MOLHO TOMATE;kg;Saída;-0,27;-0,02;Saída;-0,29;Eduarda;16/09/2023 18:37;Venda de 1/2 CALABRESA do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-1,48;-0,13;Saída;-1,61;Eduarda;16/09/2023 18:37;Venda de 1/2 CALABRESA do pedido 3
+Insumo;SACO BOBINA;UN;Saída;-4,5;-0,5;Saída;-5;Eduarda;16/09/2023 18:37;Venda de 1/2 CALABRESA do pedido 3
+Insumo;CAIXA GRANDE;UN;Saída;-3,5;-0,5;Saída;-4;Eduarda;16/09/2023 18:37;Venda de 1/2 CALABRESA do pedido 3
+Insumo;MUSSARELA;kg;Saída;12,126;-0,18;Saída;11,946;Eduarda;16/09/2023 18:36;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 3
+Insumo;GORGONZOLA;kg;Saída;0,108;-0,01;Saída;0,098;Eduarda;16/09/2023 18:36;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 3
+Insumo;ORÉGANO;kg;Saída;0,079;-0,001;Saída;0,078;Eduarda;16/09/2023 18:36;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 3
+Insumo;MOLHO TOMATE;kg;Saída;-0,21;-0,06;Saída;-0,27;Eduarda;16/09/2023 18:36;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-1,22;-0,26;Saída;-1,48;Eduarda;16/09/2023 18:36;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 3
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,06;-0,06;Saída;-0,12;Eduarda;16/09/2023 18:36;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 3
+Insumo;SACO BOBINA;UN;Saída;-3,5;-1;Saída;-4,5;Eduarda;16/09/2023 18:36;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 3
+Insumo;CAIXA GRANDE;UN;Saída;-2,5;-1;Saída;-3,5;Eduarda;16/09/2023 18:36;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 3
+Insumo;MUSSARELA;kg;Devolução;11,946;0,09;Entrada;12,036;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;AZEITONA PRETA;kg;Devolução;0,2755;0,005;Entrada;0,2805;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;PRESUNTO;kg;Devolução;0,55;0,015;Entrada;0,565;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;LINGUIÇA CALABRESA;kg;Devolução;1,738;0,02;Entrada;1,758;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;CEBOLA ROXA;kg;Devolução;0,268;0,0025;Entrada;0,2705;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;ORÉGANO;kg;Devolução;0,078;0,0005;Entrada;0,0785;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;CEBOLA;kg;Devolução;0,6835;0,005;Entrada;0,6885;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;PIMENTÃO;kg;Devolução;0,0895;0,005;Entrada;0,0945;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;MOLHO TOMATE;kg;Devolução;-0,26;0,02;Entrada;-0,24;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;MASSA PIZZA;kg;Devolução;-1,48;0,13;Entrada;-1,35;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;SACO BOBINA;UN;Devolução;-4,5;0,5;Entrada;-4;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;CAIXA GRANDE;UN;Devolução;-3,5;0,5;Entrada;-3;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;OVO;UN;Devolução;-2;1;Entrada;-1;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;MUSSARELA;kg;Devolução;12,036;0,09;Entrada;12,126;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;GORGONZOLA;kg;Devolução;0,103;0,005;Entrada;0,108;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;ORÉGANO;kg;Devolução;0,0785;0,0005;Entrada;0,079;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;MOLHO TOMATE;kg;Devolução;-0,24;0,03;Entrada;-0,21;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;MASSA PIZZA;kg;Devolução;-1,35;0,13;Entrada;-1,22;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;MISTURA 4 QUEIJOS;kg;Devolução;-0,09;0,03;Entrada;-0,06;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;SACO BOBINA;UN;Devolução;-4;0,5;Entrada;-3,5;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;CAIXA GRANDE;UN;Devolução;-3;0,5;Entrada;-2,5;Eduarda;16/09/2023 18:34;Item cancelado
+Insumo;MUSSARELA;kg;Devolução;11,766;0,09;Entrada;11,856;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;TOMATE SALADA;kg;Devolução;0,7485;0,0075;Entrada;0,756;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;ORÉGANO;kg;Devolução;0,077;0,0005;Entrada;0,0775;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;MOLHO TOMATE;kg;Devolução;-0,31;0,02;Entrada;-0,29;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;MASSA PIZZA;kg;Devolução;-1,74;0,13;Entrada;-1,61;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;SACO BOBINA;UN;Devolução;-5,5;0,5;Entrada;-5;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;CAIXA GRANDE;UN;Devolução;-4,5;0,5;Entrada;-4;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;MANJERICÃO FRESCO;kg;Devolução;-0,0005;0,0005;Entrada;0;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;MUSSARELA;kg;Devolução;11,856;0,09;Entrada;11,946;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;GORGONZOLA;kg;Devolução;0,098;0,005;Entrada;0,103;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;ORÉGANO;kg;Devolução;0,0775;0,0005;Entrada;0,078;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;MOLHO TOMATE;kg;Devolução;-0,29;0,03;Entrada;-0,26;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;MASSA PIZZA;kg;Devolução;-1,61;0,13;Entrada;-1,48;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;MISTURA 4 QUEIJOS;kg;Devolução;-0,12;0,03;Entrada;-0,09;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;SACO BOBINA;UN;Devolução;-5;0,5;Entrada;-4,5;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;CAIXA GRANDE;UN;Devolução;-4;0,5;Entrada;-3,5;Eduarda;16/09/2023 18:33;Item cancelado
+Insumo;MUSSARELA;kg;Saída;11,856;-0,09;Saída;11,766;Eduarda;16/09/2023 18:27;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;GORGONZOLA;kg;Saída;0,103;-0,005;Saída;0,098;Eduarda;16/09/2023 18:27;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;ORÉGANO;kg;Saída;0,0775;-0,0005;Saída;0,077;Eduarda;16/09/2023 18:27;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;MOLHO TOMATE;kg;Saída;-0,28;-0,03;Saída;-0,31;Eduarda;16/09/2023 18:27;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-1,61;-0,13;Saída;-1,74;Eduarda;16/09/2023 18:27;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,09;-0,03;Saída;-0,12;Eduarda;16/09/2023 18:27;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;SACO BOBINA;UN;Saída;-5;-0,5;Saída;-5,5;Eduarda;16/09/2023 18:27;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;CAIXA GRANDE;UN;Saída;-4;-0,5;Saída;-4,5;Eduarda;16/09/2023 18:27;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;MUSSARELA;kg;Saída;11,946;-0,09;Saída;11,856;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;AZEITONA PRETA;kg;Saída;0,2805;-0,005;Saída;0,2755;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;PRESUNTO;kg;Saída;0,565;-0,015;Saída;0,55;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,758;-0,02;Saída;1,738;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;CEBOLA ROXA;kg;Saída;0,2705;-0,0025;Saída;0,268;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;ORÉGANO;kg;Saída;0,078;-0,0005;Saída;0,0775;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;CEBOLA;kg;Saída;0,6885;-0,005;Saída;0,6835;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;PIMENTÃO;kg;Saída;0,0945;-0,005;Saída;0,0895;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;MOLHO TOMATE;kg;Saída;-0,26;-0,02;Saída;-0,28;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-1,48;-0,13;Saída;-1,61;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;SACO BOBINA;UN;Saída;-4,5;-0,5;Saída;-5;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;CAIXA GRANDE;UN;Saída;-3,5;-0,5;Saída;-4;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;OVO;UN;Saída;-1;-1;Saída;-2;Eduarda;16/09/2023 18:27;Venda de 1/2 PORTUGUESA do pedido 3
+Insumo;MUSSARELA;kg;Devolução;11,766;0,18;Entrada;11,946;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;AZEITONA PRETA;kg;Devolução;0,2705;0,01;Entrada;0,2805;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;PRESUNTO;kg;Devolução;0,535;0,03;Entrada;0,565;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;LINGUIÇA CALABRESA;kg;Devolução;1,718;0,04;Entrada;1,758;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;CEBOLA ROXA;kg;Devolução;0,2655;0,005;Entrada;0,2705;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;ORÉGANO;kg;Devolução;0,077;0,001;Entrada;0,078;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;CEBOLA;kg;Devolução;0,6785;0,01;Entrada;0,6885;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;PIMENTÃO;kg;Devolução;0,0845;0,01;Entrada;0,0945;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;MOLHO TOMATE;kg;Devolução;-0,3;0,04;Entrada;-0,26;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;MASSA PIZZA;kg;Devolução;-1,74;0,26;Entrada;-1,48;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;SACO BOBINA;UN;Devolução;-5,5;1;Entrada;-4,5;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;CAIXA GRANDE;UN;Devolução;-4,5;1;Entrada;-3,5;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;OVO;UN;Devolução;-3;2;Entrada;-1;Eduarda;16/09/2023 18:25;Item cancelado
+Insumo;MUSSARELA;kg;Saída;11,946;-0,18;Saída;11,766;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;AZEITONA PRETA;kg;Saída;0,2805;-0,01;Saída;0,2705;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;PRESUNTO;kg;Saída;0,565;-0,03;Saída;0,535;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,758;-0,04;Saída;1,718;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;CEBOLA ROXA;kg;Saída;0,2705;-0,005;Saída;0,2655;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;ORÉGANO;kg;Saída;0,078;-0,001;Saída;0,077;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;CEBOLA;kg;Saída;0,6885;-0,01;Saída;0,6785;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;PIMENTÃO;kg;Saída;0,0945;-0,01;Saída;0,0845;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;MOLHO TOMATE;kg;Saída;-0,26;-0,04;Saída;-0,3;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-1,48;-0,26;Saída;-1,74;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;SACO BOBINA;UN;Saída;-4,5;-1;Saída;-5,5;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;CAIXA GRANDE;UN;Saída;-3,5;-1;Saída;-4,5;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;OVO;UN;Saída;-1;-2;Saída;-3;Eduarda;16/09/2023 18:25;Venda de PIZZA PORTUGUESA GRANDE do pedido 3
+Insumo;MUSSARELA;kg;Saída;12,036;-0,09;Saída;11,946;Eduarda;16/09/2023 18:23;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;GORGONZOLA;kg;Saída;0,108;-0,005;Saída;0,103;Eduarda;16/09/2023 18:23;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;ORÉGANO;kg;Saída;0,0785;-0,0005;Saída;0,078;Eduarda;16/09/2023 18:23;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;MOLHO TOMATE;kg;Saída;-0,23;-0,03;Saída;-0,26;Eduarda;16/09/2023 18:23;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-1,35;-0,13;Saída;-1,48;Eduarda;16/09/2023 18:23;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;-0,06;-0,03;Saída;-0,09;Eduarda;16/09/2023 18:23;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;SACO BOBINA;UN;Saída;-4;-0,5;Saída;-4,5;Eduarda;16/09/2023 18:23;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;CAIXA GRANDE;UN;Saída;-3;-0,5;Saída;-3,5;Eduarda;16/09/2023 18:23;Venda de 1/2 4 QUEIJOS do pedido 3
+Insumo;MUSSARELA;kg;Saída;12,126;-0,09;Saída;12,036;Eduarda;16/09/2023 18:23;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;TOMATE SALADA;kg;Saída;0,756;-0,0075;Saída;0,7485;Eduarda;16/09/2023 18:23;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;ORÉGANO;kg;Saída;0,079;-0,0005;Saída;0,0785;Eduarda;16/09/2023 18:23;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;MOLHO TOMATE;kg;Saída;-0,21;-0,02;Saída;-0,23;Eduarda;16/09/2023 18:23;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-1,22;-0,13;Saída;-1,35;Eduarda;16/09/2023 18:23;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;SACO BOBINA;UN;Saída;-3,5;-0,5;Saída;-4;Eduarda;16/09/2023 18:23;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;CAIXA GRANDE;UN;Saída;-2,5;-0,5;Saída;-3;Eduarda;16/09/2023 18:23;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;MANJERICÃO FRESCO;kg;Saída;0;-0,0005;Saída;-0,0005;Eduarda;16/09/2023 18:23;Venda de 1/2 MARGUERITA do pedido 3
+Insumo;MASSA PIZZA;kg;Saída;-1,09;-0,13;Saída;-1,22;Eduarda;15/09/2023 20:12;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 2
+Insumo;MUSSARELA;kg;Saída;12,216;-0,09;Saída;12,126;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,773;-0,015;Saída;1,758;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;CEBOLA ROXA;kg;Saída;0,2715;-0,001;Saída;0,2705;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;ORÉGANO;kg;Saída;0,0795;-0,0005;Saída;0,079;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;CEBOLA;kg;Saída;0,6915;-0,003;Saída;0,6885;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;MOLHO TOMATE;kg;Saída;-0,19;-0,02;Saída;-0,21;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;MASSA PIZZA;kg;Saída;-0,96;-0,13;Saída;-1,09;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;SACO BOBINA;UN;Saída;-3;-0,5;Saída;-3,5;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;CAIXA GRANDE;UN;Saída;-2;-0,5;Saída;-2,5;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;MUSSARELA;kg;Devolução;12,126;0,09;Entrada;12,216;Eduarda;15/09/2023 20:12;Alteração do item: 9
+Insumo;LINGUIÇA CALABRESA;kg;Devolução;1,758;0,015;Entrada;1,773;Eduarda;15/09/2023 20:12;Alteração do item: 9
+Insumo;CEBOLA ROXA;kg;Devolução;0,2705;0,001;Entrada;0,2715;Eduarda;15/09/2023 20:12;Alteração do item: 9
+Insumo;ORÉGANO;kg;Devolução;0,079;0,0005;Entrada;0,0795;Eduarda;15/09/2023 20:12;Alteração do item: 9
+Insumo;CEBOLA;kg;Devolução;0,6885;0,003;Entrada;0,6915;Eduarda;15/09/2023 20:12;Alteração do item: 9
+Insumo;MOLHO TOMATE;kg;Devolução;-0,21;0,02;Entrada;-0,19;Eduarda;15/09/2023 20:12;Alteração do item: 9
+Insumo;MASSA PIZZA;kg;Devolução;-1,22;0,13;Entrada;-1,09;Eduarda;15/09/2023 20:12;Alteração do item: 9
+Insumo;SACO BOBINA;UN;Devolução;-3,5;0,5;Entrada;-3;Eduarda;15/09/2023 20:12;Alteração do item: 9
+Insumo;CAIXA GRANDE;UN;Devolução;-2,5;0,5;Entrada;-2;Eduarda;15/09/2023 20:12;Alteração do item: 9
+Insumo;MASSA PIZZA;kg;Devolução;-1,09;0,13;Entrada;-0,96;Eduarda;15/09/2023 20:12;Alteração do item: 9
+Insumo;MASSA PIZZA;kg;Saída;-1,09;-0,13;Saída;-1,22;Eduarda;15/09/2023 20:12;Venda de 1/2 FRANGO C/ CATUPIRY do pedido 2
+Insumo;MUSSARELA;kg;Saída;12,216;-0,09;Saída;12,126;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,773;-0,015;Saída;1,758;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;CEBOLA ROXA;kg;Saída;0,2715;-0,001;Saída;0,2705;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;ORÉGANO;kg;Saída;0,0795;-0,0005;Saída;0,079;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;CEBOLA;kg;Saída;0,6915;-0,003;Saída;0,6885;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;MOLHO TOMATE;kg;Saída;-0,19;-0,02;Saída;-0,21;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;MASSA PIZZA;kg;Saída;-0,96;-0,13;Saída;-1,09;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;SACO BOBINA;UN;Saída;-3;-0,5;Saída;-3,5;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Insumo;CAIXA GRANDE;UN;Saída;-2;-0,5;Saída;-2,5;Eduarda;15/09/2023 20:12;Venda de 1/2 CALABRESA do pedido 2
+Produto;COCA-COLA NORMAL 2L;UN;Saída;0;-1;Saída;-1;Eduarda;15/09/2023 10:45;Venda de COCA-COLA NORMAL 2L do pedido 1
+Produto;COCA-COLA ZERO 2L;UN;Entrada;0;0;;0;Eduarda;15/09/2023 10:45;Lançamento Inicial de Estoque
+Produto;COCA-COLA NORMAL 2L;UN;Entrada;0;0;;0;Eduarda;15/09/2023 10:41;Lançamento Inicial de Estoque
+Insumo;MUSSARELA;kg;Saída;12,306;-0,09;Saída;12,216;Eduarda;15/09/2023 10:31;Venda de 1/2 BACON C/ MILHO do pedido 1
+Insumo;BACON;kg;Saída;1,84;-0,02;Saída;1,82;Eduarda;15/09/2023 10:31;Venda de 1/2 BACON C/ MILHO do pedido 1
+Insumo;MOLHO TOMATE;kg;Saída;-0,17;-0,02;Saída;-0,19;Eduarda;15/09/2023 10:31;Venda de 1/2 BACON C/ MILHO do pedido 1
+Insumo;MASSA PIZZA;kg;Saída;-0,83;-0,13;Saída;-0,96;Eduarda;15/09/2023 10:31;Venda de 1/2 BACON C/ MILHO do pedido 1
+Insumo;SACO BOBINA;UN;Saída;-2,5;-0,5;Saída;-3;Eduarda;15/09/2023 10:31;Venda de 1/2 BACON C/ MILHO do pedido 1
+Insumo;CAIXA GRANDE;UN;Saída;-1,5;-0,5;Saída;-2;Eduarda;15/09/2023 10:31;Venda de 1/2 BACON C/ MILHO do pedido 1
+Insumo;MILHO;kg;Saída;0;-0,01;Saída;-0,01;Eduarda;15/09/2023 10:31;Venda de 1/2 BACON C/ MILHO do pedido 1
+Insumo;MUSSARELA;kg;Saída;12,396;-0,09;Saída;12,306;Eduarda;15/09/2023 10:31;Venda de 1/2 ALHO PORÓ do pedido 1
+Insumo;CREAME CHEESE;kg;Saída;2,05;-0,04;Saída;2,01;Eduarda;15/09/2023 10:31;Venda de 1/2 ALHO PORÓ do pedido 1
+Insumo;ORÉGANO;kg;Saída;0,08;-0,0005;Saída;0,0795;Eduarda;15/09/2023 10:31;Venda de 1/2 ALHO PORÓ do pedido 1
+Insumo;MOLHO TOMATE;kg;Saída;-0,15;-0,02;Saída;-0,17;Eduarda;15/09/2023 10:31;Venda de 1/2 ALHO PORÓ do pedido 1
+Insumo;MASSA PIZZA;kg;Saída;-0,7;-0,13;Saída;-0,83;Eduarda;15/09/2023 10:31;Venda de 1/2 ALHO PORÓ do pedido 1
+Insumo;SACO BOBINA;UN;Saída;-2;-0,5;Saída;-2,5;Eduarda;15/09/2023 10:31;Venda de 1/2 ALHO PORÓ do pedido 1
+Insumo;CAIXA GRANDE;UN;Saída;-1;-0,5;Saída;-1,5;Eduarda;15/09/2023 10:31;Venda de 1/2 ALHO PORÓ do pedido 1
+Insumo;ALHO PORÓ;kg;Saída;0;-0,015;Saída;-0,015;Eduarda;15/09/2023 10:31;Venda de 1/2 ALHO PORÓ do pedido 1
+Insumo;PIMENTA BIQUINHO;kg;Saída;0;-0,003;Saída;-0,003;Eduarda;15/09/2023 10:31;Venda de 1/2 ALHO PORÓ do pedido 1
+Insumo;MUSSARELA;kg;Saída;12,576;-0,18;Saída;12,396;Eduarda;15/09/2023 10:31;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 1
+Insumo;GORGONZOLA;kg;Saída;0,118;-0,01;Saída;0,108;Eduarda;15/09/2023 10:31;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 1
+Insumo;ORÉGANO;kg;Saída;0,081;-0,001;Saída;0,08;Eduarda;15/09/2023 10:31;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 1
+Insumo;MOLHO TOMATE;kg;Saída;-0,09;-0,06;Saída;-0,15;Eduarda;15/09/2023 10:31;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 1
+Insumo;MASSA PIZZA;kg;Saída;-0,44;-0,26;Saída;-0,7;Eduarda;15/09/2023 10:31;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 1
+Insumo;MISTURA 4 QUEIJOS;kg;Saída;0;-0,06;Saída;-0,06;Eduarda;15/09/2023 10:31;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 1
+Insumo;SACO BOBINA;UN;Saída;-1;-1;Saída;-2;Eduarda;15/09/2023 10:31;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 1
+Insumo;CAIXA GRANDE;UN;Saída;0;-1;Saída;-1;Eduarda;15/09/2023 10:31;Venda de PIZZA 4 QUEIJOS GRANDE do pedido 1
+Insumo;MUSSARELA;kg;Saída;12,731;-0,155;Saída;12,576;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;AZEITONA PRETA;kg;Saída;0,288;-0,0075;Saída;0,2805;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;PRESUNTO;kg;Saída;0,59;-0,025;Saída;0,565;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,803;-0,03;Saída;1,773;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;CEBOLA ROXA;kg;Saída;0,2765;-0,005;Saída;0,2715;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;ORÉGANO;kg;Saída;0,0815;-0,0005;Saída;0,081;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;CEBOLA;kg;Saída;0,699;-0,0075;Saída;0,6915;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;PIMENTÃO;kg;Saída;0,102;-0,0075;Saída;0,0945;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;MOLHO TOMATE;kg;Saída;-0,045;-0,045;Saída;-0,09;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;MASSA PIZZA;kg;Saída;-0,22;-0,22;Saída;-0,44;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;SACO BOBINA;UN;Saída;-0,5;-0,5;Saída;-1;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;CAIXA GIGANTE;UN;Saída;-0,5;-0,5;Saída;-1;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;OVO;UN;Saída;0;-1;Saída;-1;Eduarda;15/09/2023 10:31;Venda de 1/2 PORTUGUESA do pedido 1
+Insumo;MUSSARELA;kg;Saída;12,886;-0,155;Saída;12,731;Eduarda;15/09/2023 10:31;Venda de 1/2 CALABRESA do pedido 1
+Insumo;LINGUIÇA CALABRESA;kg;Saída;1,828;-0,025;Saída;1,803;Eduarda;15/09/2023 10:31;Venda de 1/2 CALABRESA do pedido 1
+Insumo;CEBOLA ROXA;kg;Saída;0,278;-0,0015;Saída;0,2765;Eduarda;15/09/2023 10:31;Venda de 1/2 CALABRESA do pedido 1
+Insumo;ORÉGANO;kg;Saída;0,082;-0,0005;Saída;0,0815;Eduarda;15/09/2023 10:31;Venda de 1/2 CALABRESA do pedido 1
+Insumo;CEBOLA;kg;Saída;0,704;-0,005;Saída;0,699;Eduarda;15/09/2023 10:31;Venda de 1/2 CALABRESA do pedido 1
+Insumo;MOLHO TOMATE;kg;Saída;0;-0,045;Saída;-0,045;Eduarda;15/09/2023 10:31;Venda de 1/2 CALABRESA do pedido 1
+Insumo;MASSA PIZZA;kg;Saída;0;-0,22;Saída;-0,22;Eduarda;15/09/2023 10:31;Venda de 1/2 CALABRESA do pedido 1
+Insumo;SACO BOBINA;UN;Saída;0;-0,5;Saída;-0,5;Eduarda;15/09/2023 10:31;Venda de 1/2 CALABRESA do pedido 1
+Insumo;CAIXA GIGANTE;UN;Saída;0;-0,5;Saída;-0,5;Eduarda;15/09/2023 10:31;Venda de 1/2 CALABRESA do pedido 1
+Insumo;DOCE DE LEITE;kg;Entrada;0;0;;0;Eduarda;15/09/2023 10:23;Lançamento Inicial de Estoque
+Insumo;GOIABADA;kg;Entrada;0;0;;0;Eduarda;15/09/2023 10:19;Lançamento Inicial de Estoque
+Insumo;RÚCULA;kg;Entrada;0;0,1;Entrada;0,1;Eduarda;15/09/2023 09:56;
+Produto;GUARANÁ MANT. 2L;UN;Entrada;0;2;Entrada;2;Eduarda;15/09/2023 09:56;
+Produto;GUARANÁ ANT. 1,5L;UN;Entrada;0;2;Entrada;2;Eduarda;15/09/2023 09:56;
+Produto;GUARANÁ MANT. 2L;UN;Entrada;0;0;;0;Eduarda;15/09/2023 09:33;Lançamento Inicial de Estoque
+Produto;GUARANÁ ANT. 1,5L;UN;Entrada;0;0;;0;Eduarda;15/09/2023 09:32;Lançamento Inicial de Estoque
+Insumo;RÚCULA;kg;Entrada;0;0;;0;Eduarda;15/09/2023 09:21;Lançamento Inicial de Estoque
+Insumo;TOMATE SALADA;kg;Entrada;0;0,756;Entrada;0,756;Eduarda;15/09/2023 09:18;
+Insumo;TOMATE PELATI;kg;Entrada;0;1,814;Entrada;1,814;Eduarda;15/09/2023 09:18;
+Insumo;QUEIJO PROVOLONE;kg;Entrada;0;0,414;Entrada;0,414;Eduarda;15/09/2023 09:18;
+Insumo;QUEIJO PARMESÃO;kg;Entrada;0;0,21;Entrada;0,21;Eduarda;15/09/2023 09:18;
+Insumo;PRESUNTO;kg;Entrada;0,39;0,2;Entrada;0,59;Eduarda;15/09/2023 09:18;
+Insumo;PIMENTÃO;kg;Entrada;0;0,102;Entrada;0,102;Eduarda;15/09/2023 09:18;
+Insumo;PEITO DE PERU;kg;Entrada;0,04;0,15;Entrada;0,19;Eduarda;15/09/2023 09:18;
+Insumo;FRANGO DESFIADO;kg;Entrada;0;1,722;Entrada;1,722;Eduarda;15/09/2023 09:18;
+Insumo;CEBOLA;kg;Entrada;0;0,704;Entrada;0,704;Eduarda;15/09/2023 09:18;
+Insumo;ALHO;kg;Entrada;0;0,1;Entrada;0,1;Eduarda;15/09/2023 09:18;
+Insumo;MUSSARELA;kg;Correção;11,886;1;Entrada;12,886;Eduarda;15/09/2023 08:41;Estorno - Correção do estoque atual (-)
+Insumo;MUSSARELA;kg;Correção;12,886;-1;Saída;11,886;Eduarda;15/09/2023 08:39;Correção do estoque atual (-)
+Insumo;TOMATE SECO;kg;Entrada;0;0;;0;Eduarda;12/09/2023 17:18;Lançamento Inicial de Estoque
+Insumo;MANJERICÃO FRESCO;kg;Entrada;0;0;;0;Eduarda;12/09/2023 11:50;Lançamento Inicial de Estoque
+Insumo;OVO;UN;Entrada;0;0;;0;Eduarda;10/09/2023 19:56;Lançamento Inicial de Estoque
+Insumo;MILHO;kg;Entrada;0;0;;0;Eduarda;09/09/2023 18:33;Lançamento Inicial de Estoque
+Insumo;PIMENTA BIQUINHO;kg;Entrada;0;0;;0;Eduarda;09/09/2023 18:27;Lançamento Inicial de Estoque
+Insumo;ALHO PORÓ;kg;Entrada;0;0;;0;Eduarda;09/09/2023 18:24;Lançamento Inicial de Estoque
+Insumo;CAIXA GRANDE;UN;Entrada;0;0;;0;Eduarda;09/09/2023 18:15;Lançamento Inicial de Estoque
+Insumo;CAIXA GIGANTE;UN;Entrada;0;0;;0;Eduarda;09/09/2023 18:09;Lançamento Inicial de Estoque
+Insumo;SACO BOBINA;UN;Entrada;0;0;;0;Eduarda;09/09/2023 18:08;Lançamento Inicial de Estoque
+Insumo;QUEIJO PROVOLONE;kg;Entrada;0;0;;0;Eduarda;09/09/2023 17:57;Lançamento Inicial de Estoque
+Insumo;QUEIJO PARMESÃO;kg;Entrada;0;0;;0;Eduarda;09/09/2023 17:56;Lançamento Inicial de Estoque
+Insumo;MOSTARDA PÓ;kg;Entrada;0;0;;0;Eduarda;08/09/2023 19:49;Lançamento Inicial de Estoque
+Insumo;CURRY;kg;Entrada;0;0;;0;Eduarda;08/09/2023 19:48;Lançamento Inicial de Estoque
+Insumo;TOMATE PELATI;kg;Entrada;0;0;;0;Eduarda;08/09/2023 12:11;Lançamento Inicial de Estoque
+Insumo;PIMENTA DO REINO;kg;Entrada;0;0,012;Entrada;0,012;Eduarda;08/09/2023 12:10;Lançamento Inicial de Estoque
+Insumo;PÁPRICA DEFUMADA;kg;Entrada;0;0;;0;Eduarda;08/09/2023 12:08;Lançamento Inicial de Estoque
+Insumo;MANJERICÃO PÓ;kg;Entrada;0;0;;0;Eduarda;08/09/2023 12:07;Lançamento Inicial de Estoque
+Insumo;AZEITE;l;Entrada;0;0;;0;Eduarda;08/09/2023 12:06;Lançamento Inicial de Estoque
+Insumo;MISTURA 4 QUEIJOS;kg;Entrada;0;0;;0;Eduarda;08/09/2023 10:29;Lançamento Inicial de Estoque
+Insumo;FRANGO DESFIADO;kg;Entrada;0;0;;0;Eduarda;08/09/2023 10:24;Lançamento Inicial de Estoque
+Insumo;MASSA PIZZA;kg;Entrada;0;0;;0;Eduarda;08/09/2023 10:24;Lançamento Inicial de Estoque
+Insumo;MOLHO TOMATE;kg;Entrada;0;0;;0;Eduarda;08/09/2023 10:24;Lançamento Inicial de Estoque
+Insumo;FERMENTO ;kg;Entrada;0;0;;0;Eduarda;07/09/2023 22:00;Lançamento Inicial de Estoque
+Insumo;PIMENTÃO;kg;Entrada;0;0;;0;Eduarda;07/09/2023 21:59;Lançamento Inicial de Estoque
+Insumo;CEBOLA;kg;Entrada;0;0;;0;Eduarda;07/09/2023 21:59;Lançamento Inicial de Estoque
+Insumo;ALHO;kg;Entrada;0;0;;0;Eduarda;07/09/2023 21:58;Lançamento Inicial de Estoque
+Insumo;GORGONZOLA;kg;Correção;0;0,118;Entrada;0,118;Eduarda;07/09/2023 21:50;Correção do estoque atual (+)
+Insumo;GORGONZOLA;kg;Correção;118;-118;Saída;0;Eduarda;07/09/2023 21:50;Correção do estoque atual (-)
+Insumo;ORÉGANO;kg;Entrada;0;0,082;Entrada;0,082;Eduarda;07/09/2023 21:45;Lançamento Inicial de Estoque
+Insumo;ALHO TORRADO;kg;Entrada;0;0,176;Entrada;0,176;Eduarda;07/09/2023 21:43;Lançamento Inicial de Estoque
+Insumo;CHOCOLATE BRANCO;kg;Entrada;0;0,498;Entrada;0,498;Eduarda;07/09/2023 21:41;Lançamento Inicial de Estoque
+Insumo;CHOCOLATE AO LEITE;kg;Entrada;0;1,266;Entrada;1,266;Eduarda;07/09/2023 21:40;Lançamento Inicial de Estoque
+Insumo;EXTRATO TOMATE;kg;Entrada;0;1,92;Entrada;1,92;Eduarda;07/09/2023 21:38;Lançamento Inicial de Estoque
+Insumo;PEPPERONI;kg;Entrada;0;1,158;Entrada;1,158;Eduarda;07/09/2023 21:36;Lançamento Inicial de Estoque
+Insumo;AÇÚCAR;kg;Entrada;0;1,066;Entrada;1,066;Eduarda;07/09/2023 21:34;Lançamento Inicial de Estoque
+Insumo;SAL;kg;Entrada;0;1,944;Entrada;1,944;Eduarda;07/09/2023 21:33;Lançamento Inicial de Estoque
+Insumo;ÓLEO;l;Correção;1,8;0,32;Entrada;2,12;Eduarda;07/09/2023 21:32;Correção do estoque atual (+)
+Insumo;FARINHA;kg;Entrada;0;20;Entrada;20;Eduarda;07/09/2023 21:31;Lançamento Inicial de Estoque
+Insumo;ÓLEO;l;Entrada;0;1,8;Entrada;1,8;Eduarda;07/09/2023 21:30;Lançamento Inicial de Estoque
+Insumo;BACON;kg;Entrada;0;1,84;Entrada;1,84;Eduarda;07/09/2023 21:25;Lançamento Inicial de Estoque
+Insumo;LINGUIÇA CALABRESA;kg;Entrada;0;1,828;Entrada;1,828;Eduarda;07/09/2023 21:00;Lançamento Inicial de Estoque
+Insumo;MUSSARELA;kg;Correção;12,906;-0,02;Saída;12,886;Eduarda;07/09/2023 20:16;Correção do estoque atual (-)
+Insumo;TOMATE SALADA;kg;Entrada;0;0;;0;Eduarda;07/09/2023 19:23;Lançamento Inicial de Estoque
+Insumo;CEBOLA ROXA;kg;Entrada;0;0,278;Entrada;0,278;Eduarda;07/09/2023 19:23;Lançamento Inicial de Estoque
+Insumo;PRESUNTO;kg;Entrada;0;0,39;Entrada;0,39;Eduarda;07/09/2023 19:21;Lançamento Inicial de Estoque
+Insumo;PEITO DE PERU;kg;Entrada;0;0,04;Entrada;0,04;Eduarda;07/09/2023 19:20;Lançamento Inicial de Estoque
+Insumo;CHAMPIGNON;kg;Entrada;0;0,044;Entrada;0,044;Eduarda;07/09/2023 19:19;Lançamento Inicial de Estoque
+Insumo;AZEITONA PRETA;kg;Entrada;0;0,288;Entrada;0,288;Eduarda;07/09/2023 19:06;Lançamento Inicial de Estoque
+Insumo;REQUEIJÃO CREMOSO;kg;Entrada;0;2,476;Entrada;2,476;Eduarda;07/09/2023 19:02;Lançamento Inicial de Estoque
+Insumo;CREAME CHEESE;kg;Entrada;0;2,05;Entrada;2,05;Eduarda;07/09/2023 18:59;Lançamento Inicial de Estoque
+Insumo;GORGONZOLA;kg;Entrada;0;118;Entrada;118;Eduarda;07/09/2023 18:55;Lançamento Inicial de Estoque
+Insumo;MUSSARELA;kg;Entrada;0;12,906;Entrada;12,906;Eduarda;07/09/2023 18:49;Lançamento Inicial de Estoque

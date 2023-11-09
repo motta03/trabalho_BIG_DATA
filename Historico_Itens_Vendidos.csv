@@ -1,0 +1,193 @@
+﻿Data/Hora Item;Qtd.;Valor Un. Item;Valor. Tot. Item;Tipo de Item;Nome Prod;Tipo Prod;Cat. Prod.;Valor Prod;Cod. Ped.;Núm. Mesa/Com.;Data Ab. Ped.;Data Fec. Ped.;Tipo Ped.;Stat. Ped.
+15/09/2023 10:31;0,5;60,00;30,00;Produto fracionado;PIZZA CALABRESA GIGANTE;Produto por Tamanho;PIZZA;56,00;1;;15/09/2023 10:27;15/09/2023 13:08;Delivery    ;Finalizado Pago 
+15/09/2023 10:31;0,5;60,00;30,00;Produto fracionado;PIZZA PORTUGUESA GIGANTE;Produto por Tamanho;PIZZA;60,00;1;;15/09/2023 10:27;15/09/2023 13:08;Delivery    ;Finalizado Pago 
+15/09/2023 10:31;1;52,00;52,00;Produto por tamanho;PIZZA 4 QUEIJOS GRANDE;Produto por Tamanho;PIZZA;52,00;1;;15/09/2023 10:27;15/09/2023 13:08;Delivery    ;Finalizado Pago 
+15/09/2023 10:31;0,5;52,00;26,00;Produto fracionado;PIZZA ALHO PORÓ GRANDE;Produto por Tamanho;PIZZA;52,00;1;;15/09/2023 10:27;15/09/2023 13:08;Delivery    ;Finalizado Pago 
+15/09/2023 10:31;0,5;52,00;26,00;Produto fracionado;PIZZA BACON C/ MILHO GRANDE;Produto por Tamanho;PIZZA;52,00;1;;15/09/2023 10:27;15/09/2023 13:08;Delivery    ;Finalizado Pago 
+15/09/2023 10:45;1;12,00;12,00;Produto;COCA-COLA NORMAL 2L;Produto;BEBIDAS;12,00;1;;15/09/2023 10:27;15/09/2023 13:08;Delivery    ;Finalizado Pago 
+15/09/2023 20:12;0,5;52,00;26,00;Produto fracionado;PIZZA CALABRESA GRANDE;Produto por Tamanho;PIZZA;49,00;2;;15/09/2023 20:08;15/09/2023 20:22;Delivery    ;Finalizado Pago 
+15/09/2023 20:12;0,5;52,00;26,00;Produto fracionado;PIZZA FRANGO C/ CATUPIRY GRANDE;Produto por Tamanho;PIZZA;52,00;2;;15/09/2023 20:08;15/09/2023 20:22;Delivery    ;Finalizado Pago 
+16/09/2023 18:36;1;52,00;52,00;Produto por tamanho;PIZZA 4 QUEIJOS GRANDE;Produto por Tamanho;PIZZA;52,00;3;1;16/09/2023 18:23;16/09/2023 21:47;Mesa/Comanda;Finalizado Fiado
+16/09/2023 18:37;0,5;49,00;24,50;Produto fracionado;PIZZA CALABRESA GRANDE;Produto por Tamanho;PIZZA;49,00;3;1;16/09/2023 18:23;16/09/2023 21:47;Mesa/Comanda;Finalizado Fiado
+16/09/2023 18:37;0,5;49,00;24,50;Produto fracionado;PIZZA MARGUERITA GRANDE;Produto por Tamanho;PIZZA;45,00;3;1;16/09/2023 18:23;16/09/2023 21:47;Mesa/Comanda;Finalizado Fiado
+16/09/2023 18:37;0,5;52,00;26,00;Produto fracionado;PIZZA PORTUGUESA GRANDE;Produto por Tamanho;PIZZA;52,00;3;1;16/09/2023 18:23;16/09/2023 21:47;Mesa/Comanda;Finalizado Fiado
+16/09/2023 18:37;0,5;52,00;26,00;Produto fracionado;PIZZA FRANGO C/ CATUPIRY GRANDE;Produto por Tamanho;PIZZA;52,00;3;1;16/09/2023 18:23;16/09/2023 21:47;Mesa/Comanda;Finalizado Fiado
+16/09/2023 19:17;0,5;52,00;26,00;Produto fracionado;PIZZA PEITO DE PERU C/ CREAM CHEESE GRANDE;Produto por Tamanho;PIZZA;52,00;3;1;16/09/2023 18:23;16/09/2023 21:47;Mesa/Comanda;Finalizado Fiado
+16/09/2023 19:17;0,5;52,00;26,00;Produto fracionado;PIZZA 4 QUEIJOS GRANDE;Produto por Tamanho;PIZZA;52,00;3;1;16/09/2023 18:23;16/09/2023 21:47;Mesa/Comanda;Finalizado Fiado
+16/09/2023 20:41;0,5;60,00;30,00;Produto fracionado;PIZZA ALHO PORÓ GIGANTE;Produto por Tamanho;PIZZA;60,00;4;;16/09/2023 20:41;16/09/2023 22:04;Delivery    ;Finalizado Pago 
+16/09/2023 20:41;0,5;60,00;30,00;Produto fracionado;PIZZA 4 QUEIJOS GIGANTE;Produto por Tamanho;PIZZA;60,00;4;;16/09/2023 20:41;16/09/2023 22:04;Delivery    ;Finalizado Pago 
+16/09/2023 20:41;0,5;60,00;30,00;Produto fracionado;PIZZA PEPPERONI GIGANTE;Produto por Tamanho;PIZZA;60,00;4;;16/09/2023 20:41;16/09/2023 22:04;Delivery    ;Finalizado Pago 
+16/09/2023 20:41;0,5;60,00;30,00;Produto fracionado;PIZZA BACON C/ OVOS GIGANTE;Produto por Tamanho;PIZZA;60,00;4;;16/09/2023 20:41;16/09/2023 22:04;Delivery    ;Finalizado Pago 
+16/09/2023 20:41;1;12,00;12,00;Produto;COCA-COLA ZERO 2L;Produto;BEBIDAS;12,00;4;;16/09/2023 20:41;16/09/2023 22:04;Delivery    ;Finalizado Pago 
+16/09/2023 20:42;2;2,00;4,00;Produto;ROMEU E JULIETA;Produto;VENENINHO;2,00;4;;16/09/2023 20:41;16/09/2023 22:04;Delivery    ;Finalizado Pago 
+16/09/2023 20:42;2;2,00;4,00;Produto;CHOCOLATE BRANCO;Produto;VENENINHO;2,00;4;;16/09/2023 20:41;16/09/2023 22:04;Delivery    ;Finalizado Pago 
+16/09/2023 20:43;4;2,00;8,00;Produto;ROMEU E JULIETA;Produto;VENENINHO;2,00;4;;16/09/2023 20:41;16/09/2023 22:04;Delivery    ;Finalizado Pago 
+16/09/2023 21:49;0,5;20,00;10,00;Produto fracionado;PIZZA PEITO DE PERU C/ CREAM CHEESE BROTINHO;Produto por Tamanho;PIZZA;20,00;5;;16/09/2023 21:47;16/09/2023 21:50;Delivery    ;Finalizado Pago 
+16/09/2023 21:49;0,5;20,00;10,00;Produto fracionado;PIZZA PORTUGUESA BROTINHO;Produto por Tamanho;PIZZA;20,00;5;;16/09/2023 21:47;16/09/2023 21:50;Delivery    ;Finalizado Pago 
+16/09/2023 21:51;1;52,00;52,00;Produto por tamanho;PIZZA 4 QUEIJOS GRANDE;Produto por Tamanho;PIZZA;52,00;6;;16/09/2023 21:51;16/09/2023 21:53;Delivery    ;Finalizado Fiado
+16/09/2023 21:54;1;49,00;49,00;Produto por tamanho;PIZZA CALABRESA GRANDE;Produto por Tamanho;PIZZA;49,00;7;;16/09/2023 21:53;16/09/2023 21:55;Delivery    ;Finalizado Fiado
+16/09/2023 21:55;1;20,00;20,00;Produto por tamanho;PIZZA 4 QUEIJOS BROTINHO;Produto por Tamanho;PIZZA;20,00;8;;16/09/2023 21:55;16/09/2023 21:56;Delivery    ;Finalizado Fiado
+16/09/2023 21:56;2;49,00;98,00;Produto por tamanho;PIZZA CALABRESA GRANDE;Produto por Tamanho;PIZZA;49,00;9;;16/09/2023 21:56;16/09/2023 21:57;Delivery    ;Finalizado Fiado
+17/09/2023 20:42;0,5;52,00;26,00;Produto fracionado;PIZZA 4 QUEIJOS GRANDE;Produto por Tamanho;PIZZA;52,00;10;;17/09/2023 20:36;18/09/2023 09:48;Delivery    ;Finalizado Pago 
+17/09/2023 20:42;0,5;52,00;26,00;Produto fracionado;PIZZA PEITO DE PERU C/ CREAM CHEESE GRANDE;Produto por Tamanho;PIZZA;52,00;10;;17/09/2023 20:36;18/09/2023 09:48;Delivery    ;Finalizado Pago 
+17/09/2023 20:42;2;2,00;4,00;Produto;CHOCOLATE AO LEITE;Produto;VENENINHO;2,00;10;;17/09/2023 20:36;18/09/2023 09:48;Delivery    ;Finalizado Pago 
+17/09/2023 20:59;0,5;52,00;26,00;Produto fracionado;PIZZA PORTUGUESA GRANDE;Produto por Tamanho;PIZZA;52,00;11;;17/09/2023 20:48;18/09/2023 09:48;Delivery    ;Finalizado Pago 
+17/09/2023 20:59;0,5;52,00;26,00;Produto fracionado;PIZZA BACON C/ OVOS GRANDE;Produto por Tamanho;PIZZA;52,00;11;;17/09/2023 20:48;18/09/2023 09:48;Delivery    ;Finalizado Pago 
+17/09/2023 21:15;1;20,00;20,00;Produto por tamanho;PIZZA BACON C/ MILHO BROTINHO;Produto por Tamanho;PIZZA;20,00;12;;17/09/2023 21:11;18/09/2023 09:48;Delivery    ;Finalizado Pago 
+18/09/2023 09:37;1;12,00;12,00;Complemento;Borda Cream Cheese - Giga;Complemento;Complemento;12,00;14;;18/09/2023 09:36;18/09/2023 09:49;Delivery    ;Finalizado Pago 
+18/09/2023 09:37;0,5;60,00;30,00;Produto fracionado;PIZZA MARGUERITA GIGANTE;Produto por Tamanho;PIZZA;52,00;14;;18/09/2023 09:36;18/09/2023 09:49;Delivery    ;Finalizado Pago 
+18/09/2023 09:37;0,5;60,00;30,00;Produto fracionado;PIZZA PORTUGUESA GIGANTE;Produto por Tamanho;PIZZA;60,00;14;;18/09/2023 09:36;18/09/2023 09:49;Delivery    ;Finalizado Pago 
+18/09/2023 09:39;4;2,00;8,00;Produto;ROMEU E JULIETA;Produto;VENENINHO;2,00;14;;18/09/2023 09:36;18/09/2023 09:49;Delivery    ;Finalizado Pago 
+18/09/2023 11:28;0,5;60,00;30,00;Produto fracionado;PIZZA FRANGO C/ CATUPIRY GIGANTE;Produto por Tamanho;PIZZA;60,00;15;;18/09/2023 11:27;18/09/2023 11:29;Delivery    ;Finalizado Pago 
+18/09/2023 11:28;0,5;60,00;30,00;Produto fracionado;PIZZA MARGUERITA GIGANTE;Produto por Tamanho;PIZZA;52,00;15;;18/09/2023 11:27;18/09/2023 11:29;Delivery    ;Finalizado Pago 
+18/09/2023 11:35;0,5;60,00;30,00;Produto fracionado;PIZZA PEITO DE PERU C/ TOMATE SECO GIGANTE;Produto por Tamanho;PIZZA;60,00;16;;18/09/2023 11:34;18/09/2023 11:36;Delivery    ;Finalizado Pago 
+18/09/2023 11:35;0,5;60,00;30,00;Produto fracionado;PIZZA BACON C/ OVOS GIGANTE;Produto por Tamanho;PIZZA;60,00;16;;18/09/2023 11:34;18/09/2023 11:36;Delivery    ;Finalizado Pago 
+18/09/2023 11:38;0,5;60,00;30,00;Produto fracionado;PIZZA PARIS GIGANTE;Produto por Tamanho;PIZZA;60,00;17;;18/09/2023 11:37;18/09/2023 11:39;Delivery    ;Finalizado Pago 
+18/09/2023 11:38;0,5;60,00;30,00;Produto fracionado;PIZZA PEITO DE PERU C/ CREAM CHEESE GIGANTE;Produto por Tamanho;PIZZA;60,00;17;;18/09/2023 11:37;18/09/2023 11:39;Delivery    ;Finalizado Pago 
+18/09/2023 11:41;0,5;60,00;30,00;Produto fracionado;PIZZA CALABRESA GIGANTE;Produto por Tamanho;PIZZA;56,00;18;;18/09/2023 11:40;18/09/2023 11:41;Delivery    ;Finalizado Pago 
+18/09/2023 11:41;0,5;60,00;30,00;Produto fracionado;PIZZA PORTUGUESA GIGANTE;Produto por Tamanho;PIZZA;60,00;18;;18/09/2023 11:40;18/09/2023 11:41;Delivery    ;Finalizado Pago 
+18/09/2023 11:42;1;52,00;52,00;Produto por tamanho;PIZZA FRANGO C/ CATUPIRY GRANDE;Produto por Tamanho;PIZZA;52,00;19;;18/09/2023 11:42;18/09/2023 11:49;Delivery    ;Finalizado Pago 
+20/09/2023 10:26;1;5,00;5,00;Complemento;Adicional Bacon;Complemento;Complemento;5,00;20;;20/09/2023 10:17;20/09/2023 10:29;Delivery    ;Finalizado Pago 
+20/09/2023 10:26;0,5;60,00;30,00;Produto fracionado;PIZZA CALABRESA GIGANTE;Produto por Tamanho;PIZZA;56,00;20;;20/09/2023 10:17;20/09/2023 10:29;Delivery    ;Finalizado Pago 
+20/09/2023 10:26;0,5;60,00;30,00;Produto fracionado;PIZZA FRANGO C/ CATUPIRY GIGANTE;Produto por Tamanho;PIZZA;60,00;20;;20/09/2023 10:17;20/09/2023 10:29;Delivery    ;Finalizado Pago 
+23/09/2023 20:43;0,5;60,00;30,00;Produto fracionado;PIZZA FRANGO C/ CATUPIRY GIGANTE;Produto por Tamanho;PIZZA;60,00;21;;23/09/2023 20:41;23/09/2023 20:59;Delivery    ;Finalizado Pago 
+23/09/2023 20:43;0,5;60,00;30,00;Produto fracionado;PIZZA PEITO DE PERU C/ CREAM CHEESE GIGANTE;Produto por Tamanho;PIZZA;60,00;21;;23/09/2023 20:41;23/09/2023 20:59;Delivery    ;Finalizado Pago 
+23/09/2023 20:49;2;2,00;4,00;Produto;CHOCOLATE AO LEITE;Produto;VENENINHO;2,00;21;;23/09/2023 20:41;23/09/2023 20:59;Delivery    ;Finalizado Pago 
+23/09/2023 20:49;2;2,00;4,00;Produto;CHOCOLATE BRANCO;Produto;VENENINHO;2,00;21;;23/09/2023 20:41;23/09/2023 20:59;Delivery    ;Finalizado Pago 
+23/09/2023 20:49;2;2,00;4,00;Produto;DOCE DE LEITE;Produto;VENENINHO;2,00;21;;23/09/2023 20:41;23/09/2023 20:59;Delivery    ;Finalizado Pago 
+23/09/2023 21:01;1;20,00;20,00;Produto por tamanho;PIZZA CALABRESA BROTINHO;Produto por Tamanho;PIZZA;20,00;22;;23/09/2023 20:59;23/09/2023 21:11;Delivery    ;Finalizado Fiado
+23/09/2023 21:01;1;20,00;20,00;Produto por tamanho;PIZZA FRANGO C/ CATUPIRY BROTINHO;Produto por Tamanho;PIZZA;20,00;22;;23/09/2023 20:59;23/09/2023 21:11;Delivery    ;Finalizado Fiado
+23/09/2023 21:19;1;20,00;20,00;Produto por tamanho;PIZZA FRANGO C/ CATUPIRY BROTINHO;Produto por Tamanho;PIZZA;20,00;23;;23/09/2023 21:14;23/09/2023 21:20;Delivery    ;Finalizado Pago 
+23/09/2023 21:20;1;20,00;20,00;Produto por tamanho;PIZZA PORTUGUESA BROTINHO;Produto por Tamanho;PIZZA;20,00;24;;23/09/2023 21:20;23/09/2023 21:21;Delivery    ;Finalizado Pago 
+23/09/2023 21:49;0,5;60,00;30,00;Produto fracionado;PIZZA ALHO PORÓ GIGANTE;Produto por Tamanho;PIZZA;60,00;25;;23/09/2023 21:21;23/09/2023 21:51;Delivery    ;Finalizado Pago 
+23/09/2023 21:49;0,5;60,00;30,00;Produto fracionado;PIZZA FRANGO C/ CATUPIRY GIGANTE;Produto por Tamanho;PIZZA;60,00;25;;23/09/2023 21:21;23/09/2023 21:51;Delivery    ;Finalizado Pago 
+23/09/2023 22:04;1;5,00;5,00;Complemento;Adicional Calabresa;Complemento;Complemento;5,00;26;;23/09/2023 21:51;23/09/2023 22:04;Delivery    ;Finalizado Pago 
+23/09/2023 22:04;0,5;60,00;30,00;Produto fracionado;PIZZA BACON C/ OVOS GIGANTE;Produto por Tamanho;PIZZA;60,00;26;;23/09/2023 21:51;23/09/2023 22:04;Delivery    ;Finalizado Pago 
+23/09/2023 22:04;0,5;60,00;30,00;Produto fracionado;PIZZA 4 QUEIJOS GIGANTE;Produto por Tamanho;PIZZA;60,00;26;;23/09/2023 21:51;23/09/2023 22:04;Delivery    ;Finalizado Pago 
+23/09/2023 22:05;0,5;60,00;30,00;Produto fracionado;PIZZA CALABRESA GIGANTE;Produto por Tamanho;PIZZA;56,00;27;;23/09/2023 22:04;23/09/2023 22:06;Delivery    ;Finalizado Pago 
+23/09/2023 22:05;0,5;60,00;30,00;Produto fracionado;PIZZA PARIS GIGANTE;Produto por Tamanho;PIZZA;60,00;27;;23/09/2023 22:04;23/09/2023 22:06;Delivery    ;Finalizado Pago 
+04/10/2023 11:42;0,5;60,00;30,00;Produto fracionado;PIZZA FRANGO C/ CATUPIRY GIGANTE;Produto por Tamanho;PIZZA;60,00;30;;04/10/2023 11:39;04/10/2023 11:45;Delivery    ;Finalizado Pago 
+04/10/2023 11:42;0,5;60,00;30,00;Produto fracionado;PIZZA PEITO DE PERU C/ CREAM CHEESE GIGANTE;Produto por Tamanho;PIZZA;60,00;30;;04/10/2023 11:39;04/10/2023 11:45;Delivery    ;Finalizado Pago 
+04/10/2023 11:42;2;2,00;4,00;Produto;CHOCOLATE AO LEITE;Produto;VENENINHO;2,00;30;;04/10/2023 11:39;04/10/2023 11:45;Delivery    ;Finalizado Pago 
+04/10/2023 11:42;2;2,00;4,00;Produto;CHOCOLATE BRANCO;Produto;VENENINHO;2,00;30;;04/10/2023 11:39;04/10/2023 11:45;Delivery    ;Finalizado Pago 
+04/10/2023 11:42;2;2,00;4,00;Produto;DOCE DE LEITE;Produto;VENENINHO;2,00;30;;04/10/2023 11:39;04/10/2023 11:45;Delivery    ;Finalizado Pago 
+04/10/2023 11:46;1;5,00;5,00;Complemento;Adicional Calabresa;Complemento;Complemento;5,00;31;;04/10/2023 11:45;04/10/2023 11:47;Delivery    ;Finalizado Pago 
+04/10/2023 11:46;0,5;60,00;30,00;Produto fracionado;PIZZA BACON C/ OVOS GIGANTE;Produto por Tamanho;PIZZA;60,00;31;;04/10/2023 11:45;04/10/2023 11:47;Delivery    ;Finalizado Pago 
+04/10/2023 11:46;0,5;60,00;30,00;Produto fracionado;PIZZA 4 QUEIJOS GIGANTE;Produto por Tamanho;PIZZA;60,00;31;;04/10/2023 11:45;04/10/2023 11:47;Delivery    ;Finalizado Pago 
+04/10/2023 11:50;1;49,00;49,00;Produto por tamanho;PIZZA CALABRESA GRANDE;Produto por Tamanho;PIZZA;49,00;32;;04/10/2023 11:48;04/10/2023 11:50;Delivery    ;Finalizado Pago 
+04/10/2023 12:00;1;60,00;60,00;Produto por tamanho;PIZZA 4 QUEIJOS GIGANTE;Produto por Tamanho;PIZZA;60,00;34;;04/10/2023 11:59;04/10/2023 12:03;Delivery    ;Finalizado Pago 
+04/10/2023 12:01;0,5;60,00;30,00;Produto fracionado;PIZZA CALABRESA GIGANTE;Produto por Tamanho;PIZZA;56,00;34;;04/10/2023 11:59;04/10/2023 12:03;Delivery    ;Finalizado Pago 
+04/10/2023 12:01;0,5;60,00;30,00;Produto fracionado;PIZZA PORTUGUESA GIGANTE;Produto por Tamanho;PIZZA;60,00;34;;04/10/2023 11:59;04/10/2023 12:03;Delivery    ;Finalizado Pago 
+04/10/2023 12:01;1;8,00;8,00;Produto;GUARANÁ ANT. 1,5L;Produto;BEBIDAS;8,00;34;;04/10/2023 11:59;04/10/2023 12:03;Delivery    ;Finalizado Pago 
+04/10/2023 20:56;1;56,00;56,00;Produto por tamanho;PIZZA CALABRESA GIGANTE;Produto por Tamanho;PIZZA;56,00;35;;04/10/2023 20:54;04/10/2023 20:58;Delivery    ;Finalizado Pago 
+04/10/2023 20:56;0,5;52,00;26,00;Produto fracionado;PIZZA PEPPERONI GRANDE;Produto por Tamanho;PIZZA;52,00;35;;04/10/2023 20:54;04/10/2023 20:58;Delivery    ;Finalizado Pago 
+04/10/2023 20:56;0,5;52,00;26,00;Produto fracionado;PIZZA MARGUERITA GRANDE;Produto por Tamanho;PIZZA;45,00;35;;04/10/2023 20:54;04/10/2023 20:58;Delivery    ;Finalizado Pago 
+04/10/2023 20:57;1;12,00;12,00;Produto;COCA-COLA ZERO 2L;Produto;BEBIDAS;12,00;35;;04/10/2023 20:54;04/10/2023 20:58;Delivery    ;Finalizado Pago 
+04/10/2023 21:01;0,5;49,00;24,50;Produto fracionado;PIZZA CALABRESA GRANDE;Produto por Tamanho;PIZZA;49,00;36;;04/10/2023 20:59;04/10/2023 21:01;Delivery    ;Finalizado Pago 
+04/10/2023 21:01;0,5;49,00;24,50;Produto fracionado;PIZZA MARGUERITA GRANDE;Produto por Tamanho;PIZZA;45,00;36;;04/10/2023 20:59;04/10/2023 21:01;Delivery    ;Finalizado Pago 
+04/10/2023 21:55;0,5;60,00;30,00;Produto fracionado;PIZZA CALABRESA GIGANTE;Produto por Tamanho;PIZZA;56,00;37;;04/10/2023 21:02;04/10/2023 21:59;Delivery    ;Finalizado Pago 
+04/10/2023 21:55;0,5;60,00;30,00;Produto fracionado;PIZZA PARIS GIGANTE;Produto por Tamanho;PIZZA;60,00;37;;04/10/2023 21:02;04/10/2023 21:59;Delivery    ;Finalizado Pago 
+04/10/2023 21:57;0,5;60,00;30,00;Produto fracionado;PIZZA CALABRESA GIGANTE;Produto por Tamanho;PIZZA;56,00;37;;04/10/2023 21:02;04/10/2023 21:59;Delivery    ;Finalizado Pago 
+04/10/2023 21:57;0,5;60,00;30,00;Produto fracionado;PIZZA PEITO DE PERU C/ CREAM CHEESE GIGANTE;Produto por Tamanho;PIZZA;60,00;37;;04/10/2023 21:02;04/10/2023 21:59;Delivery    ;Finalizado Pago 
+04/10/2023 22:02;1;56,00;56,00;Produto por tamanho;PIZZA CALABRESA GIGANTE;Produto por Tamanho;PIZZA;56,00;38;;04/10/2023 21:59;04/10/2023 22:04;Delivery    ;Finalizado Pago 
+04/10/2023 22:02;0,5;60,00;30,00;Produto fracionado;PIZZA MARGUERITA GIGANTE;Produto por Tamanho;PIZZA;52,00;38;;04/10/2023 21:59;04/10/2023 22:04;Delivery    ;Finalizado Pago 
+04/10/2023 22:02;0,5;60,00;30,00;Produto fracionado;PIZZA PEPPERONI GIGANTE;Produto por Tamanho;PIZZA;60,00;38;;04/10/2023 21:59;04/10/2023 22:04;Delivery    ;Finalizado Pago 
+04/10/2023 22:02;1;12,00;12,00;Produto;COCA-COLA NORMAL 2L;Produto;BEBIDAS;12,00;38;;04/10/2023 21:59;04/10/2023 22:04;Delivery    ;Finalizado Pago 
+04/10/2023 22:07;0,5;60,00;30,00;Produto fracionado;PIZZA 4 QUEIJOS GIGANTE;Produto por Tamanho;PIZZA;60,00;39;;04/10/2023 22:05;04/10/2023 22:09;Delivery    ;Finalizado Pago 
+04/10/2023 22:07;0,5;60,00;30,00;Produto fracionado;PIZZA ALHO PORÓ GIGANTE;Produto por Tamanho;PIZZA;60,00;39;;04/10/2023 22:05;04/10/2023 22:09;Delivery    ;Finalizado Pago 
+04/10/2023 22:07;0,5;60,00;30,00;Produto fracionado;PIZZA BACON C/ OVOS GIGANTE;Produto por Tamanho;PIZZA;60,00;39;;04/10/2023 22:05;04/10/2023 22:09;Delivery    ;Finalizado Pago 
+04/10/2023 22:07;0,5;60,00;30,00;Produto fracionado;PIZZA PORTUGUESA GIGANTE;Produto por Tamanho;PIZZA;60,00;39;;04/10/2023 22:05;04/10/2023 22:09;Delivery    ;Finalizado Pago 
+04/10/2023 22:16;0,5;52,00;26,00;Produto fracionado;PIZZA FRANGO C/ CATUPIRY GRANDE;Produto por Tamanho;PIZZA;52,00;40;;04/10/2023 22:10;04/10/2023 22:16;Delivery    ;Finalizado Pago 
+04/10/2023 22:16;0,5;52,00;26,00;Produto fracionado;PIZZA MARGUERITA GRANDE;Produto por Tamanho;PIZZA;45,00;40;;04/10/2023 22:10;04/10/2023 22:16;Delivery    ;Finalizado Pago 
+04/10/2023 22:21;0,5;52,00;26,00;Produto fracionado;PIZZA 4 QUEIJOS GRANDE;Produto por Tamanho;PIZZA;52,00;41;;04/10/2023 22:20;04/10/2023 22:22;Delivery    ;Finalizado Fiado
+04/10/2023 22:21;0,5;52,00;26,00;Produto fracionado;PIZZA PEITO DE PERU C/ CREAM CHEESE GRANDE;Produto por Tamanho;PIZZA;52,00;41;;04/10/2023 22:20;04/10/2023 22:22;Delivery    ;Finalizado Fiado
+04/10/2023 22:25;0,5;60,00;30,00;Produto fracionado;PIZZA PORTUGUESA GIGANTE;Produto por Tamanho;PIZZA;60,00;42;;04/10/2023 22:22;04/10/2023 22:26;Delivery    ;Finalizado Pago 
+04/10/2023 22:25;0,5;60,00;30,00;Produto fracionado;PIZZA PEITO DE PERU C/ TOMATE SECO GIGANTE;Produto por Tamanho;PIZZA;60,00;42;;04/10/2023 22:22;04/10/2023 22:26;Delivery    ;Finalizado Pago 
+04/10/2023 22:25;1;12,00;12,00;Produto;COCA-COLA NORMAL 2L;Produto;BEBIDAS;12,00;42;;04/10/2023 22:22;04/10/2023 22:26;Delivery    ;Finalizado Pago 
+06/10/2023 20:20;1;8,00;8,00;Produto;COCA-COLA NORMAL 600ML;Produto;BEBIDAS;8,00;45;;06/10/2023 19:38;06/10/2023 21:53;Delivery    ;Finalizado Pago 
+06/10/2023 20:42;1;5,00;5,00;Complemento;Adicional Catupiry;Complemento;Complemento;5,00;45;;06/10/2023 19:38;06/10/2023 21:53;Delivery    ;Finalizado Pago 
+06/10/2023 20:42;0,5;60,00;30,00;Produto fracionado;PIZZA CALABRESA GIGANTE;Produto por Tamanho;PIZZA;56,00;45;;06/10/2023 19:38;06/10/2023 21:53;Delivery    ;Finalizado Pago 
+06/10/2023 20:42;0,5;60,00;30,00;Produto fracionado;PIZZA BACON C/ OVOS GIGANTE;Produto por Tamanho;PIZZA;60,00;45;;06/10/2023 19:38;06/10/2023 21:53;Delivery    ;Finalizado Pago 
+06/10/2023 21:52;1;20,00;20,00;Produto por tamanho;PIZZA CALABRESA BROTINHO;Produto por Tamanho;PIZZA;20,00;46;;06/10/2023 21:52;06/10/2023 21:53;Delivery    ;Finalizado Pago 
+06/10/2023 21:55;0,5;20,00;10,00;Produto fracionado;PIZZA CALABRESA BROTINHO;Produto por Tamanho;PIZZA;20,00;48;;06/10/2023 21:55;06/10/2023 21:56;Delivery    ;Finalizado Pago 
+06/10/2023 21:55;0,5;20,00;10,00;Produto fracionado;PIZZA * Excluído * FRANGO C/ CATUPIRY  BROTINHO;Produto por Tamanho;PIZZA PRÉ-ASSADA;20,00;48;;06/10/2023 21:55;06/10/2023 21:56;Delivery    ;Finalizado Pago 
+06/10/2023 21:57;1;49,00;49,00;Produto por tamanho;PIZZA CALABRESA GRANDE;Produto por Tamanho;PIZZA;49,00;50;;06/10/2023 21:56;06/10/2023 21:58;Delivery    ;Finalizado Pago 
+07/10/2023 20:43;0,5;60,00;30,00;Produto fracionado;PIZZA FRANGO C/ CATUPIRY GIGANTE;Produto por Tamanho;PIZZA;60,00;52;;07/10/2023 20:41;08/10/2023 20:43;Delivery    ;Finalizado Pago 
+07/10/2023 20:43;0,5;60,00;30,00;Produto fracionado;PIZZA PORTUGUESA GIGANTE;Produto por Tamanho;PIZZA;60,00;52;;07/10/2023 20:41;08/10/2023 20:43;Delivery    ;Finalizado Pago 
+07/10/2023 20:43;0,5;60,00;30,00;Produto fracionado;PIZZA ALHO PORÓ GIGANTE;Produto por Tamanho;PIZZA;60,00;52;;07/10/2023 20:41;08/10/2023 20:43;Delivery    ;Finalizado Pago 
+07/10/2023 20:43;0,5;60,00;30,00;Produto fracionado;PIZZA PARIS GIGANTE;Produto por Tamanho;PIZZA;60,00;52;;07/10/2023 20:41;08/10/2023 20:43;Delivery    ;Finalizado Pago 
+07/10/2023 20:45;0,5;52,00;26,00;Produto fracionado;PIZZA MARGUERITA GRANDE;Produto por Tamanho;PIZZA;45,00;52;;07/10/2023 20:41;08/10/2023 20:43;Delivery    ;Finalizado Pago 
+07/10/2023 20:45;0,5;52,00;26,00;Produto fracionado;PIZZA PEITO DE PERU C/ CREAM CHEESE GRANDE;Produto por Tamanho;PIZZA;52,00;52;;07/10/2023 20:41;08/10/2023 20:43;Delivery    ;Finalizado Pago 
+07/10/2023 20:45;1;12,00;12,00;Produto;COCA-COLA NORMAL 2L;Produto;BEBIDAS;12,00;52;;07/10/2023 20:41;08/10/2023 20:43;Delivery    ;Finalizado Pago 
+08/10/2023 18:08;1;52,00;52,00;Produto por tamanho;PIZZA ALHO PORÓ GRANDE;Produto por Tamanho;PIZZA;52,00;51;;07/10/2023 20:41;08/10/2023 20:04;Delivery    ;Finalizado Pago 
+08/10/2023 18:20;0,5;52,00;26,00;Produto fracionado;PIZZA CALABRESA GRANDE;Produto por Tamanho;PIZZA;49,00;53;;08/10/2023 18:19;08/10/2023 20:34;Delivery    ;Finalizado Pago 
+08/10/2023 18:20;0,5;52,00;26,00;Produto fracionado;PIZZA PEITO DE PERU C/ CREAM CHEESE GRANDE;Produto por Tamanho;PIZZA;52,00;53;;08/10/2023 18:19;08/10/2023 20:34;Delivery    ;Finalizado Pago 
+08/10/2023 18:20;1;20,00;20,00;Produto por tamanho;PIZZA PEITO DE PERU C/ CREAM CHEESE BROTINHO;Produto por Tamanho;PIZZA;20,00;53;;08/10/2023 18:19;08/10/2023 20:34;Delivery    ;Finalizado Pago 
+08/10/2023 18:23;6;2,00;12,00;Produto;CHOCOLATE AO LEITE;Produto;VENENINHO;2,00;53;;08/10/2023 18:19;08/10/2023 20:34;Delivery    ;Finalizado Pago 
+08/10/2023 18:23;1;2,00;2,00;Produto;DOCE DE LEITE;Produto;VENENINHO;2,00;53;;08/10/2023 18:19;08/10/2023 20:34;Delivery    ;Finalizado Pago 
+08/10/2023 18:23;1;2,00;2,00;Produto;ROMEU E JULIETA;Produto;VENENINHO;2,00;53;;08/10/2023 18:19;08/10/2023 20:34;Delivery    ;Finalizado Pago 
+08/10/2023 18:24;1;16,00;16,00;Produto;AGUA DE COCO;Produto;BEBIDAS;16,00;53;;08/10/2023 18:19;08/10/2023 20:34;Delivery    ;Finalizado Pago 
+08/10/2023 19:18;1;60,00;60,00;Produto por tamanho;PIZZA PARIS GRANDE;Produto por Tamanho;PIZZA;60,00;55;;08/10/2023 19:18;08/10/2023 20:03;Delivery    ;Finalizado Pago 
+08/10/2023 19:19;1;52,00;52,00;Produto por tamanho;PIZZA PORTUGUESA GRANDE;Produto por Tamanho;PIZZA;52,00;55;;08/10/2023 19:18;08/10/2023 20:03;Delivery    ;Finalizado Pago 
+08/10/2023 19:19;1;20,00;20,00;Produto por tamanho;PIZZA PORTUGUESA BROTINHO;Produto por Tamanho;PIZZA;20,00;55;;08/10/2023 19:18;08/10/2023 20:03;Delivery    ;Finalizado Pago 
+08/10/2023 19:19;1;16,00;16,00;Produto;AGUA DE COCO;Produto;BEBIDAS;16,00;55;;08/10/2023 19:18;08/10/2023 20:03;Delivery    ;Finalizado Pago 
+08/10/2023 19:20;2;2,00;4,00;Produto;DOCE DE LEITE;Produto;VENENINHO;2,00;55;;08/10/2023 19:18;08/10/2023 20:03;Delivery    ;Finalizado Pago 
+08/10/2023 19:20;2;2,00;4,00;Produto;CHOCOLATE BRANCO;Produto;VENENINHO;2,00;55;;08/10/2023 19:18;08/10/2023 20:03;Delivery    ;Finalizado Pago 
+08/10/2023 20:03;0,5;60,00;30,00;Produto fracionado;PIZZA PORTUGUESA GIGANTE;Produto por Tamanho;PIZZA;60,00;51;;07/10/2023 20:41;08/10/2023 20:04;Delivery    ;Finalizado Pago 
+08/10/2023 20:03;0,5;60,00;30,00;Produto fracionado;PIZZA PARIS GIGANTE;Produto por Tamanho;PIZZA;60,00;51;;07/10/2023 20:41;08/10/2023 20:04;Delivery    ;Finalizado Pago 
+08/10/2023 20:03;1;8,00;8,00;Produto;GUARANÁ ANT. 1,5L;Produto;BEBIDAS;8,00;51;;07/10/2023 20:41;08/10/2023 20:04;Delivery    ;Finalizado Pago 
+08/10/2023 20:13;0,5;52,00;26,00;Produto fracionado;PIZZA PORTUGUESA GRANDE;Produto por Tamanho;PIZZA;52,00;56;;08/10/2023 20:12;08/10/2023 20:13;Delivery    ;Finalizado Pago 
+08/10/2023 20:13;0,5;52,00;26,00;Produto fracionado;PIZZA BACON C/ OVOS GRANDE;Produto por Tamanho;PIZZA;52,00;56;;08/10/2023 20:12;08/10/2023 20:13;Delivery    ;Finalizado Pago 
+08/10/2023 20:13;1;12,00;12,00;Produto;COCA-COLA ZERO 2L;Produto;BEBIDAS;12,00;56;;08/10/2023 20:12;08/10/2023 20:13;Delivery    ;Finalizado Pago 
+08/10/2023 20:13;1;16,00;16,00;Produto;AGUA DE COCO;Produto;BEBIDAS;16,00;56;;08/10/2023 20:12;08/10/2023 20:13;Delivery    ;Finalizado Pago 
+08/10/2023 20:34;2;10,00;20,00;Produto;GUARANÁ MANT. 2L;Produto;BEBIDAS;10,00;52;;07/10/2023 20:41;08/10/2023 20:43;Delivery    ;Finalizado Pago 
+08/10/2023 20:53;1;52,00;52,00;Produto por tamanho;PIZZA 4 QUEIJOS  GRANDE;Produto por Tamanho;PIZZA PRÉ-ASSADA;52,00;57;;08/10/2023 20:53;08/10/2023 20:56;Delivery    ;Finalizado Fiado
+08/10/2023 21:22;1;20,00;20,00;Produto por tamanho;PIZZA 4 QUEIJOS  BROTINHO;Produto por Tamanho;PIZZA PRÉ-ASSADA;20,00;58;;08/10/2023 21:21;08/10/2023 21:23;Delivery    ;Finalizado Pago 
+08/10/2023 21:22;1;20,00;20,00;Produto por tamanho;PIZZA CALABRESA  BROTINHO;Produto por Tamanho;PIZZA PRÉ-ASSADA;20,00;58;;08/10/2023 21:21;08/10/2023 21:23;Delivery    ;Finalizado Pago 
+12/10/2023 18:24;1;10,00;10,00;Produto;GUARANÁ MANT. 2L;Produto;BEBIDAS;10,00;59;;12/10/2023 18:24;12/10/2023 21:29;Delivery    ;Finalizado Pago 
+12/10/2023 18:24;1;60,00;60,00;Produto por tamanho;PIZZA ALHO PORÓ GIGANTE;Produto por Tamanho;PIZZA;60,00;59;;12/10/2023 18:24;12/10/2023 21:29;Delivery    ;Finalizado Pago 
+12/10/2023 18:24;1;60,00;60,00;Produto por tamanho;PIZZA BACON C/ OVOS GIGANTE;Produto por Tamanho;PIZZA;60,00;59;;12/10/2023 18:24;12/10/2023 21:29;Delivery    ;Finalizado Pago 
+12/10/2023 18:45;1;52,00;52,00;Produto por tamanho;PIZZA PEPPERONI  GRANDE;Produto por Tamanho;PIZZA PRÉ-ASSADA;52,00;60;;12/10/2023 18:45;12/10/2023 18:46;Delivery    ;Finalizado Fiado
+12/10/2023 18:53;1;52,00;52,00;Produto por tamanho;PIZZA 4 QUEIJOS  GRANDE;Produto por Tamanho;PIZZA PRÉ-ASSADA;52,00;61;;12/10/2023 18:46;12/10/2023 18:54;Delivery    ;Finalizado Fiado
+12/10/2023 18:53;1;52,00;52,00;Produto por tamanho;PIZZA 4 QUEIJOS  GRANDE;Produto por Tamanho;PIZZA PRÉ-ASSADA;52,00;61;;12/10/2023 18:46;12/10/2023 18:54;Delivery    ;Finalizado Fiado
+13/10/2023 22:16;1;20,00;20,00;Produto por tamanho;PIZZA PORTUGUESA BROTINHO;Produto por Tamanho;PIZZA;20,00;62;;13/10/2023 22:16;13/10/2023 22:17;Delivery    ;Finalizado Pago 
+13/10/2023 22:17;0,5;20,00;10,00;Produto fracionado;PIZZA PORTUGUESA BROTINHO;Produto por Tamanho;PIZZA;20,00;62;;13/10/2023 22:16;13/10/2023 22:17;Delivery    ;Finalizado Pago 
+13/10/2023 22:17;0,5;20,00;10,00;Produto fracionado;PIZZA CALABRESA  BROTINHO;Produto por Tamanho;PIZZA PRÉ-ASSADA;20,00;62;;13/10/2023 22:16;13/10/2023 22:17;Delivery    ;Finalizado Pago 
+14/10/2023 18:30;0,5;52,00;26,00;Produto fracionado;PIZZA 4 QUEIJOS GRANDE;Produto por Tamanho;PIZZA;52,00;63;;14/10/2023 18:25;14/10/2023 20:56;Delivery    ;Finalizado Fiado
+14/10/2023 18:30;0,5;52,00;26,00;Produto fracionado;PIZZA BACON C/ OVOS GRANDE;Produto por Tamanho;PIZZA;52,00;63;;14/10/2023 18:25;14/10/2023 20:56;Delivery    ;Finalizado Fiado
+14/10/2023 18:32;1;49,00;49,00;Produto por tamanho;PIZZA CALABRESA GRANDE;Produto por Tamanho;PIZZA;49,00;64;;14/10/2023 18:31;14/10/2023 20:56;Delivery    ;Finalizado Pago 
+14/10/2023 18:42;1;20,00;20,00;Produto por tamanho;PIZZA PORTUGUESA BROTINHO;Produto por Tamanho;PIZZA;20,00;64;;14/10/2023 18:31;14/10/2023 20:56;Delivery    ;Finalizado Pago 
+14/10/2023 18:43;0,5;49,00;24,50;Produto fracionado;PIZZA MUSSARELA GRANDE;Produto por Tamanho;PIZZA;45,00;64;;14/10/2023 18:31;14/10/2023 20:56;Delivery    ;Finalizado Pago 
+14/10/2023 18:43;0,5;49,00;24,50;Produto fracionado;PIZZA CALABRESA  GRANDE;Produto por Tamanho;PIZZA PRÉ-ASSADA;49,00;64;;14/10/2023 18:31;14/10/2023 20:56;Delivery    ;Finalizado Pago 
+14/10/2023 18:43;1;12,00;12,00;Produto;COCA-COLA ZERO 2L;Produto;BEBIDAS;12,00;64;;14/10/2023 18:31;14/10/2023 20:56;Delivery    ;Finalizado Pago 
+14/10/2023 18:43;1;2,00;2,00;Produto;CHOCOLATE BRANCO;Produto;VENENINHO;2,00;64;;14/10/2023 18:31;14/10/2023 20:56;Delivery    ;Finalizado Pago 
+14/10/2023 18:43;4;2,00;8,00;Produto;CHOCOLATE AO LEITE;Produto;VENENINHO;2,00;64;;14/10/2023 18:31;14/10/2023 20:56;Delivery    ;Finalizado Pago 
+14/10/2023 18:43;1;2,00;2,00;Produto;DOCE DE LEITE;Produto;VENENINHO;2,00;64;;14/10/2023 18:31;14/10/2023 20:56;Delivery    ;Finalizado Pago 
+14/10/2023 18:43;1;2,00;2,00;Produto;ROMEU E JULIETA;Produto;VENENINHO;2,00;64;;14/10/2023 18:31;14/10/2023 20:56;Delivery    ;Finalizado Pago 
+14/10/2023 19:40;1;52,00;52,00;Produto por tamanho;PIZZA PORTUGUESA GRANDE;Produto por Tamanho;PIZZA;52,00;65;;14/10/2023 19:37;14/10/2023 20:56;Delivery    ;Finalizado Fiado
+14/10/2023 19:42;1;20,00;20,00;Produto por tamanho;PIZZA PORTUGUESA BROTINHO;Produto por Tamanho;PIZZA;20,00;66;;14/10/2023 19:41;14/10/2023 19:42;Delivery    ;Finalizado Fiado
+14/10/2023 21:05;1;45,00;45,00;Produto por tamanho;PIZZA MARGUERITA GRANDE;Produto por Tamanho;PIZZA;45,00;67;;14/10/2023 21:00;14/10/2023 21:35;Delivery    ;Finalizado Pago 
+14/10/2023 21:05;1;20,00;20,00;Produto por tamanho;PIZZA CALABRESA BROTINHO;Produto por Tamanho;PIZZA;20,00;67;;14/10/2023 21:00;14/10/2023 21:35;Delivery    ;Finalizado Pago 
+15/10/2023 18:24;1;45,00;45,00;Produto por tamanho;PIZZA MUSSARELA  GRANDE;Produto por Tamanho;PIZZA PRÉ-ASSADA;45,00;68;;15/10/2023 18:24;15/10/2023 18:25;Delivery    ;Finalizado Fiado
+15/10/2023 18:28;20;3,65;73,00;Produto;PROD. MASSA PIZZA;Produto;PRODUCAO;3,65;69;;15/10/2023 18:28;15/10/2023 22:27;Delivery    ;Finalizado Pago 
+15/10/2023 18:40;28;3,65;102,20;Produto;PROD. MASSA PIZZA;Produto;PRODUCAO;3,65;69;;15/10/2023 18:28;15/10/2023 22:27;Delivery    ;Finalizado Pago 
+15/10/2023 18:48;1;23,39;23,39;Produto;PROD. FRANGO DESFIADO;Produto;PRODUCAO;23,39;69;;15/10/2023 18:28;15/10/2023 22:27;Delivery    ;Finalizado Pago 
+15/10/2023 19:00;1;52,00;52,00;Produto por tamanho;PIZZA MARGUERITA GIGANTE;Produto por Tamanho;PIZZA;52,00;73;;15/10/2023 19:00;15/10/2023 21:50;Delivery    ;Finalizado Pago 
+15/10/2023 19:00;1;60,00;60,00;Produto por tamanho;PIZZA PORTUGUESA GIGANTE;Produto por Tamanho;PIZZA;60,00;73;;15/10/2023 19:00;15/10/2023 21:50;Delivery    ;Finalizado Pago 
+15/10/2023 19:00;0,5;60,00;30,00;Produto fracionado;PIZZA 4 QUEIJOS GIGANTE;Produto por Tamanho;PIZZA;60,00;73;;15/10/2023 19:00;15/10/2023 21:50;Delivery    ;Finalizado Pago 
+15/10/2023 19:00;0,5;60,00;30,00;Produto fracionado;PIZZA PEITO DE PERU C/ CREAM CHEESE GIGANTE;Produto por Tamanho;PIZZA;60,00;73;;15/10/2023 19:00;15/10/2023 21:50;Delivery    ;Finalizado Pago 
+15/10/2023 19:04;5;2,00;10,00;Produto;CHOCOLATE AO LEITE;Produto;VENENINHO;2,00;73;;15/10/2023 19:00;15/10/2023 21:50;Delivery    ;Finalizado Pago 
+15/10/2023 19:04;5;2,00;10,00;Produto;CHOCOLATE BRANCO;Produto;VENENINHO;2,00;73;;15/10/2023 19:00;15/10/2023 21:50;Delivery    ;Finalizado Pago 
+15/10/2023 19:04;1;2,00;2,00;Produto;DOCE DE LEITE;Produto;VENENINHO;2,00;73;;15/10/2023 19:00;15/10/2023 21:50;Delivery    ;Finalizado Pago 
+15/10/2023 19:15;0,5;60,00;30,00;Produto fracionado;PIZZA CALABRESA GIGANTE;Produto por Tamanho;PIZZA;56,00;75;;15/10/2023 19:08;15/10/2023 21:51;Delivery    ;Finalizado Pago 
+15/10/2023 19:15;0,5;60,00;30,00;Produto fracionado;PIZZA PORTUGUESA GIGANTE;Produto por Tamanho;PIZZA;60,00;75;;15/10/2023 19:08;15/10/2023 21:51;Delivery    ;Finalizado Pago 
+15/10/2023 19:18;1;10,00;10,00;Produto;GUARANÁ MANT. 2L;Produto;BEBIDAS;10,00;75;;15/10/2023 19:08;15/10/2023 21:51;Delivery    ;Finalizado Pago 
+15/10/2023 19:19;3;6,00;18,00;Produto;AGUA C/ GÁS;Produto;BEBIDAS;6,00;75;;15/10/2023 19:08;15/10/2023 21:51;Delivery    ;Finalizado Pago 
+15/10/2023 21:10;1;8,00;8,00;Produto;GUARANÁ ANT. 1,5L;Produto;BEBIDAS;8,00;76;;15/10/2023 20:07;15/10/2023 21:12;Delivery    ;Finalizado Pago 
+15/10/2023 21:11;1;52,00;52,00;Produto por tamanho;PIZZA ALHO PORÓ GRANDE;Produto por Tamanho;PIZZA;52,00;76;;15/10/2023 20:07;15/10/2023 21:12;Delivery    ;Finalizado Pago 
+15/10/2023 21:11;1;52,00;52,00;Produto por tamanho;PIZZA PEPPERONI GRANDE;Produto por Tamanho;PIZZA;52,00;76;;15/10/2023 20:07;15/10/2023 21:12;Delivery    ;Finalizado Pago 
+15/10/2023 21:11;1;5,00;5,00;Complemento;Adicional Catupiry;Complemento;Complemento;5,00;76;;15/10/2023 20:07;15/10/2023 21:12;Delivery    ;Finalizado Pago 
+15/10/2023 21:19;1;52,00;52,00;Produto por tamanho;PIZZA BACON C/ OVOS GRANDE;Produto por Tamanho;PIZZA;52,00;77;;15/10/2023 21:12;15/10/2023 22:27;Delivery    ;Finalizado Pago 
+15/10/2023 21:19;1;20,00;20,00;Produto por tamanho;PIZZA PORTUGUESA BROTINHO;Produto por Tamanho;PIZZA;20,00;77;;15/10/2023 21:12;15/10/2023 22:27;Delivery    ;Finalizado Pago 
+15/10/2023 21:46;1;12,00;12,00;Produto;COCA-COLA ZERO 2L;Produto;BEBIDAS;12,00;73;;15/10/2023 19:00;15/10/2023 21:50;Delivery    ;Finalizado Pago 
+;227,;;5.052,59;;;;;;;;;;;
